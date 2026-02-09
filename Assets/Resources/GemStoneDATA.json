@@ -14,10 +14,11 @@
         "Dark gray",
         "Black"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "O"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "금속광택"
       ],
@@ -34,8 +35,9 @@
         "min": 0.280,
         "max": 0.280
       },
-      "polariscope": "None",
-      "polariscope_note": "불투명석",
+      "polariscope": {
+        "polariscope": [ "None"],
+        "note": "불투명석"},
       "pleochroism": "None",
       "inclusions": [
         "특징적이지 않음"
@@ -93,14 +95,15 @@
       "color": [
         "Various"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP",
         "STP",
         "TL",
         "STL",
         "O"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "아금강광택"
       ],
@@ -117,8 +120,9 @@
         "min": 0.043,
         "max": 0.043
       },
-      "polariscope": "DR",
-      "polariscope_note": "U+",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "U+"},
       "pleochroism": "Dichroism (weak)",
       "inclusions": [
         "니들",
@@ -175,14 +179,15 @@
       "color": [
         "Various"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP",
         "STP",
         "TL",
         "STL",
         "O"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "금강광택"
       ],
@@ -199,8 +204,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "SR",
-      "polariscope_note": null,
+      "polariscope": {
+        "polariscope": [ "SR"],
+        "note": null},
       "pleochroism": "None",
       "inclusions": [
         "광물 인클루전",
@@ -269,14 +275,15 @@
       "color": [
         "Various"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP",
         "STP",
         "TL",
         "STL",
         "O"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "아금강광택"
       ],
@@ -293,8 +300,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "SR",
-      "polariscope_note": null,
+      "polariscope": {
+        "polariscope": [ "SR"],
+        "note": null},
       "pleochroism": "None",
       "inclusions": [
         "무내포물",
@@ -354,11 +362,12 @@
         "Reddish brown",
         "Yellow"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP",
         "STP"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "금강광택",
         "유리광택"
@@ -401,8 +410,9 @@
         "min": 0.000,
         "max": 0.059
       },
-      "polariscope": "DR",
-      "polariscope_note": "U+",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "U+"},
       "pleochroism": "Dichroism",
       "inclusions": [
         "더블링",
@@ -462,14 +472,15 @@
         "Green",
         "Yellowish green"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP",
         "STP",
         "TL",
         "STL",
         "O"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -487,8 +498,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "SR",
-      "polariscope_note": "종종 ADR",
+      "polariscope": {
+        "polariscope": [ "SR"],
+        "note": "종종 ADR"},
       "pleochroism": "None",
       "inclusions": [
         "다양한 내포물",
@@ -555,10 +567,11 @@
         "Yellow",
         "Yellowish brown"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -576,8 +589,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "SR",
-      "polariscope_note": "종종 ADR",
+      "polariscope": {
+        "polariscope": [ "SR"],
+        "note": "종종 ADR"},
       "pleochroism": "None",
       "inclusions": [
         "이상 내포물",
@@ -640,10 +654,11 @@
       "color": [
         "Various"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -661,8 +676,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "SR",
-      "polariscope_note": null,
+      "polariscope": {
+        "polariscope": [ "SR"],
+        "note": null},
       "pleochroism": "None",
       "inclusions": [
         "무내포물",
@@ -720,11 +736,12 @@
         "Deep red",
         "Reddish brown"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP",
         "STP"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -742,8 +759,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "SR",
-      "polariscope_note": "종종 ADR",
+      "polariscope": {
+        "polariscope": [ "SR"],
+        "note": "종종 ADR"},
       "pleochroism": "None",
       "inclusions": [
         "교차 침상 내포물",
@@ -805,11 +823,12 @@
         "Deep red",
         "Reddish brown"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "STP",
         "STL"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -829,8 +848,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "DR",
-      "polariscope_note": "반투명은 AGG",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "반투명은 AGG"},
       "pleochroism": "None",
       "inclusions": [
         "교차 침상 내포물",
@@ -893,14 +913,15 @@
         "Red",
         "Pinkish red"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP",
         "STP",
         "TL",
         "STL",
         "O"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -918,8 +939,9 @@
         "min": 0.008,
         "max": 0.010
       },
-      "polariscope": "DR",
-      "polariscope_note": "U-",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "U-"},
       "pleochroism": "Dichroism",
       "inclusions": [
         "손상되지 않은 크리스털",
@@ -996,13 +1018,14 @@
         "Pinkish red",
         "Dark red"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "STP",
         "TL",
         "STL",
         "O"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -1022,8 +1045,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "DR",
-      "polariscope_note": "반투명은 AGG",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "반투명은 AGG"},
       "pleochroism": "None",
       "inclusions": [
         "루틸 실크",
@@ -1093,14 +1117,15 @@
       "color": [
         "All colors except red"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP",
         "STP",
         "TL",
         "STL",
         "O"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -1118,8 +1143,9 @@
         "min": 0.008,
         "max": 0.010
       },
-      "polariscope": "DR",
-      "polariscope_note": "U-",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "U-"},
       "pleochroism": "Dichroism",
       "inclusions": [
         "손상되지 않은 크리스털",
@@ -1186,13 +1212,14 @@
       "color": [
         "All colors except red"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "STP",
         "TL",
         "STL",
         "O"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -1212,8 +1239,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "DR",
-      "polariscope_note": "AGG 일반적",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "AGG 일반적"},
       "pleochroism": "None",
       "inclusions": [
         "루틸 침상 내포물",
@@ -1282,10 +1310,11 @@
         "Blue-violet (daylight)",
         "Pinkish red (incandescent)"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -1305,8 +1334,9 @@
         "min": 0.008,
         "max": 0.010
       },
-      "polariscope": "DR",
-      "polariscope_note": "U-",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "U-"},
       "pleochroism": "Dichroism",
       "inclusions": [
         "지문상",
@@ -1370,11 +1400,12 @@
         "Red",
         "Pinkish red"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP",
         "TL"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -1392,8 +1423,9 @@
         "min": 0.008,
         "max": 0.010
       },
-      "polariscope": "DR",
-      "polariscope_note": "U-",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "U-"},
       "pleochroism": "Dichroism",
       "inclusions": [
         "플래시 효과",
@@ -1462,13 +1494,14 @@
       "color": [
         "Blue"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP",
         "STP",
         "TL",
         "STL"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -1488,8 +1521,9 @@
         "min": 0.008,
         "max": 0.010
       },
-      "polariscope": "DR",
-      "polariscope_note": "U-",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "U-"},
       "pleochroism": "Dichroism",
       "inclusions": [
         "패싯 능선 색집중",
@@ -1549,10 +1583,11 @@
         "Red",
         "Pinkish red"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -1570,8 +1605,9 @@
         "min": 0.008,
         "max": 0.010
       },
-      "polariscope": "DR",
-      "polariscope_note": "U-",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "U-"},
       "pleochroism": "Dichroism",
       "inclusions": [
         "곡선/기포(플레임퓨전)",
@@ -1635,10 +1671,11 @@
         "Red",
         "Pinkish red"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "STL"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -1658,8 +1695,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "DR",
-      "polariscope_note": "AGG",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "AGG"},
       "pleochroism": "None",
       "inclusions": [
         "곡선",
@@ -1724,10 +1762,11 @@
       "color": [
         "All colors except red"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -1745,8 +1784,9 @@
         "min": 0.008,
         "max": 0.010
       },
-      "polariscope": "DR",
-      "polariscope_note": "U-",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "U-"},
       "pleochroism": "Dichroism",
       "inclusions": [
         "곡선 밴드/기포(플레임퓨전)",
@@ -1805,11 +1845,12 @@
       "color": [
         "All colors except red"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TL",
         "STL"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -1829,8 +1870,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "DR",
-      "polariscope_note": "AGG",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "AGG"},
       "pleochroism": "None",
       "inclusions": [
         "곡선",
@@ -1896,10 +1938,11 @@
         "Blue-violet (daylight)",
         "Pinkish red (incandescent)"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -1919,8 +1962,9 @@
         "min": 0.008,
         "max": 0.010
       },
-      "polariscope": "DR",
-      "polariscope_note": "U-",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "U-"},
       "pleochroism": "Dichroism",
       "inclusions": [
         "기포",
@@ -1986,10 +2030,11 @@
         "Purple",
         "Purplish red"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택"
       ],
@@ -2006,8 +2051,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "SR",
-      "polariscope_note": "종종 ADR",
+      "polariscope": {
+        "polariscope": [ "SR"],
+        "note": "종종 ADR"},
       "pleochroism": "None",
       "inclusions": [
         "침상 내포물",
@@ -2070,13 +2116,14 @@
         "Yellowish green",
         "Greenish yellow"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP",
         "STP",
         "TL",
         "STL"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -2094,8 +2141,9 @@
         "min": 0.008,
         "max": 0.010
       },
-      "polariscope": "DR",
-      "polariscope_note": "B+",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "B+"},
       "pleochroism": "Trichroism",
       "inclusions": [
         "지문상",
@@ -2157,10 +2205,11 @@
         "Greenish blue (daylight)",
         "Pinkish red (incandescent)"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -2180,8 +2229,9 @@
         "min": 0.008,
         "max": 0.010
       },
-      "polariscope": "DR",
-      "polariscope_note": "B+",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "B+"},
       "pleochroism": "Trichroism",
       "inclusions": [
         "지문상",
@@ -2244,12 +2294,13 @@
         "Yellowish green",
         "Yellowish brown"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "STP",
         "TL",
         "STL"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -2269,8 +2320,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "DR",
-      "polariscope_note": "AGG",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "AGG"},
       "pleochroism": "Trichroism",
       "inclusions": [
         "가는 침상",
@@ -2331,12 +2383,13 @@
         "Greenish blue (daylight)",
         "Pinkish red (incandescent)"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "STP",
         "TL",
         "STL"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택",
         "아금강광택"
@@ -2357,8 +2410,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "DR",
-      "polariscope_note": "AGG",
+      "polariscope": {
+        "polariscope": [ "DR"],
+        "note": "AGG"},
       "pleochroism": "Trichroism",
       "inclusions": [
         "가는 침상",
@@ -2421,13 +2475,14 @@
         "Red",
         "Deep red"
       ],
-      "transparency": [
+      "transparency": {
+        "transparency": [
         "TP",
         "STP",
         "TL",
         "STL"
       ],
-      "transparency_note": null,
+        "note": null},
       "lustre": [
         "유리광택"
       ],
@@ -2446,8 +2501,9 @@
         "min": 0.000,
         "max": 0.000
       },
-      "polariscope": "SR",
-      "polariscope_note": "종종 ADR",
+      "polariscope": {
+        "polariscope": [ "SR"],
+        "note": "종종 ADR"},
       "pleochroism": "None",
       "inclusions": [
         "침상",

@@ -1,12 +1,11 @@
-using UnityEngine;
 using System;
 using System.Collections.Generic;
 
 [Serializable]
 public class AbsorptionSpectrum
 {
-    [field: SerializeField] public List<string> lines;
-    [field: SerializeField] public List<string> bands;
-    [field: SerializeField] public List<string> cutoff;
-    [field: SerializeField] public string note;
+    public List<string> lines;
+    public List<string> bands;
+    public List<string> cutoff;
+    public string note;
 }

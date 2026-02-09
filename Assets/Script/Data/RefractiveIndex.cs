@@ -1,12 +1,11 @@
-using UnityEngine;
 using System;
 
 [Serializable]
 public class RefractiveIndex
 {
-    [field: SerializeField] public float min;
-    [field: SerializeField] public float max;
-    [field: SerializeField] public bool otl;
-    [field: SerializeField] public float tolerance_min;
-    [field: SerializeField] public float tolerance_max;
+    public float min;
+    public float max;
+    public bool otl;
+    public float tolerance_min;
+    public float tolerance_max;
 }

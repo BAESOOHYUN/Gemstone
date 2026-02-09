@@ -62,7 +62,6 @@ public class GemDataImporter : EditorWindow
                 crystal_system = jsonGem.crystal_system,
                 color = jsonGem.color,
                 transparency = jsonGem.transparency,
-                transparency_note = jsonGem.transparency_note,
                 lustre = jsonGem.lustre,
                 special_effects = jsonGem.special_effects,
 
@@ -71,7 +70,6 @@ public class GemDataImporter : EditorWindow
                 birefringence = jsonGem.birefringence,
 
                 polariscope = jsonGem.polariscope,
-                polariscope_note = jsonGem.polariscope_note,
                 pleochroism = jsonGem.pleochroism,
                 inclusions = jsonGem.inclusions,
 

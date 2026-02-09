@@ -25,8 +25,9 @@ MonoBehaviour:
     - Dark gray
     - Black
     transparency:
-    - O
-    transparency_note: 
+      transparency:
+      - O
+      note: 
     lustre:
     - "\uAE08\uC18D\uAD11\uD0DD"
     special_effects: []
@@ -40,8 +41,10 @@ MonoBehaviour:
     birefringence:
       min: 0.28
       max: 0.28
-    polariscope: None
-    polariscope_note: "\uBD88\uD22C\uBA85\uC11D"
+    polariscope:
+      polariscope:
+      - None
+      note: "\uBD88\uD22C\uBA85\uC11D"
     pleochroism: None
     inclusions:
     - "\uD2B9\uC9D5\uC801\uC774\uC9C0 \uC54A\uC74C"
@@ -87,12 +90,13 @@ MonoBehaviour:
     color:
     - Various
     transparency:
-    - TP
-    - STP
-    - TL
-    - STL
-    - O
-    transparency_note: 
+      transparency:
+      - TP
+      - STP
+      - TL
+      - STL
+      - O
+      note: 
     lustre:
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
     special_effects: []
@@ -106,8 +110,10 @@ MonoBehaviour:
     birefringence:
       min: 0.043
       max: 0.043
-    polariscope: DR
-    polariscope_note: U+
+    polariscope:
+      polariscope:
+      - DR
+      note: U+
     pleochroism: Dichroism (weak)
     inclusions:
     - "\uB2C8\uB4E4"
@@ -152,12 +158,13 @@ MonoBehaviour:
     color:
     - Various
     transparency:
-    - TP
-    - STP
-    - TL
-    - STL
-    - O
-    transparency_note: 
+      transparency:
+      - TP
+      - STP
+      - TL
+      - STL
+      - O
+      note: 
     lustre:
     - "\uAE08\uAC15\uAD11\uD0DD"
     special_effects: []
@@ -171,8 +178,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: SR
-    polariscope_note: 
+    polariscope:
+      polariscope:
+      - SR
+      note: 
     pleochroism: None
     inclusions:
     - "\uAD11\uBB3C \uC778\uD074\uB8E8\uC804"
@@ -228,12 +237,13 @@ MonoBehaviour:
     color:
     - Various
     transparency:
-    - TP
-    - STP
-    - TL
-    - STL
-    - O
-    transparency_note: 
+      transparency:
+      - TP
+      - STP
+      - TL
+      - STL
+      - O
+      note: 
     lustre:
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
     special_effects: []
@@ -247,8 +257,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: SR
-    polariscope_note: 
+    polariscope:
+      polariscope:
+      - SR
+      note: 
     pleochroism: None
     inclusions:
     - "\uBB34\uB0B4\uD3EC\uBB3C"
@@ -297,9 +309,10 @@ MonoBehaviour:
     - Reddish brown
     - Yellow
     transparency:
-    - TP
-    - STP
-    transparency_note: 
+      transparency:
+      - TP
+      - STP
+      note: 
     lustre:
     - "\uAE08\uAC15\uAD11\uD0DD"
     - "\uC720\uB9AC\uAD11\uD0DD"
@@ -314,26 +327,28 @@ MonoBehaviour:
     - type: high
       min: 1.925
       max: 1.984
-      otl: 1
       tolerance_min: -0.04
       tolerance_max: 0.04
+      otl: 1
     - type: medium
       min: 1.875
       max: 1.905
-      otl: 0
       tolerance_min: -0.03
       tolerance_max: 0.03
+      otl: 0
     - type: low
       min: 1.81
       max: 1.815
-      otl: 1
       tolerance_min: -0.03
       tolerance_max: 0.03
+      otl: 1
     birefringence:
       min: 0
       max: 0.059
-    polariscope: DR
-    polariscope_note: U+
+    polariscope:
+      polariscope:
+      - DR
+      note: U+
     pleochroism: Dichroism
     inclusions:
     - "\uB354\uBE14\uB9C1"
@@ -381,12 +396,13 @@ MonoBehaviour:
     - Green
     - Yellowish green
     transparency:
-    - TP
-    - STP
-    - TL
-    - STL
-    - O
-    transparency_note: 
+      transparency:
+      - TP
+      - STP
+      - TL
+      - STL
+      - O
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -401,8 +417,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: SR
-    polariscope_note: "\uC885\uC885 ADR"
+    polariscope:
+      polariscope:
+      - SR
+      note: "\uC885\uC885 ADR"
     pleochroism: None
     inclusions:
     - "\uB2E4\uC591\uD55C \uB0B4\uD3EC\uBB3C"
@@ -455,8 +473,9 @@ MonoBehaviour:
     - Yellow
     - Yellowish brown
     transparency:
-    - TP
-    transparency_note: 
+      transparency:
+      - TP
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -471,8 +490,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: SR
-    polariscope_note: "\uC885\uC885 ADR"
+    polariscope:
+      polariscope:
+      - SR
+      note: "\uC885\uC885 ADR"
     pleochroism: None
     inclusions:
     - "\uC774\uC0C1 \uB0B4\uD3EC\uBB3C"
@@ -522,8 +543,9 @@ MonoBehaviour:
     color:
     - Various
     transparency:
-    - TP
-    transparency_note: 
+      transparency:
+      - TP
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -538,8 +560,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: SR
-    polariscope_note: 
+    polariscope:
+      polariscope:
+      - SR
+      note: 
     pleochroism: None
     inclusions:
     - "\uBB34\uB0B4\uD3EC\uBB3C"
@@ -585,9 +609,10 @@ MonoBehaviour:
     - Deep red
     - Reddish brown
     transparency:
-    - TP
-    - STP
-    transparency_note: 
+      transparency:
+      - TP
+      - STP
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -602,8 +627,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: SR
-    polariscope_note: "\uC885\uC885 ADR"
+    polariscope:
+      polariscope:
+      - SR
+      note: "\uC885\uC885 ADR"
     pleochroism: None
     inclusions:
     - "\uAD50\uCC28 \uCE68\uC0C1 \uB0B4\uD3EC\uBB3C"
@@ -652,9 +679,10 @@ MonoBehaviour:
     - Deep red
     - Reddish brown
     transparency:
-    - STP
-    - STL
-    transparency_note: 
+      transparency:
+      - STP
+      - STL
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -670,8 +698,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: DR
-    polariscope_note: "\uBC18\uD22C\uBA85\uC740 AGG"
+    polariscope:
+      polariscope:
+      - DR
+      note: "\uBC18\uD22C\uBA85\uC740 AGG"
     pleochroism: None
     inclusions:
     - "\uAD50\uCC28 \uCE68\uC0C1 \uB0B4\uD3EC\uBB3C"
@@ -721,12 +751,13 @@ MonoBehaviour:
     - Red
     - Pinkish red
     transparency:
-    - TP
-    - STP
-    - TL
-    - STL
-    - O
-    transparency_note: 
+      transparency:
+      - TP
+      - STP
+      - TL
+      - STL
+      - O
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -741,8 +772,10 @@ MonoBehaviour:
     birefringence:
       min: 0.008
       max: 0.01
-    polariscope: DR
-    polariscope_note: U-
+    polariscope:
+      polariscope:
+      - DR
+      note: U-
     pleochroism: Dichroism
     inclusions:
     - "\uC190\uC0C1\uB418\uC9C0 \uC54A\uC740 \uD06C\uB9AC\uC2A4\uD138"
@@ -804,11 +837,12 @@ MonoBehaviour:
     - Pinkish red
     - Dark red
     transparency:
-    - STP
-    - TL
-    - STL
-    - O
-    transparency_note: 
+      transparency:
+      - STP
+      - TL
+      - STL
+      - O
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -824,8 +858,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: DR
-    polariscope_note: "\uBC18\uD22C\uBA85\uC740 AGG"
+    polariscope:
+      polariscope:
+      - DR
+      note: "\uBC18\uD22C\uBA85\uC740 AGG"
     pleochroism: None
     inclusions:
     - "\uB8E8\uD2F8 \uC2E4\uD06C"
@@ -881,12 +917,13 @@ MonoBehaviour:
     color:
     - All colors except red
     transparency:
-    - TP
-    - STP
-    - TL
-    - STL
-    - O
-    transparency_note: 
+      transparency:
+      - TP
+      - STP
+      - TL
+      - STL
+      - O
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -901,8 +938,10 @@ MonoBehaviour:
     birefringence:
       min: 0.008
       max: 0.01
-    polariscope: DR
-    polariscope_note: U-
+    polariscope:
+      polariscope:
+      - DR
+      note: U-
     pleochroism: Dichroism
     inclusions:
     - "\uC190\uC0C1\uB418\uC9C0 \uC54A\uC740 \uD06C\uB9AC\uC2A4\uD138"
@@ -956,11 +995,12 @@ MonoBehaviour:
     color:
     - All colors except red
     transparency:
-    - STP
-    - TL
-    - STL
-    - O
-    transparency_note: 
+      transparency:
+      - STP
+      - TL
+      - STL
+      - O
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -976,8 +1016,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: DR
-    polariscope_note: "AGG \uC77C\uBC18\uC801"
+    polariscope:
+      polariscope:
+      - DR
+      note: "AGG \uC77C\uBC18\uC801"
     pleochroism: None
     inclusions:
     - "\uB8E8\uD2F8 \uCE68\uC0C1 \uB0B4\uD3EC\uBB3C"
@@ -1032,8 +1074,9 @@ MonoBehaviour:
     - Blue-violet (daylight)
     - Pinkish red (incandescent)
     transparency:
-    - TP
-    transparency_note: 
+      transparency:
+      - TP
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -1049,8 +1092,10 @@ MonoBehaviour:
     birefringence:
       min: 0.008
       max: 0.01
-    polariscope: DR
-    polariscope_note: U-
+    polariscope:
+      polariscope:
+      - DR
+      note: U-
     pleochroism: Dichroism
     inclusions:
     - "\uC9C0\uBB38\uC0C1"
@@ -1101,9 +1146,10 @@ MonoBehaviour:
     - Red
     - Pinkish red
     transparency:
-    - TP
-    - TL
-    transparency_note: 
+      transparency:
+      - TP
+      - TL
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -1118,8 +1164,10 @@ MonoBehaviour:
     birefringence:
       min: 0.008
       max: 0.01
-    polariscope: DR
-    polariscope_note: U-
+    polariscope:
+      polariscope:
+      - DR
+      note: U-
     pleochroism: Dichroism
     inclusions:
     - "\uD50C\uB798\uC2DC \uD6A8\uACFC"
@@ -1173,11 +1221,12 @@ MonoBehaviour:
     color:
     - Blue
     transparency:
-    - TP
-    - STP
-    - TL
-    - STL
-    transparency_note: 
+      transparency:
+      - TP
+      - STP
+      - TL
+      - STL
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -1193,8 +1242,10 @@ MonoBehaviour:
     birefringence:
       min: 0.008
       max: 0.01
-    polariscope: DR
-    polariscope_note: U-
+    polariscope:
+      polariscope:
+      - DR
+      note: U-
     pleochroism: Dichroism
     inclusions:
     - "\uD328\uC2EF \uB2A5\uC120 \uC0C9\uC9D1\uC911"
@@ -1241,8 +1292,9 @@ MonoBehaviour:
     - Red
     - Pinkish red
     transparency:
-    - TP
-    transparency_note: 
+      transparency:
+      - TP
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -1257,8 +1309,10 @@ MonoBehaviour:
     birefringence:
       min: 0.008
       max: 0.01
-    polariscope: DR
-    polariscope_note: U-
+    polariscope:
+      polariscope:
+      - DR
+      note: U-
     pleochroism: Dichroism
     inclusions:
     - "\uACE1\uC120/\uAE30\uD3EC(\uD50C\uB808\uC784\uD4E8\uC804)"
@@ -1308,8 +1362,9 @@ MonoBehaviour:
     - Red
     - Pinkish red
     transparency:
-    - STL
-    transparency_note: 
+      transparency:
+      - STL
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -1325,8 +1380,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: DR
-    polariscope_note: AGG
+    polariscope:
+      polariscope:
+      - DR
+      note: AGG
     pleochroism: None
     inclusions:
     - "\uACE1\uC120"
@@ -1377,8 +1434,9 @@ MonoBehaviour:
     color:
     - All colors except red
     transparency:
-    - TP
-    transparency_note: 
+      transparency:
+      - TP
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -1393,8 +1451,10 @@ MonoBehaviour:
     birefringence:
       min: 0.008
       max: 0.01
-    polariscope: DR
-    polariscope_note: U-
+    polariscope:
+      polariscope:
+      - DR
+      note: U-
     pleochroism: Dichroism
     inclusions:
     - "\uACE1\uC120 \uBC34\uB4DC/\uAE30\uD3EC(\uD50C\uB808\uC784\uD4E8\uC804)"
@@ -1441,9 +1501,10 @@ MonoBehaviour:
     color:
     - All colors except red
     transparency:
-    - TL
-    - STL
-    transparency_note: 
+      transparency:
+      - TL
+      - STL
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -1459,8 +1520,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: DR
-    polariscope_note: AGG
+    polariscope:
+      polariscope:
+      - DR
+      note: AGG
     pleochroism: None
     inclusions:
     - "\uACE1\uC120"
@@ -1513,8 +1576,9 @@ MonoBehaviour:
     - Blue-violet (daylight)
     - Pinkish red (incandescent)
     transparency:
-    - TP
-    transparency_note: 
+      transparency:
+      - TP
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -1530,8 +1594,10 @@ MonoBehaviour:
     birefringence:
       min: 0.008
       max: 0.01
-    polariscope: DR
-    polariscope_note: U-
+    polariscope:
+      polariscope:
+      - DR
+      note: U-
     pleochroism: Dichroism
     inclusions:
     - "\uAE30\uD3EC"
@@ -1582,8 +1648,9 @@ MonoBehaviour:
     - Purple
     - Purplish red
     transparency:
-    - TP
-    transparency_note: 
+      transparency:
+      - TP
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     special_effects: []
@@ -1597,8 +1664,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: SR
-    polariscope_note: "\uC885\uC885 ADR"
+    polariscope:
+      polariscope:
+      - SR
+      note: "\uC885\uC885 ADR"
     pleochroism: None
     inclusions:
     - "\uCE68\uC0C1 \uB0B4\uD3EC\uBB3C"
@@ -1648,11 +1717,12 @@ MonoBehaviour:
     - Yellowish green
     - Greenish yellow
     transparency:
-    - TP
-    - STP
-    - TL
-    - STL
-    transparency_note: 
+      transparency:
+      - TP
+      - STP
+      - TL
+      - STL
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -1667,8 +1737,10 @@ MonoBehaviour:
     birefringence:
       min: 0.008
       max: 0.01
-    polariscope: DR
-    polariscope_note: B+
+    polariscope:
+      polariscope:
+      - DR
+      note: B+
     pleochroism: Trichroism
     inclusions:
     - "\uC9C0\uBB38\uC0C1"
@@ -1717,8 +1789,9 @@ MonoBehaviour:
     - Greenish blue (daylight)
     - Pinkish red (incandescent)
     transparency:
-    - TP
-    transparency_note: 
+      transparency:
+      - TP
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -1734,8 +1807,10 @@ MonoBehaviour:
     birefringence:
       min: 0.008
       max: 0.01
-    polariscope: DR
-    polariscope_note: B+
+    polariscope:
+      polariscope:
+      - DR
+      note: B+
     pleochroism: Trichroism
     inclusions:
     - "\uC9C0\uBB38\uC0C1"
@@ -1787,10 +1862,11 @@ MonoBehaviour:
     - Yellowish green
     - Yellowish brown
     transparency:
-    - STP
-    - TL
-    - STL
-    transparency_note: 
+      transparency:
+      - STP
+      - TL
+      - STL
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -1806,8 +1882,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: DR
-    polariscope_note: AGG
+    polariscope:
+      polariscope:
+      - DR
+      note: AGG
     pleochroism: Trichroism
     inclusions:
     - "\uAC00\uB294 \uCE68\uC0C1"
@@ -1855,10 +1933,11 @@ MonoBehaviour:
     - Greenish blue (daylight)
     - Pinkish red (incandescent)
     transparency:
-    - STP
-    - TL
-    - STL
-    transparency_note: 
+      transparency:
+      - STP
+      - TL
+      - STL
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     - "\uC544\uAE08\uAC15\uAD11\uD0DD"
@@ -1875,8 +1954,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: DR
-    polariscope_note: AGG
+    polariscope:
+      polariscope:
+      - DR
+      note: AGG
     pleochroism: Trichroism
     inclusions:
     - "\uAC00\uB294 \uCE68\uC0C1"
@@ -1927,11 +2008,12 @@ MonoBehaviour:
     - Red
     - Deep red
     transparency:
-    - TP
-    - STP
-    - TL
-    - STL
-    transparency_note: 
+      transparency:
+      - TP
+      - STP
+      - TL
+      - STL
+      note: 
     lustre:
     - "\uC720\uB9AC\uAD11\uD0DD"
     special_effects:
@@ -1946,8 +2028,10 @@ MonoBehaviour:
     birefringence:
       min: 0
       max: 0
-    polariscope: SR
-    polariscope_note: "\uC885\uC885 ADR"
+    polariscope:
+      polariscope:
+      - SR
+      note: "\uC885\uC885 ADR"
     pleochroism: None
     inclusions:
     - "\uCE68\uC0C1"
