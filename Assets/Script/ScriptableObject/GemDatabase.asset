@@ -1,0 +1,1987 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0e0a0dd9a879d5e41881299446f0d477, type: 3}
+  m_Name: GemDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::GemDatabase
+  gems:
+  - id: 1
+    korean_name: "\uD5E4\uB9C8\uD0C0\uC774\uD2B8"
+    english_name: Hematite
+    category: hematite
+    group: 
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - Dark gray
+    - Black
+    transparency:
+    - O
+    transparency_note: 
+    lustre:
+    - "\uAE08\uC18D\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 2.94
+      max: 3.22
+      otl: 1
+      tolerance_min: -0.07
+      tolerance_max: 0
+    ri_subtypes: []
+    birefringence:
+      min: 0.28
+      max: 0.28
+    polariscope: None
+    polariscope_note: "\uBD88\uD22C\uBA85\uC11D"
+    pleochroism: None
+    inclusions:
+    - "\uD2B9\uC9D5\uC801\uC774\uC9C0 \uC54A\uC74C"
+    absorption_spectrum:
+      lines: []
+      bands: []
+      cutoff: []
+      note: "\uD2B9\uC9D5\uC801\uC774\uC9C0 \uC54A\uC74C"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        color: 
+      SW:
+        intensity:
+        - None
+        color: 
+      note: 
+    specific_gravity:
+      value: 5.2
+      tolerance_min: -0.25
+      tolerance_max: 0.08
+    cleavage_fracture:
+    - "\uBAA9\uC1C4\uC0C1"
+    - "\uC785\uC0C1"
+    - "\uC544\uD328\uAC01\uC0C1"
+    hardness:
+      min: 5.5
+      max: 6.5
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uAE08\uC18D\uAD11\uD0DD\uACFC \uB192\uC740 \uC911\uB7C9\uAC10, \uC870\uD754\uAC80\uC0AC
+      \uC801\uAC08\uC0C9, \uBAA8\uC870\uB294 \uD751\uC0C9."
+  - id: 2
+    korean_name: "\uD569\uC131 \uBAA8\uC774\uC0AC\uB098\uC774\uD2B8"
+    english_name: Synthetic Moissanite
+    category: moissanite
+    group: 
+    crystal_system:
+    - "\uC721\uBC29\uC815\uACC4"
+    - "\uC0BC\uBC29\uC815\uACC4"
+    color:
+    - Various
+    transparency:
+    - TP
+    - STP
+    - TL
+    - STL
+    - O
+    transparency_note: 
+    lustre:
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 2.648
+      max: 2.691
+      otl: 1
+      tolerance_min: 0
+      tolerance_max: 0
+    ri_subtypes: []
+    birefringence:
+      min: 0.043
+      max: 0.043
+    polariscope: DR
+    polariscope_note: U+
+    pleochroism: Dichroism (weak)
+    inclusions:
+    - "\uB2C8\uB4E4"
+    - "\uB354\uBE14\uB9C1"
+    absorption_spectrum:
+      lines: []
+      bands: []
+      cutoff: []
+      note: "\uB2C8\uB4E4"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        - Faint
+        color: Orange
+      SW:
+        intensity:
+        - None
+        color: 
+      note: 
+    specific_gravity:
+      value: 3.22
+      tolerance_min: -0.02
+      tolerance_max: 0.01
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9.3
+      max: 9.3
+    is_synthetic: 1
+    is_treated: 0
+    treatment_types: []
+    comment: "\uB2E4\uC774\uC544\uBAAC\uB4DC\uC640 \uAC00\uC7A5 \uD63C\uB3D9, \uB354\uBE14\uB9C1\uACFC
+      \uB0AE\uC740 SG\uB85C \uAD6C\uBCC4."
+  - id: 3
+    korean_name: "\uB2E4\uC774\uC544\uBAAC\uB4DC"
+    english_name: Diamond
+    category: diamond
+    group: 
+    crystal_system:
+    - "\uB4F1\uCD95\uC815\uACC4"
+    color:
+    - Various
+    transparency:
+    - TP
+    - STP
+    - TL
+    - STL
+    - O
+    transparency_note: 
+    lustre:
+    - "\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 2.417
+      max: 2.417
+      otl: 1
+      tolerance_min: 0
+      tolerance_max: 0
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: SR
+    polariscope_note: 
+    pleochroism: None
+    inclusions:
+    - "\uAD11\uBB3C \uC778\uD074\uB8E8\uC804"
+    - "\uD504\uB799\uCC98\uC640 \uD074\uB9AC\uBE44\uC9C0"
+    - "\uB0B4\uCD94\uB7F4"
+    absorption_spectrum:
+      lines:
+      - 415.5nm cape line
+      - 435nm
+      - 451nm
+      - 463nm
+      - 478nm
+      bands: []
+      cutoff: []
+      note: "near-colorless\uC640 yellow \uB2E4\uC774\uC544\uBAAC\uB4DC"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        - Faint
+        - Medium
+        - Strong
+        color: Blue
+      SW:
+        intensity:
+        - None
+        - Faint
+        - Medium
+        color: Blue
+      note: "\uC7A5\uD30C\uAC00 \uB2E8\uD30C\uBCF4\uB2E4 \uAC15\uD568"
+    specific_gravity:
+      value: 3.52
+      tolerance_min: -0.01
+      tolerance_max: 0.01
+    cleavage_fracture:
+    - "\uACC4\uB2E8\uC0C1"
+    - "4\uBC29\uD5A5 \uC644\uC804"
+    hardness:
+      min: 10
+      max: 10
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uCC9C\uC5F0/\uD569\uC131 \uAD6C\uBCC4\uC5D0 \uD655\uB300, \uD615\uAD11,
+      \uC2A4\uD399\uD2B8\uB7FC \uAC80\uC0AC \uD544\uC694."
+  - id: 4
+    korean_name: "\uD569\uC131 \uD050\uBE45 \uC9C0\uB974\uCF54\uB2C8\uC544"
+    english_name: Synthetic Cubic Zirconia
+    category: cubic_zirconia
+    group: 
+    crystal_system:
+    - "\uB4F1\uCD95\uC815\uACC4"
+    color:
+    - Various
+    transparency:
+    - TP
+    - STP
+    - TL
+    - STL
+    - O
+    transparency_note: 
+    lustre:
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 2.15
+      max: 2.15
+      otl: 1
+      tolerance_min: 0.3
+      tolerance_max: 0
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: SR
+    polariscope_note: 
+    pleochroism: None
+    inclusions:
+    - "\uBB34\uB0B4\uD3EC\uBB3C"
+    - "\uAE30\uD3EC"
+    absorption_spectrum:
+      lines: []
+      bands: []
+      cutoff: []
+      note: "\uD2B9\uC9D5\uC801\uC774\uC9C0 \uC54A\uC74C"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        - Faint
+        color: Orange
+      SW:
+        intensity:
+        - None
+        color: 
+      note: "\uC7A5\uD30C\uC5D0\uC11C \uBC18\uC751"
+    specific_gravity:
+      value: 0
+      tolerance_min: 0
+      tolerance_max: 0
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 8.5
+      max: 8.5
+    is_synthetic: 1
+    is_treated: 0
+    treatment_types: []
+    comment: "1970\uB144\uB300\uBD80\uD130 \uB2E4\uC774\uC544\uBAAC\uB4DC \uC720\uC0AC\uC11D\uC73C\uB85C
+      \uB110\uB9AC \uC0AC\uC6A9, \uB192\uC740 SG."
+  - id: 5
+    korean_name: "\uC9C0\uB974\uCF58"
+    english_name: Zircon
+    category: zircon
+    group: 
+    crystal_system:
+    - "\uC815\uBC29\uC815\uACC4"
+    color:
+    - Blue
+    - Colorless
+    - Green
+    - Reddish brown
+    - Yellow
+    transparency:
+    - TP
+    - STP
+    transparency_note: 
+    lustre:
+    - "\uAE08\uAC15\uAD11\uD0DD"
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 1.81
+      max: 1.984
+      otl: 1
+      tolerance_min: -0.04
+      tolerance_max: 0.04
+    ri_subtypes:
+    - type: high
+      min: 1.925
+      max: 1.984
+      otl: 1
+      tolerance_min: -0.04
+      tolerance_max: 0.04
+    - type: medium
+      min: 1.875
+      max: 1.905
+      otl: 0
+      tolerance_min: -0.03
+      tolerance_max: 0.03
+    - type: low
+      min: 1.81
+      max: 1.815
+      otl: 1
+      tolerance_min: -0.03
+      tolerance_max: 0.03
+    birefringence:
+      min: 0
+      max: 0.059
+    polariscope: DR
+    polariscope_note: U+
+    pleochroism: Dichroism
+    inclusions:
+    - "\uB354\uBE14\uB9C1"
+    - "\uC561\uCCB4 \uB0B4\uD3EC\uBB3C"
+    - "\uC131\uC7A5\uC120"
+    absorption_spectrum:
+      lines:
+      - 653.5nm
+      bands: []
+      cutoff: []
+      note: 
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        - Medium
+        color: Blue
+      SW:
+        intensity:
+        - None
+        color: 
+      note: "\uCCAD\uC0C9 \uC9C0\uB974\uCF58"
+    specific_gravity:
+      value: 0
+      tolerance_min: 0
+      tolerance_max: 0
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 6
+      max: 7.5
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uACE0\uC628\uD615/\uC911\uAC04\uD615/\uC800\uC628\uD615 3\uD0C0\uC785,
+      \uAC15\uD55C \uB354\uBE14\uB9C1\uACFC 653.5nm \uC120\uBA85\uD55C \uC2A4\uD399\uD2B8\uB7FC."
+  - id: 6
+    korean_name: "\uB370\uB9CC\uD1A0\uC774\uB4DC"
+    english_name: Demantoid
+    category: andradite
+    group: garnet
+    crystal_system:
+    - "\uB4F1\uCD95\uC815\uACC4"
+    color:
+    - Green
+    - Yellowish green
+    transparency:
+    - TP
+    - STP
+    - TL
+    - STL
+    - O
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 1.888
+      max: 1.888
+      otl: 1
+      tolerance_min: -0.033
+      tolerance_max: 0.007
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: SR
+    polariscope_note: "\uC885\uC885 ADR"
+    pleochroism: None
+    inclusions:
+    - "\uB2E4\uC591\uD55C \uB0B4\uD3EC\uBB3C"
+    - "\uB9D0\uAF2C\uB9AC\uC0C1 \uB0B4\uD3EC\uBB3C"
+    absorption_spectrum:
+      lines:
+      - 620nm
+      - 632nm
+      - 693nm
+      bands:
+      - 443nm
+      cutoff:
+      - "443nm \uC774\uD558"
+      note: "\uC120\uBA85\uD55C \uB179\uC0C9: \uB77C\uC778, \uB179\uD669\uC0C9: 443nm
+        \uBC34\uB4DC"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        color: 
+      SW:
+        intensity:
+        - None
+        color: 
+      note: "\uBB34\uBC18\uC751"
+    specific_gravity:
+      value: 3.84
+      tolerance_min: -0.03
+      tolerance_max: 0.03
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    - "\uBD88\uADE0\uC77C\uC0C1"
+    hardness:
+      min: 6.5
+      max: 7
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uAC00\uB2DB\uACC4 \uB370\uB9CC\uD1A0\uC774\uB4DC, \uB9D0\uAF2C\uB9AC\uC0C1
+      \uB0B4\uD3EC\uBB3C\uACFC 443nm \uCEF7\uC624\uD504\uB85C \uAD6C\uBCC4."
+  - id: 7
+    korean_name: "\uC2A4\uD398\uC0AC\uB974\uD0C0\uC774\uD2B8 \uAC00\uB2DB"
+    english_name: Spessartite Garnet
+    category: spessartite
+    group: garnet
+    crystal_system:
+    - "\uB4F1\uCD95\uC815\uACC4"
+    color:
+    - Orange
+    - Yellow
+    - Yellowish brown
+    transparency:
+    - TP
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 1.81
+      max: 1.81
+      otl: 1
+      tolerance_min: -0.02
+      tolerance_max: 0.004
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: SR
+    polariscope_note: "\uC885\uC885 ADR"
+    pleochroism: None
+    inclusions:
+    - "\uC774\uC0C1 \uB0B4\uD3EC\uBB3C"
+    - "\uD398\uB354\uC640 \uAC19\uC740 \uC561\uCCB4 \uB0B4\uD3EC\uBB3C"
+    absorption_spectrum:
+      lines: []
+      bands:
+      - 412nm
+      - 424nm
+      - 432nm
+      - 505nm
+      - 527nm
+      - 575nm
+      cutoff: []
+      note: "\uB9DD\uAC04 \uAD00\uB828(412,424,432), \uCCA0 \uAD00\uB828(505,527,575)"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        color: 
+      SW:
+        intensity:
+        - None
+        color: 
+      note: "\uBB34\uBC18\uC751"
+    specific_gravity:
+      value: 4.15
+      tolerance_min: -0.03
+      tolerance_max: 0.05
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 7
+      max: 7.5
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uC624\uB80C\uC9C0\uC0C9 \uAC00\uB2DB, Mn/Fe \uAD00\uB828 \uC2A4\uD399\uD2B8\uB7FC\uC73C\uB85C
+      \uC624\uB80C\uC9C0\uC0C9 \uAC00\uB2DB \uAC10\uBCC4."
+  - id: 8
+    korean_name: "YAG(\uC774\uD2B8\uB968 \uC54C\uB8E8\uBBF8\uB284 \uAC00\uB2DB)"
+    english_name: YAG (Yttrium Aluminum Garnet)
+    category: yag
+    group: 
+    crystal_system:
+    - "\uB4F1\uCD95\uC815\uACC4"
+    color:
+    - Various
+    transparency:
+    - TP
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 1.833
+      max: 1.833
+      otl: 1
+      tolerance_min: -0.01
+      tolerance_max: 0.01
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: SR
+    polariscope_note: 
+    pleochroism: None
+    inclusions:
+    - "\uBB34\uB0B4\uD3EC\uBB3C"
+    - "\uAE30\uD3EC"
+    absorption_spectrum:
+      lines: []
+      bands: []
+      cutoff: []
+      note: "\uD2B9\uC9D5\uC801\uC774\uC9C0 \uC54A\uC74C"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        color: 
+      SW:
+        intensity:
+        - None
+        color: 
+      note: "\uC77C\uBC18\uC801\uC73C\uB85C \uBB34\uBC18\uC751"
+    specific_gravity:
+      value: 4.55
+      tolerance_min: -0.05
+      tolerance_max: 0.05
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    - "\uBD88\uADE0\uC77C\uC0C1"
+    hardness:
+      min: 8.3
+      max: 8.3
+    is_synthetic: 1
+    is_treated: 0
+    treatment_types: []
+    comment: "\uCC9C\uC5F0 \uB300\uC751\uC11D \uC5C6\uC74C, \uAE30\uD3EC\uC640 \uB192\uC740
+      \uACBD\uB3C4\uB85C \uAC10\uBCC4."
+  - id: 9
+    korean_name: "\uC54C\uB9CC\uB2E4\uC774\uD2B8 \uAC00\uB2DB"
+    english_name: Almandite Garnet
+    category: almandite
+    group: garnet
+    crystal_system:
+    - "\uB4F1\uCD95\uC815\uACC4"
+    color:
+    - Deep red
+    - Reddish brown
+    transparency:
+    - TP
+    - STP
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 1.79
+      max: 1.79
+      otl: 1
+      tolerance_min: -0.3
+      tolerance_max: 0.3
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: SR
+    polariscope_note: "\uC885\uC885 ADR"
+    pleochroism: None
+    inclusions:
+    - "\uAD50\uCC28 \uCE68\uC0C1 \uB0B4\uD3EC\uBB3C"
+    - "\uD06C\uB9AC\uC2A4\uD138"
+    - "\uC9C0\uB974\uCF58 \uD5E4\uC77C\uB85C"
+    absorption_spectrum:
+      lines: []
+      bands:
+      - 505nm
+      - 527nm
+      - 575nm
+      cutoff: []
+      note: "\uCCA0 \uAD00\uB828 \uBC34\uB4DC"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        color: 
+      SW:
+        intensity:
+        - None
+        color: 
+      note: "\uBB34\uBC18\uC751"
+    specific_gravity:
+      value: 4.05
+      tolerance_min: -0.12
+      tolerance_max: 0.25
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 7
+      max: 7.5
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uC554\uC801\uC0C9 \uAC00\uB2DB, 70\xB0/110\xB0 \uCE68\uC0C1 \uB0B4\uD3EC\uBB3C\uACFC
+      \uCCA0 \uC2A4\uD399\uD2B8\uB7FC."
+  - id: 10
+    korean_name: "\uC2A4\uD0C0 \uC54C\uB9CC\uB2E4\uC774\uD2B8 \uAC00\uB2DB"
+    english_name: Star Almandite Garnet
+    category: star_almandite
+    group: garnet
+    crystal_system:
+    - "\uB4F1\uCD95\uC815\uACC4"
+    color:
+    - Deep red
+    - Reddish brown
+    transparency:
+    - STP
+    - STL
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects:
+    - A
+    refractive_index:
+      min: 1.76
+      max: 1.76
+      otl: 1
+      tolerance_min: -0.3
+      tolerance_max: 0.3
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: DR
+    polariscope_note: "\uBC18\uD22C\uBA85\uC740 AGG"
+    pleochroism: None
+    inclusions:
+    - "\uAD50\uCC28 \uCE68\uC0C1 \uB0B4\uD3EC\uBB3C"
+    - "\uD06C\uB9AC\uC2A4\uD138"
+    - "\uC9C0\uB974\uCF58 \uD5E4\uC77C\uB85C"
+    absorption_spectrum:
+      lines: []
+      bands:
+      - 505nm
+      - 527nm
+      - 575nm
+      cutoff: []
+      note: "\uCCA0 \uAD00\uB828 \uBC34\uB4DC"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        color: 
+      SW:
+        intensity:
+        - None
+        color: 
+      note: "\uBB34\uBC18\uC751"
+    specific_gravity:
+      value: 4.05
+      tolerance_min: -0.12
+      tolerance_max: 0.25
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 7
+      max: 7.5
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uC2A4\uD0C0 \uD6A8\uACFC \uC54C\uB9CC\uB2E4\uC774\uD2B8, \uBC18\uD22C\uBA85
+      \uC11D."
+  - id: 11
+    korean_name: "\uB8E8\uBE44"
+    english_name: Ruby
+    category: corundum
+    group: 
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - Red
+    - Pinkish red
+    transparency:
+    - TP
+    - STP
+    - TL
+    - STL
+    - O
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 1.762
+      max: 1.77
+      otl: 1
+      tolerance_min: -0.005
+      tolerance_max: 0.009
+    ri_subtypes: []
+    birefringence:
+      min: 0.008
+      max: 0.01
+    polariscope: DR
+    polariscope_note: U-
+    pleochroism: Dichroism
+    inclusions:
+    - "\uC190\uC0C1\uB418\uC9C0 \uC54A\uC740 \uD06C\uB9AC\uC2A4\uD138"
+    - "\uCE68\uC0C1 \uB0B4\uD3EC\uBB3C"
+    - "\uB124\uAC70\uD2F0\uBE0C \uD06C\uB9AC\uC2A4\uD138"
+    - "\uC774\uC0C1 \uB0B4\uD3EC\uBB3C"
+    - "\uC9C0\uBB38\uC0C1 \uB0B4\uD3EC\uBB3C"
+    - "\uCEEC\uB7EC \uBC34\uB4DC"
+    absorption_spectrum:
+      lines:
+      - 659nm
+      - 668nm
+      - 693nm
+      - 468nm
+      - 476nm
+      bands:
+      - 500-610nm
+      cutoff:
+      - "460nm \uBD80\uADFC"
+      note: "\uD06C\uB86C \uAD00\uB828"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - Faint
+        - Medium
+        - Strong
+        color: Red
+      SW:
+        intensity:
+        - Faint
+        - Medium
+        - Strong
+        color: Red
+      note: "\uC5F4\uCC98\uB9AC\uC11D\uC740 chalky \uD615\uAD11"
+    specific_gravity:
+      value: 4
+      tolerance_min: -0.05
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9
+      max: 9
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uCC9C\uC5F0 \uB8E8\uBE44\uB294 \uCE68\uC0C1/\uD06C\uB9AC\uC2A4\uD138
+      \uB0B4\uD3EC\uBB3C, \uD569\uC131\uC740 \uD655\uB300\uAC80\uC0AC\uB85C \uAD6C\uBCC4."
+  - id: 12
+    korean_name: "\uC2A4\uD0C0 \uB8E8\uBE44"
+    english_name: Star Ruby
+    category: corundum
+    group: 
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - Red
+    - Pinkish red
+    - Dark red
+    transparency:
+    - STP
+    - TL
+    - STL
+    - O
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects:
+    - A
+    refractive_index:
+      min: 1.76
+      max: 1.76
+      otl: 1
+      tolerance_min: 0
+      tolerance_max: 0
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: DR
+    polariscope_note: "\uBC18\uD22C\uBA85\uC740 AGG"
+    pleochroism: None
+    inclusions:
+    - "\uB8E8\uD2F8 \uC2E4\uD06C"
+    - "\uC131\uC7A5 \uB77C\uC778"
+    - "\uD06C\uB9AC\uC2A4\uD138"
+    absorption_spectrum:
+      lines:
+      - 659nm
+      - 668nm
+      - 693nm
+      bands:
+      - 500-610nm
+      cutoff: []
+      note: "\uD06C\uB86C \uAD00\uB828"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        - Faint
+        - Medium
+        - Strong
+        color: Red
+      SW:
+        intensity:
+        - None
+        - Faint
+        - Medium
+        - Strong
+        color: Red
+      note: 
+    specific_gravity:
+      value: 4
+      tolerance_min: -0.05
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9
+      max: 9
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "60\xB0/120\xB0 \uB8E8\uD2F8 \uC2E4\uD06C\uB85C \uC2A4\uD0C0 \uD6A8\uACFC,
+      \uCEEC\uB7EC \uBC94\uC704 \uB113\uC74C."
+  - id: 13
+    korean_name: "\uC0AC\uD30C\uC774\uC5B4"
+    english_name: Sapphire
+    category: corundum
+    group: 
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - All colors except red
+    transparency:
+    - TP
+    - STP
+    - TL
+    - STL
+    - O
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 1.762
+      max: 1.77
+      otl: 1
+      tolerance_min: -0.005
+      tolerance_max: 0.009
+    ri_subtypes: []
+    birefringence:
+      min: 0.008
+      max: 0.01
+    polariscope: DR
+    polariscope_note: U-
+    pleochroism: Dichroism
+    inclusions:
+    - "\uC190\uC0C1\uB418\uC9C0 \uC54A\uC740 \uD06C\uB9AC\uC2A4\uD138"
+    - "\uCE68\uC0C1 \uB0B4\uD3EC\uBB3C"
+    - "\uB124\uAC70\uD2F0\uBE0C \uD06C\uB9AC\uC2A4\uD138"
+    - "\uC774\uC0C1 \uB0B4\uD3EC\uBB3C"
+    - "\uC9C0\uBB38\uC0C1 \uB0B4\uD3EC\uBB3C"
+    - "\uCEEC\uB7EC \uBC34\uB4DC"
+    absorption_spectrum:
+      lines:
+      - 450nm
+      - 460nm
+      - 471nm
+      bands: []
+      cutoff: []
+      note: "\uCCAD\uC0C9 \uC0AC\uD30C\uC774\uC5B4 \uCCA0 \uAD00\uB828"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        - Faint
+        color: Red-Orange
+      SW:
+        intensity:
+        - None
+        - Faint
+        color: Chalky blue/Greenish
+      note: "\uC5F4\uCC98\uB9AC\uC11D\uC740 chalky \uCCAD\uC0C9"
+    specific_gravity:
+      value: 4
+      tolerance_min: -0.05
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9
+      max: 9
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uCCA0 \uC2A4\uD399\uD2B8\uB7FC(450/460/471nm), \uC5F4\uCC98\uB9AC
+      \uD754\uC801 \uD655\uB300\uAC80\uC0AC."
+  - id: 14
+    korean_name: "\uC2A4\uD0C0 \uC0AC\uD30C\uC774\uC5B4"
+    english_name: Star Sapphire
+    category: corundum
+    group: 
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - All colors except red
+    transparency:
+    - STP
+    - TL
+    - STL
+    - O
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects:
+    - A
+    refractive_index:
+      min: 1.76
+      max: 1.76
+      otl: 1
+      tolerance_min: 0
+      tolerance_max: 0
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: DR
+    polariscope_note: "AGG \uC77C\uBC18\uC801"
+    pleochroism: None
+    inclusions:
+    - "\uB8E8\uD2F8 \uCE68\uC0C1 \uB0B4\uD3EC\uBB3C"
+    - "\uC131\uC7A5 \uB77C\uC778"
+    - "\uD06C\uB9AC\uC2A4\uD138"
+    absorption_spectrum:
+      lines:
+      - 450nm
+      - 460nm
+      - 471nm
+      bands: []
+      cutoff: []
+      note: "\uBE14\uB8E8/\uADF8\uB9B0 \uC0AC\uD30C\uC774\uC5B4"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        - Faint
+        - Medium
+        - Strong
+        color: Red
+      SW:
+        intensity:
+        - None
+        - Faint
+        - Medium
+        - Strong
+        color: Red
+      note: "\uC2A4\uB9AC\uB791\uCE74\uC0B0 \uAC15\uD55C \uC801\uC0C9"
+    specific_gravity:
+      value: 4
+      tolerance_min: -0.05
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9
+      max: 9
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uB8E8\uD2F8 \uC2E4\uD06C 60\xB0 \uAD50\uCC28\uB85C \uC2A4\uD0C0 \uD6A8\uACFC."
+  - id: 15
+    korean_name: "\uCEEC\uB7EC \uCCB4\uC778\uC9C0 \uC0AC\uD30C\uC774\uC5B4"
+    english_name: Color Change Sapphire
+    category: corundum
+    group: 
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - Blue-violet (daylight)
+    - Pinkish red (incandescent)
+    transparency:
+    - TP
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects:
+    - CC
+    refractive_index:
+      min: 1.762
+      max: 1.77
+      otl: 1
+      tolerance_min: -0.005
+      tolerance_max: 0.009
+    ri_subtypes: []
+    birefringence:
+      min: 0.008
+      max: 0.01
+    polariscope: DR
+    polariscope_note: U-
+    pleochroism: Dichroism
+    inclusions:
+    - "\uC9C0\uBB38\uC0C1"
+    - "\uC774\uC0C1 \uB0B4\uD3EC\uBB3C"
+    - "\uD06C\uB9AC\uC2A4\uD138"
+    - "\uCE68\uC0C1 \uB0B4\uD3EC\uBB3C"
+    absorption_spectrum:
+      lines:
+      - 450nm
+      - 460nm
+      - 470nm
+      bands: []
+      cutoff: []
+      note: "\uD06C\uB86C+\uCCA0 \uAD00\uB828"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        color: 
+      SW:
+        intensity:
+        - None
+        color: 
+      note: "\uC77C\uBC18\uC801\uC73C\uB85C \uBB34\uBC18\uC751"
+    specific_gravity:
+      value: 4
+      tolerance_min: -0.05
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9
+      max: 9
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uB2E4\uC591\uD55C \uC870\uBA85\uC5D0 \uB530\uB978 \uC0C9\uC0C1 \uBCC0\uD654(CC)
+      \uAD00\uCC30 \uC911\uC694."
+  - id: 16
+    korean_name: "\uD568\uCE68 \uB8E8\uBE44"
+    english_name: Lead Glass Filled Ruby
+    category: corundum
+    group: 
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - Red
+    - Pinkish red
+    transparency:
+    - TP
+    - TL
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 1.762
+      max: 1.77
+      otl: 1
+      tolerance_min: -0.005
+      tolerance_max: 0.009
+    ri_subtypes: []
+    birefringence:
+      min: 0.008
+      max: 0.01
+    polariscope: DR
+    polariscope_note: U-
+    pleochroism: Dichroism
+    inclusions:
+    - "\uD50C\uB798\uC2DC \uD6A8\uACFC"
+    - "\uAE30\uD3EC"
+    absorption_spectrum:
+      lines:
+      - 659nm
+      - 668nm
+      - 693nm
+      bands:
+      - 500-610nm
+      cutoff: []
+      note: "\uD06C\uB86C \uAD00\uB828"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - Faint
+        - Medium
+        - Strong
+        color: Red
+      SW:
+        intensity:
+        - Faint
+        - Medium
+        - Strong
+        color: Red
+      note: "\uAC15\uD55C \uC801\uC0C9 \uD615\uAD11"
+    specific_gravity:
+      value: 4
+      tolerance_min: -0.05
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9
+      max: 9
+    is_synthetic: 0
+    is_treated: 1
+    treatment_types:
+    - lead_glass_filled
+    comment: "\uB0A9\uC720\uB9AC \uD568\uCE68\uC73C\uB85C \uD50C\uB798\uC2DC \uD6A8\uACFC,
+      \uCD08\uC74C\uD30C \uC138\uCC99 \uC8FC\uC758."
+  - id: 17
+    korean_name: "\uD45C\uBA74 \uD655\uC0B0 \uC0AC\uD30C\uC774\uC5B4"
+    english_name: Surface Diffusion Sapphire
+    category: corundum
+    group: 
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - Blue
+    transparency:
+    - TP
+    - STP
+    - TL
+    - STL
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects:
+    - A
+    refractive_index:
+      min: 1.762
+      max: 1.77
+      otl: 1
+      tolerance_min: -0.005
+      tolerance_max: 0.009
+    ri_subtypes: []
+    birefringence:
+      min: 0.008
+      max: 0.01
+    polariscope: DR
+    polariscope_note: U-
+    pleochroism: Dichroism
+    inclusions:
+    - "\uD328\uC2EF \uB2A5\uC120 \uC0C9\uC9D1\uC911"
+    - "\uD45C\uBA74 \uB0B4\uD3EC\uBB3C"
+    absorption_spectrum:
+      lines: []
+      bands: []
+      cutoff: []
+      note: "\uD2B9\uC9D5\uC801\uC774\uC9C0 \uC54A\uC74C"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        color: 
+      SW:
+        intensity:
+        - None
+        color: 
+      note: "\uC77C\uBC18\uC801\uC73C\uB85C \uBB34\uBC18\uC751"
+    specific_gravity:
+      value: 4
+      tolerance_min: -0.05
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9
+      max: 9
+    is_synthetic: 0
+    is_treated: 1
+    treatment_types:
+    - surface_diffusion
+    comment: "\uD328\uC2EF \uB2A5\uC120 \uC0C9\uC9D1\uC911, \uC7AC\uC5F0\uB9C8\uC2DC
+      \uC0C9\uC0C1 \uBCC0\uD654 \uC8FC\uC758."
+  - id: 18
+    korean_name: "\uD569\uC131 \uB8E8\uBE44"
+    english_name: Synthetic Ruby
+    category: corundum
+    group: synthetic
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - Red
+    - Pinkish red
+    transparency:
+    - TP
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 1.762
+      max: 1.77
+      otl: 1
+      tolerance_min: -0.005
+      tolerance_max: 0.009
+    ri_subtypes: []
+    birefringence:
+      min: 0.008
+      max: 0.01
+    polariscope: DR
+    polariscope_note: U-
+    pleochroism: Dichroism
+    inclusions:
+    - "\uACE1\uC120/\uAE30\uD3EC(\uD50C\uB808\uC784\uD4E8\uC804)"
+    - "\uD50C\uB7ED\uC2A4 \uB0B4\uD3EC\uBB3C/\uBC31\uAE08(\uD50C\uB7ED\uC2A4\uBC95)"
+    absorption_spectrum:
+      lines:
+      - 659nm
+      - 668nm
+      - 693nm
+      bands:
+      - 500-610nm
+      cutoff: []
+      note: "\uCC9C\uC5F0\uACFC \uB3D9\uC77C"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - Strong
+        color: Red
+      SW:
+        intensity:
+        - Strong
+        color: Red
+      note: "\uCC9C\uC5F0\uBCF4\uB2E4 \uAC15\uD568"
+    specific_gravity:
+      value: 4
+      tolerance_min: -0.05
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9
+      max: 9
+    is_synthetic: 1
+    is_treated: 0
+    treatment_types: []
+    comment: "\uD50C\uB808\uC784\uD4E8\uC804: \uACE1\uC120/\uAE30\uD3EC, \uD50C\uB7ED\uC2A4\uBC95:
+      \uBC31\uAE08 \uB0B4\uD3EC\uBB3C\uB85C \uCC9C\uC5F0\uACFC \uAD6C\uBCC4."
+  - id: 19
+    korean_name: "\uD569\uC131 \uC2A4\uD0C0 \uB8E8\uBE44"
+    english_name: Synthetic Star Ruby
+    category: corundum
+    group: synthetic
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - Red
+    - Pinkish red
+    transparency:
+    - STL
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects:
+    - A
+    refractive_index:
+      min: 1.76
+      max: 1.76
+      otl: 1
+      tolerance_min: 0
+      tolerance_max: 0
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: DR
+    polariscope_note: AGG
+    pleochroism: None
+    inclusions:
+    - "\uACE1\uC120"
+    - "\uAE30\uD3EC"
+    absorption_spectrum:
+      lines:
+      - 659nm
+      - 668nm
+      - 693nm
+      bands:
+      - 500-610nm
+      cutoff: []
+      note: "\uCC9C\uC5F0\uACFC \uB3D9\uC77C"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - Strong
+        - Very Strong
+        color: Orangy Red
+      SW:
+        intensity:
+        - Medium
+        - Strong
+        color: Orangy Red
+      note: "\uCC9C\uC5F0\uBCF4\uB2E4 \uAC15\uD568"
+    specific_gravity:
+      value: 4
+      tolerance_min: -0.05
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9
+      max: 9
+    is_synthetic: 1
+    is_treated: 0
+    treatment_types: []
+    comment: "\uCE90\uBCF4\uC158 \uBC14\uB2E5 \uACE1\uC120/\uAE30\uD3EC\uB85C \uCC9C\uC5F0
+      \uC2A4\uD0C0 \uB8E8\uBE44\uC640 \uAD6C\uBCC4."
+  - id: 20
+    korean_name: "\uD569\uC131 \uC0AC\uD30C\uC774\uC5B4"
+    english_name: Synthetic Sapphire
+    category: corundum
+    group: synthetic
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - All colors except red
+    transparency:
+    - TP
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 1.762
+      max: 1.77
+      otl: 1
+      tolerance_min: -0.005
+      tolerance_max: 0.009
+    ri_subtypes: []
+    birefringence:
+      min: 0.008
+      max: 0.01
+    polariscope: DR
+    polariscope_note: U-
+    pleochroism: Dichroism
+    inclusions:
+    - "\uACE1\uC120 \uBC34\uB4DC/\uAE30\uD3EC(\uD50C\uB808\uC784\uD4E8\uC804)"
+    - "\uD50C\uB7ED\uC2A4 \uB0B4\uD3EC\uBB3C/\uBC31\uAE08(\uD50C\uB7ED\uC2A4\uBC95)"
+    absorption_spectrum:
+      lines: []
+      bands: []
+      cutoff: []
+      note: "\uD2B9\uC9D5\uC801\uC774\uC9C0 \uC54A\uC74C"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        - Faint
+        color: 
+      SW:
+        intensity:
+        - Faint
+        - Medium
+        color: Chalky Blue
+      note: "\uC0C9\uC0C1\uC5D0 \uB530\uB77C \uB2E4\uC591"
+    specific_gravity:
+      value: 4
+      tolerance_min: -0.05
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9
+      max: 9
+    is_synthetic: 1
+    is_treated: 0
+    treatment_types: []
+    comment: "\uD50C\uB808\uC784\uD4E8\uC804: \uCEE4\uBE0C\uB4DC \uBC34\uB4DC/\uAE30\uD3EC\uB85C
+      \uCC9C\uC5F0\uACFC \uAD6C\uBCC4."
+  - id: 21
+    korean_name: "\uD569\uC131 \uC2A4\uD0C0 \uC0AC\uD30C\uC774\uC5B4"
+    english_name: Synthetic Star Sapphire
+    category: corundum
+    group: synthetic
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - All colors except red
+    transparency:
+    - TL
+    - STL
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects:
+    - A
+    refractive_index:
+      min: 1.76
+      max: 1.76
+      otl: 1
+      tolerance_min: 0
+      tolerance_max: 0
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: DR
+    polariscope_note: AGG
+    pleochroism: None
+    inclusions:
+    - "\uACE1\uC120"
+    - "\uAE30\uD3EC"
+    absorption_spectrum:
+      lines:
+      - 450nm
+      - 460nm
+      - 471nm
+      bands: []
+      cutoff: []
+      note: "\uCC9C\uC5F0\uACFC \uB3D9\uC77C"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        - Faint
+        - Medium
+        color: 
+      SW:
+        intensity:
+        - None
+        - Faint
+        - Medium
+        color: 
+      note: "\uC0C9\uC0C1\uC5D0 \uB530\uB77C \uB2E4\uC591"
+    specific_gravity:
+      value: 4
+      tolerance_min: -0.05
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9
+      max: 9
+    is_synthetic: 1
+    is_treated: 0
+    treatment_types: []
+    comment: "\uACE1\uC120/\uAE30\uD3EC\uB85C \uCC9C\uC5F0 \uC2A4\uD0C0 \uC0AC\uD30C\uC774\uC5B4\uC640
+      \uAD6C\uBCC4."
+  - id: 22
+    korean_name: "\uD569\uC131 \uCEEC\uB7EC \uCCB4\uC778\uC9C0 \uC0AC\uD30C\uC774\uC5B4"
+    english_name: Synthetic Color Change Sapphire
+    category: corundum
+    group: synthetic
+    crystal_system:
+    - "\uC0BC\uBC29\uC815\uACC4"
+    - "\uC721\uBC29\uC815\uACC4"
+    color:
+    - Blue-violet (daylight)
+    - Pinkish red (incandescent)
+    transparency:
+    - TP
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects:
+    - CC
+    refractive_index:
+      min: 1.762
+      max: 1.77
+      otl: 1
+      tolerance_min: -0.005
+      tolerance_max: 0.009
+    ri_subtypes: []
+    birefringence:
+      min: 0.008
+      max: 0.01
+    polariscope: DR
+    polariscope_note: U-
+    pleochroism: Dichroism
+    inclusions:
+    - "\uAE30\uD3EC"
+    - "\uACE1\uC120"
+    absorption_spectrum:
+      lines:
+      - 474nm
+      bands:
+      - 550-610nm
+      cutoff:
+      - 460nm
+      note: "\uBC14\uB098\uB4D0+\uCF54\uBC1C\uD2B8+\uD06C\uB86C \uAD00\uB828"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - Medium
+        - Strong
+        color: Orange-Red
+      SW:
+        intensity:
+        - Medium
+        - Strong
+        color: Orange-Red
+      note: "\uCC9C\uC5F0\uBCF4\uB2E4 \uAC15\uD55C CC \uD6A8\uACFC"
+    specific_gravity:
+      value: 4
+      tolerance_min: -0.05
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 9
+      max: 9
+    is_synthetic: 1
+    is_treated: 0
+    treatment_types: []
+    comment: "\uCC9C\uC5F0\uBCF4\uB2E4 \uAC15\uD55C \uBCC0\uC0C9\uD6A8\uACFC, \uD37C\uBE4C\uB9AC\uC5B8
+      \uBC29\uD5A5 \uACE1\uC120 \uAD00\uCC30."
+  - id: 23
+    korean_name: "\uB85C\uB3CC\uB77C\uC774\uD2B8 \uAC00\uB2DB"
+    english_name: Rhodolite Garnet
+    category: rhodolite
+    group: garnet
+    crystal_system:
+    - "\uB4F1\uCD95\uC815\uACC4"
+    color:
+    - Violet
+    - Purple
+    - Purplish red
+    transparency:
+    - TP
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 1.76
+      max: 1.76
+      otl: 1
+      tolerance_min: -0.02
+      tolerance_max: 0.01
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: SR
+    polariscope_note: "\uC885\uC885 ADR"
+    pleochroism: None
+    inclusions:
+    - "\uCE68\uC0C1 \uB0B4\uD3EC\uBB3C"
+    - "\uD06C\uB9AC\uC2A4\uD138"
+    - "\uC9C0\uB974\uCF58 \uD5E4\uC77C\uB85C"
+    absorption_spectrum:
+      lines: []
+      bands:
+      - 505nm
+      - 527nm
+      - 575nm
+      cutoff: []
+      note: "\uCCA0 \uAD00\uB828 \uBC34\uB4DC"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        color: 
+      SW:
+        intensity:
+        - None
+        color: 
+      note: "\uBB34\uBC18\uC751"
+    specific_gravity:
+      value: 3.84
+      tolerance_min: -0.1
+      tolerance_max: 0.1
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 7
+      max: 7.5
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uBCF4\uB77C\uC0C9 \uAC00\uB2DB, \uC2A4\uD399\uD2B8\uB7FC \uD761\uC218\uBC34\uB4DC\uC640
+      \uC790\uC0C9\uAC10\uC73C\uB85C \uAC10\uBCC4."
+  - id: 24
+    korean_name: "\uD06C\uB9AC\uC18C\uBCA0\uB9B4"
+    english_name: Chrysoberyl
+    category: chrysoberyl
+    group: 
+    crystal_system:
+    - "\uC0AC\uBC29\uC815\uACC4"
+    color:
+    - Yellow
+    - Yellowish green
+    - Greenish yellow
+    transparency:
+    - TP
+    - STP
+    - TL
+    - STL
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects: []
+    refractive_index:
+      min: 1.746
+      max: 1.755
+      otl: 1
+      tolerance_min: -0.006
+      tolerance_max: 0.004
+    ri_subtypes: []
+    birefringence:
+      min: 0.008
+      max: 0.01
+    polariscope: DR
+    polariscope_note: B+
+    pleochroism: Trichroism
+    inclusions:
+    - "\uC9C0\uBB38\uC0C1"
+    - "\uD06C\uB9AC\uC2A4\uD138"
+    - "\uC561\uCCB4 \uB0B4\uD3EC\uBB3C"
+    absorption_spectrum:
+      lines:
+      - 444nm
+      bands: []
+      cutoff: []
+      note: "\uCCA0 \uC131\uBD84 \uAD00\uB828"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        color: 
+      SW:
+        intensity:
+        - None
+        - Faint
+        color: Greenish yellow
+      note: "\uD669\uC0C9/\uB179\uD669\uC0C9 \uC57D\uD55C \uBC18\uC751"
+    specific_gravity:
+      value: 3.73
+      tolerance_min: -0.02
+      tolerance_max: 0.02
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    - "3\uBC29\uD5A5 \uC57D\uD568"
+    hardness:
+      min: 8.5
+      max: 8.5
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uC0BC\uC0C9\uC131\uACFC 444nm \uBC34\uB4DC\uB85C \uAC10\uBCC4, \uD669\uB85D\uC0C9
+      \uACC4\uC5F4."
+  - id: 25
+    korean_name: "\uC54C\uB809\uC0B0\uB4DC\uB77C\uC774\uD2B8"
+    english_name: Alexandrite
+    category: chrysoberyl
+    group: 
+    crystal_system:
+    - "\uC0AC\uBC29\uC815\uACC4"
+    color:
+    - Greenish blue (daylight)
+    - Pinkish red (incandescent)
+    transparency:
+    - TP
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects:
+    - CC
+    refractive_index:
+      min: 1.746
+      max: 1.755
+      otl: 1
+      tolerance_min: -0.006
+      tolerance_max: 0.004
+    ri_subtypes: []
+    birefringence:
+      min: 0.008
+      max: 0.01
+    polariscope: DR
+    polariscope_note: B+
+    pleochroism: Trichroism
+    inclusions:
+    - "\uC9C0\uBB38\uC0C1"
+    - "\uD06C\uB9AC\uC2A4\uD138"
+    - "\uC561\uCCB4 \uB0B4\uD3EC\uBB3C"
+    absorption_spectrum:
+      lines: []
+      bands: []
+      cutoff: []
+      note: "\uD06C\uB86C \uC2A4\uD399\uD2B8\uB7FC(\uB2E4\uC0C9\uC131\uC5D0 \uB530\uB77C
+        \uB2E4\uC591)"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        - Faint
+        - Medium
+        color: Red
+      SW:
+        intensity:
+        - None
+        - Faint
+        - Medium
+        color: Red
+      note: 
+    specific_gravity:
+      value: 3.73
+      tolerance_min: -0.02
+      tolerance_max: 0.02
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 8.5
+      max: 8.5
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uBCC0\uC0C9\uD6A8\uACFC(CC), \uC0BC\uC0C9\uC131, \uAD74\uC808\uB960\uB85C
+      \uCC9C\uC5F0/\uD569\uC131 \uAC10\uBCC4."
+  - id: 26
+    korean_name: "\uD06C\uB9AC\uC18C\uBCA0\uB9B4 \uCE90\uCE20\uC544\uC774"
+    english_name: Chrysoberyl Cat's-Eye
+    category: chrysoberyl
+    group: 
+    crystal_system:
+    - "\uC0AC\uBC29\uC815\uACC4"
+    color:
+    - Greenish yellow
+    - Yellowish green
+    - Yellowish brown
+    transparency:
+    - STP
+    - TL
+    - STL
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects:
+    - C
+    refractive_index:
+      min: 1.75
+      max: 1.75
+      otl: 1
+      tolerance_min: 0
+      tolerance_max: 0
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: DR
+    polariscope_note: AGG
+    pleochroism: Trichroism
+    inclusions:
+    - "\uAC00\uB294 \uCE68\uC0C1"
+    - "\uC2E4\uD06C \uC720\uC0AC \uAD00\uC0C1"
+    - "\uC9C0\uBB38\uC0C1"
+    - "\uD06C\uB9AC\uC2A4\uD138"
+    absorption_spectrum:
+      lines:
+      - 444nm
+      bands: []
+      cutoff: []
+      note: "\uAC15\uD55C \uBC34\uB4DC"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        color: 
+      SW:
+        intensity:
+        - None
+        color: 
+      note: "\uC77C\uBC18\uC801\uC73C\uB85C \uBB34\uBC18\uC751"
+    specific_gravity:
+      value: 3.73
+      tolerance_min: -0.02
+      tolerance_max: 0.02
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 8.5
+      max: 8.5
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uC0E4\uD1A0\uC580\uC2DC(C) \uD6A8\uACFC, \uAC00\uB294 \uCE68\uC0C1
+      \uB0B4\uD3EC\uBB3C\uB85C \uCE90\uCE20\uC544\uC774."
+  - id: 27
+    korean_name: "\uC54C\uB809\uC0B0\uB4DC\uB77C\uC774\uD2B8 \uCE90\uCE20\uC544\uC774"
+    english_name: Alexandrite Cat's-Eye
+    category: chrysoberyl
+    group: 
+    crystal_system:
+    - "\uC0AC\uBC29\uC815\uACC4"
+    color:
+    - Greenish blue (daylight)
+    - Pinkish red (incandescent)
+    transparency:
+    - STP
+    - TL
+    - STL
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    - "\uC544\uAE08\uAC15\uAD11\uD0DD"
+    special_effects:
+    - CC
+    - C
+    refractive_index:
+      min: 1.75
+      max: 1.75
+      otl: 1
+      tolerance_min: 0
+      tolerance_max: 0
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: DR
+    polariscope_note: AGG
+    pleochroism: Trichroism
+    inclusions:
+    - "\uAC00\uB294 \uCE68\uC0C1"
+    - "\uC2E4\uD06C \uC720\uC0AC \uAD00\uC0C1"
+    - "\uC9C0\uBB38\uC0C1"
+    - "\uD06C\uB9AC\uC2A4\uD138"
+    absorption_spectrum:
+      lines: []
+      bands: []
+      cutoff: []
+      note: "\uB2E4\uC0C9\uC131\uC5D0 \uB530\uB77C \uB2E4\uC591"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        - Faint
+        - Medium
+        color: Red
+      SW:
+        intensity:
+        - None
+        - Faint
+        - Medium
+        color: Red
+      note: 
+    specific_gravity:
+      value: 3.73
+      tolerance_min: -0.02
+      tolerance_max: 0.02
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 8.5
+      max: 8.5
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "CC+C \uB3D9\uC2DC \uD6A8\uACFC, \uD2B9\uC218\uD6A8\uACFC \uAD00\uCC30
+      \uC911\uC694."
+  - id: 28
+    korean_name: "\uD30C\uC774\uB85C\uD504 \uAC00\uB2DB"
+    english_name: Pyrope Garnet
+    category: pyrope
+    group: garnet
+    crystal_system:
+    - "\uB4F1\uCD95\uC815\uACC4"
+    color:
+    - Red
+    - Deep red
+    transparency:
+    - TP
+    - STP
+    - TL
+    - STL
+    transparency_note: 
+    lustre:
+    - "\uC720\uB9AC\uAD11\uD0DD"
+    special_effects:
+    - CC
+    refractive_index:
+      min: 1.746
+      max: 1.746
+      otl: 1
+      tolerance_min: -0.026
+      tolerance_max: 0.01
+    ri_subtypes: []
+    birefringence:
+      min: 0
+      max: 0
+    polariscope: SR
+    polariscope_note: "\uC885\uC885 ADR"
+    pleochroism: None
+    inclusions:
+    - "\uCE68\uC0C1"
+    - "\uBD88\uADDC\uCE59 \uD06C\uB9AC\uC2A4\uD138"
+    absorption_spectrum:
+      lines:
+      - 685nm
+      - 687nm
+      bands:
+      - 505nm
+      - 520-620nm
+      cutoff:
+      - 490nm
+      note: "\uD06C\uB86C \uBC1C\uC0C9\uC11D"
+    uv_fluorescence:
+      LW:
+        intensity:
+        - None
+        color: 
+      SW:
+        intensity:
+        - None
+        color: 
+      note: "\uBB34\uBC18\uC751"
+    specific_gravity:
+      value: 3.78
+      tolerance_min: -0.16
+      tolerance_max: 0.09
+    cleavage_fracture:
+    - "\uD328\uAC01\uC0C1"
+    hardness:
+      min: 7
+      max: 7.5
+    is_synthetic: 0
+    is_treated: 0
+    treatment_types: []
+    comment: "\uB9E4\uC6B0 \uC5B4\uB450\uC6B4 \uBA85\uB3C4\uC758 \uC801\uC0C9 \uAC00\uB2DB."
