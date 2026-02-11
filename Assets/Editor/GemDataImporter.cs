@@ -65,19 +65,20 @@ public class GemDataImporter : EditorWindow
                 lustre = jsonGem.lustre,
                 special_effects = jsonGem.special_effects,
 
-                refractive_index = jsonGem.refractive_index,
-                ri_subtypes = jsonGem.ri_subtypes,
+                refractive_indexs = jsonGem.refractive_indexs,
                 birefringence = jsonGem.birefringence,
 
                 polariscope = jsonGem.polariscope,
                 pleochroism = jsonGem.pleochroism,
                 inclusions = jsonGem.inclusions,
 
-                absorption_spectrum = jsonGem.absorption_spectrum,
-                uv_fluorescence = jsonGem.uv_fluorescence,
+                absorption_spectrums = jsonGem.absorption_spectrums,
+                uv_fluorescences = jsonGem.uv_fluorescences,
 
                 specific_gravity = jsonGem.specific_gravity,
-                cleavage_fracture = jsonGem.cleavage_fracture,
+                cleavage = jsonGem.cleavage,
+                fracture = jsonGem.fracture,
+
                 hardness = jsonGem.hardness,
 
                 is_synthetic = jsonGem.is_synthetic,

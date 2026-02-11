@@ -11,25 +11,25 @@ public class GemData
     public string category;
     public string group;
 
-    public List<string> crystal_system;
+    public string crystal_system;
     public List<string> color;
     public Transparency transparency;
     public List<string> lustre;
     public List<string> special_effects;
 
-    public RefractiveIndex refractive_index;
-    public List<RefractiveIndexSubtype> ri_subtypes;
+    public List<RefractiveIndex> refractive_indexs;
     public Birefringence birefringence;
 
     public Polariscope polariscope;
-    public string pleochroism;
-    public List<string> inclusions;
+    public Pleochroism pleochroism;
+    public List<string> inclusions; // 조건이 나뉘어 있을 경우 최대한 모든 내포물 특징을 요약하여 다 적기.
 
-    public AbsorptionSpectrum absorption_spectrum;
-    public UVFluorescence uv_fluorescence;
+    public List<AbsorptionSpectrum> absorption_spectrums;
+    public List<UVFluorescence> uv_fluorescences; // "무반응" 일때 null처리
 
     public SpecificGravity specific_gravity;
-    public List<string> cleavage_fracture;
+    public List<string> cleavage;
+    public string fracture;
 
     public Hardness hardness;
 
