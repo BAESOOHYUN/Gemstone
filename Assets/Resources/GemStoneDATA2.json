@@ -1,0 +1,6572 @@
+{
+    "gems": [
+        {
+            "id": 1,
+            "korean_name": "헤마타이트",
+            "english_name": "Hematite",
+            "category": "hematite",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "어두운 회색",
+                "흑색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "금속광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 2.940,
+                    "max": 3.220,
+                    "tolerance_min": -0.070,
+                    "tolerance_max": 0.070,
+                    "otl": true,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.280,
+                "max": 0.280,
+                "note": null
+            },
+            "polariscope": {
+                "type": [],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "",
+                "note": null
+            },
+            "inclusions": [],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 5.20,
+                "": 0.08,
+                "tolerance_min": -0.25,
+                "note": null
+            },
+            "cleavage": [],
+            "fracture": null,
+            "hardness": {
+                "min": 5.5,
+                "max": 6.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "금속광택, 높은 비중, 조흔 적갈색이 특징인 불투명 보석."
+        },
+        {
+            "id": 2,
+            "korean_name": "합성 모이사나이트",
+            "english_name": "Synthetic Moissanite",
+            "category": "synthetic_moissanite",
+            "group": null,
+            "crystal_system": "육방정계, 삼방정계",
+            "color": [
+                "다양하다"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP",
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 2.648,
+                    "max": 2.691,
+                    "tolerance_max": null,
+                    "tolerance_min": null,
+                    "otl": true,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.043,
+                "max": 0.043,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "U+"
+            },
+            "pleochroism": {
+                "type": "이색성",
+                "note": "약함"
+            },
+            "inclusions": [
+                "니들",
+                "더블링"
+            ],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Orange",
+                        "intensity": [
+                            "None",
+                            "Faint"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": "Orange",
+                        "intensity": [
+                            "None",
+                            "Faint",
+                            "Moderate"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.22,
+                "tolerance_max": 0.01,
+                "tolerance_min": -0.02,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.25,
+                "max": 9.25,
+                "note": null
+            },
+            "is_synthetic": true,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "다이아몬드와 가장 혼동되는 보석으로 더블링과 경도 9.25가 주요 감별점."
+        },
+        {
+            "id": 3,
+            "korean_name": "다이아몬드",
+            "english_name": "Diamond",
+            "category": "diamond",
+            "group": null,
+            "crystal_system": "등축정계",
+            "color": [
+                "다양하다"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP",
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 2.417,
+                    "max": 2.417,
+                    "tolerance_max": null,
+                    "tolerance_min": null,
+                    "otl": true,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.000,
+                "max": 0.000,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "SR"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "None",
+                "note": null
+            },
+            "inclusions": [
+                "광물 인클루전",
+                "프랙처와 클리비지",
+                "광물 결정체(크리스털) 내포물"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": "Near colorless, Yellow",
+                    "lines": [
+                        "435nm",
+                        "451nm",
+                        "463nm",
+                        "478nm",
+                        "415.5nm(cape)"
+                    ],
+                    "bands": [],
+                    "cutoff": [],
+                    "note": "Near colorless, Yellow 다이아몬드."
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Blue",
+                        "intensity": [
+                            "None",
+                            "Faint",
+                            "Moderate",
+                            "Strong"
+                        ],
+                        "note": "colorless ~ yellow 다이아몬드, 장파가 단파보다 강함"
+                    },
+                    "SW": {
+                        "color": "Blue",
+                        "intensity": [
+                            "None",
+                            "Faint",
+                            "Moderate"
+                        ],
+                        "note": "colorless ~ yellow 다이아몬드, 장파보다 약함"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.52,
+                "tolerance_max": 0.01,
+                "tolerance_min": -0.01,
+                "note": null
+            },
+            "cleavage": [
+                "계단상"
+            ],
+            "fracture": "4방향 완전",
+            "hardness": {
+                "min": 10.0,
+                "max": 10.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "천연과 합성 감별에 확대, 형광, 스펙트럼, 첨단 분석기기 필요."
+        },
+        {
+            "id": 4,
+            "korean_name": "합성 큐빅 지르코니아",
+            "english_name": "Synthetic Cubic Zirconia",
+            "category": "synthetic_cubic_zirconia",
+            "group": null,
+            "crystal_system": "등축정계",
+            "color": [
+                "다양하다"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP",
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 2.150,
+                    "max": 2.150,
+                    "tolerance_max": 0.30,
+                    "tolerance_min": -0.30,
+                    "otl": true,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.000,
+                "max": 0.000,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "SR"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "",
+                "note": null
+            },
+            "inclusions": [
+                "기포"
+            ],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Orange",
+                        "intensity": [
+                            "None",
+                            "Faint",
+                            "Moderate"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": null,
+                        "intensity": [
+                            "None"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 5.80,
+                "tolerance_max": 0.20,
+                "tolerance_min": -0.20,
+                "note": "5.60~6.00"
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 8.5,
+                "max": 8.5,
+                "note": null
+            },
+            "is_synthetic": true,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "다이아몬드 유사석으로 내포물이 거의 없으나 간혹 기포 발견."
+        },
+        {
+            "id": 5,
+            "korean_name": "지르콘",
+            "english_name": "Zircon",
+            "category": "zircon",
+            "group": null,
+            "crystal_system": "정방정계",
+            "color": [
+                "청색",
+                "무색",
+                "녹색",
+                "적갈색",
+                "황색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "금강광택",
+                "유리광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.925,
+                    "max": 1.984,
+                    "tolerance_max": 0.040,
+                    "tolerance_min": -0.040,
+                    "otl": true,
+                    "spot_reading": false,
+                    "note": "high type"
+                },
+                {
+                    "min": 1.875,
+                    "max": 1.905,
+                    "tolerance_max": 0.030,
+                    "tolerance_min": -0.030,
+                    "otl": true,
+                    "spot_reading": false,
+                    "note": "Moderate type"
+                },
+                {
+                    "min": 1.810,
+                    "max": 1.815,
+                    "tolerance_max": 0.030,
+                    "tolerance_min": -0.030,
+                    "otl": true,
+                    "spot_reading": false,
+                    "note": "low type"
+                }
+            ],
+            "birefringence": {
+                "min": 0.000,
+                "max": 0.059,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "U+"
+            },
+            "pleochroism": {
+                "type": "이색성",
+                "note": null
+            },
+            "inclusions": [
+                "더블링",
+                "액체 내포물",
+                "성장선"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [
+                        "653.5nm"
+                    ],
+                    "bands": [],
+                    "cutoff": [],
+                    "note": null
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Blue, Moderate blue",
+                        "intensity": [
+                            "None",
+                            "Faint",
+                            "Moderate"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": "Moderate blue",
+                        "intensity": [
+                            "None"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 4.70,
+                "tolerance_max": 0.03,
+                "tolerance_min": -0.80,
+                "note": "3.90~4.73"
+            },
+            "cleavage": [],
+            "fracture": "없음",
+            "hardness": {
+                "min": 6.0,
+                "max": 7.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "OTL 보석으로 강한 더블링과 653.5nm 흡수선이 감별의 핵심."
+        },
+        {
+            "id": 6,
+            "korean_name": "데만토이드",
+            "english_name": "Demantoid",
+            "category": "andradite",
+            "group": "garnet",
+            "crystal_system": "등축정계",
+            "color": [
+                "녹색",
+                "녹황색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP",
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.888,
+                    "max": 1.888,
+                    "tolerance_max": 0.007,
+                    "tolerance_min": -0.033,
+                    "otl": true,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.000,
+                "max": 0.000,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "ADR"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": null,
+                "note": null
+            },
+            "inclusions": [
+                "다양한 내포물 존재",
+                "말꼬리상 내포물"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": "녹황색",
+                    "lines": [],
+                    "bands": [
+                        "443nm"
+                    ],
+                    "cutoff": [],
+                    "note": null
+                },
+                {
+                    "color": "선명한 녹색",
+                    "lines": [
+                        "620nm",
+                        "632nm",
+                        "693nm"
+                    ],
+                    "bands": [],
+                    "cutoff": [
+                        "443nm"
+                    ],
+                    "note": null
+                }
+            ],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 3.84,
+                "tolerance_max": 0.03,
+                "tolerance_min": -0.03,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": "불균일상",
+            "hardness": {
+                "min": 6.5,
+                "max": 7.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "저온형 지르콘, 녹색 YAG와 혼동 가능. 말꼬리 내포물이 특징."
+        },
+        {
+            "id": 7,
+            "korean_name": "스페사르타이트 가닛",
+            "english_name": "Spessartite Garnet",
+            "category": "spessartite",
+            "group": "garnet",
+            "crystal_system": "등축정계",
+            "color": [
+                "오렌지색",
+                "황색",
+                "황갈색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.810,
+                    "max": 1.810,
+                    "tolerance_max": 0.004,
+                    "tolerance_min": -0.020,
+                    "otl": true,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.000,
+                "max": 0.000,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "ADR"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": null,
+                "note": null
+            },
+            "inclusions": [
+                "이상 내포물",
+                "페더와 같은 액체 내포물"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [],
+                    "bands": [
+                        "412nm",
+                        "424nm",
+                        "432nm",
+                        "505nm",
+                        "527nm",
+                        "575nm"
+                    ],
+                    "cutoff": [],
+                    "note": "망간 관련 412nm, 424nm, 432nm. 철 관련 505nm, 527nm, 575nm 밴드"
+                }
+            ],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 4.15,
+                "tolerance_max": 0.05,
+                "tolerance_min": -0.03,
+                "note": null
+            },
+            "cleavage": [],
+            "fracture": null,
+            "hardness": {
+                "min": 7.0,
+                "max": 7.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "OTL의 보석으로 SR인 스페사르타이트 가닛은 더블링이 없으며 스펙트럼과 색상으로 쉽게 감별 가능한 OTL 가닛."
+        },
+        {
+            "id": 8,
+            "korean_name": "(인조) 야그",
+            "english_name": "YAG (Yttrium Aluminum Garnet)",
+            "category": "yag",
+            "group": null,
+            "crystal_system": "등축정계",
+            "color": [
+                "다양하다"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.833,
+                    "max": 1.833,
+                    "tolerance_max": 0.010,
+                    "tolerance_min": -0.010,
+                    "otl": true,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.000,
+                "max": 0.000,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "SR"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": null,
+                "note": null
+            },
+            "inclusions": [
+                "무내포물",
+                "기포"
+            ],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 4.55,
+                "tolerance_max": 0.05,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": "불균일상",
+            "hardness": {
+                "min": 8.25,
+                "max": 8.25,
+                "note": null
+            },
+            "is_synthetic": true,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "천연 대응 보석 없는 인조석. 일반적으로 내포물 거의 없음. 종종 기포 발견."
+        },
+        {
+            "id": 9,
+            "korean_name": "알만다이트 가닛",
+            "english_name": "Almandite Garnet",
+            "category": "almandite",
+            "group": "garnet",
+            "crystal_system": "등축정계",
+            "color": [
+                "암적색",
+                "적갈색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.790,
+                    "max": 1.790,
+                    "tolerance_max": 0.30,
+                    "tolerance_min": -0.30,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.000,
+                "max": 0.000,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "ADR"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": null,
+                "note": null
+            },
+            "inclusions": [
+                "교차하는 침상 내포물",
+                "크리스털",
+                "지르콘 헤일로"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [],
+                    "bands": [
+                        "505nm",
+                        "527nm",
+                        "575nm"
+                    ],
+                    "cutoff": [],
+                    "note": null
+                }
+            ],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 4.05,
+                "tolerance_max": 0.25,
+                "tolerance_min": -0.12,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 7.0,
+                "max": 7.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "편광기에서 ADR 반응 확인 후 SR/ADR 결정하고, 색상과 스펙트럼으로 감별."
+        },
+        {
+            "id": 10,
+            "korean_name": "스타 알만다이트 가닛",
+            "english_name": "Star Almandite Garnet",
+            "category": "almandite",
+            "group": "garnet",
+            "crystal_system": "등축정계",
+            "color": [
+                "암적색",
+                "적갈색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "STP",
+                    "TL",
+                    "STL"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "A"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.790,
+                    "max": 1.790,
+                    "tolerance_max": 0.30,
+                    "tolerance_min": -0.30,
+                    "spot_reading": true,
+                    "otl": false,
+                    "note": "1.79(S)"
+                }
+            ],
+            "birefringence": {
+                "min": 0.000,
+                "max": 0.000,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "AGG"
+                ],
+                "note": "주로 AGG 반응"
+            },
+            "pleochroism": {
+                "type": null,
+                "note": null
+            },
+            "inclusions": [
+                "70°와 110°로 교차하는 침상 내포물",
+                "크리스털",
+                "지르콘 헤일로"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [],
+                    "bands": [
+                        "505nm",
+                        "527nm",
+                        "575nm"
+                    ],
+                    "cutoff": [],
+                    "note": null
+                }
+            ],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 4.05,
+                "tolerance_max": 0.25,
+                "tolerance_min": -0.12,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 7.0,
+                "max": 7.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "편광기에서 ADR 반응 확인 후 SR/ADR 결정하고, 색상과 스펙트럼으로 감별."
+        },
+        {
+            "id": 11,
+            "korean_name": "루비",
+            "english_name": "Ruby",
+            "category": "Corundum",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "적색",
+                "적자색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP",
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.762,
+                    "max": 1.770,
+                    "tolerance_max": 0.009,
+                    "tolerance_min": -0.005,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.010,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "U-"
+            },
+            "pleochroism": {
+                "type": "이색성",
+                "note": null
+            },
+            "inclusions": [
+                "손상되지 않은 크리스털",
+                "60°, 120° 교차 침상 내포물",
+                "네거티브 크리스털",
+                "이상 내포물",
+                "지문상 내포물",
+                "컬러 밴드(직선적이거나 각진 형태)",
+                "실크상 침상 내포물(열처리 흔적)",
+                "원반형 프랙처(열처리 흔적)"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [
+                        "659nm",
+                        "668nm",
+                        "693nm",
+                        "468nm",
+                        "476nm"
+                    ],
+                    "bands": [
+                        "500nm ~ 610nm"
+                    ],
+                    "cutoff": [
+                        "460nm 부근"
+                    ],
+                    "note": null
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Red, ChalkyRed",
+                        "intensity": [
+                            "Faint",
+                            "Moderate",
+                            "Strong"
+                        ],
+                        "note": "열처리된 루비는 chalky한 형광"
+                    },
+                    "SW": {
+                        "color": "Red, ChalkyRed",
+                        "intensity": [
+                            "Faint",
+                            "Moderate",
+                            "Strong"
+                        ],
+                        "note": "열처리된 루비는 chalky한 형광"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 4.00,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.0,
+                "max": 9.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "천연 루비는 확대 검사로 침상 내포물과 컬러 밴드로 합성품과 구별. 굴절률, 스펙트럼이 주요 감별 포인트."
+        },
+        {
+            "id": 12,
+            "korean_name": "스타 루비",
+            "english_name": "Star Ruby",
+            "category": "Corundum",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "적색",
+                "적자색",
+                "암적색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "STP",
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "A"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.760,
+                    "max": 1.760,
+                    "tolerance_min": null,
+                    "tolerance_max": null,
+                    "otl": false,
+                    "spot_reading": true,
+                    "note": "1.76(S)"
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "일반적으로 감지되지 않음"
+            },
+            "polariscope": {
+                "type": [
+                    "DR",
+                    "AGG"
+                ],
+                "note": "반투명은 주로 AGG 반응"
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": "투명도에 따라 다름"
+            },
+            "inclusions": [
+                "60°, 120° 교차하는 루틸 침상 내포물",
+                "삼방정계에 따른 성장 라인들",
+                "크리스털"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [
+                        "659nm",
+                        "668nm",
+                        "693nm"
+                    ],
+                    "bands": [
+                        "500nm-610nm"
+                    ],
+                    "cutoff": [],
+                    "note": null
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Red",
+                        "intensity": [
+                            "None",
+                            "Strong"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": "Red",
+                        "intensity": [
+                            "None",
+                            "Strong"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 4.00,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.0,
+                "max": 9.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "루틸 침상 내포물로 스타 효과 발생. 컬러 범위 넓음. 확대검사로 합성 구별"
+        },
+        {
+            "id": 13,
+            "korean_name": "사파이어",
+            "english_name": "Sapphire",
+            "category": "Corundum",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "적색을 제외한 모든 색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP",
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.762,
+                    "max": 1.770,
+                    "tolerance_max": 0.009,
+                    "tolerance_min": -0.005,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.010,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "U-"
+            },
+            "pleochroism": {
+                "type": "이색성",
+                "note": null
+            },
+            "inclusions": [
+                "손상되지 않은 크리스털",
+                "60°, 120° 교차하는 손상되지 않은 침상 내포물",
+                "네거티브 크리스털",
+                "이상 내포물",
+                "지문상 내포물",
+                "컬러 밴드(직선적 또는 각진 형태)",
+                "실크상 침상 내포물(열처리 흔적)",
+                "원반형 프랙처(열처리 흔적)"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": "Blue",
+                    "lines": [],
+                    "bands": [
+                        "450nm",
+                        "460nm",
+                        "471nm"
+                    ],
+                    "cutoff": [],
+                    "note": "특징적인 철 흡수 스펙트럼. 일부 열처리 사파이어는 450nm만 보이거나 없음"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Red, Orange",
+                        "intensity": [
+                            "None",
+                            "Faint",
+                            "Moderate",
+                            "Strong"
+                        ],
+                        "note": "청색 사파이어는 보통 무반응"
+                    },
+                    "SW": {
+                        "color": "Chalky Blue, Green-Yellow",
+                        "intensity": [
+                            "None",
+                            "Faint"
+                        ],
+                        "note": "청색 사파이어는 보통 무반응, 쵸키(chalky)한 청색/녹황색은 열처리 암시"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 4.00,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.0,
+                "max": 9.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "천연 사파이어는 확대검사로 합성 구별. 열처리 흔적(실크상, 원반형 프랙처) 관찰 가능"
+        },
+        {
+            "id": 14,
+            "korean_name": "스타 사파이어",
+            "english_name": "Star Sapphire",
+            "category": "Corundum",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "적색을 제외한 모든 색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "STP",
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "A"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.760,
+                    "max": 1.760,
+                    "tolerance_max": null,
+                    "tolerance_min": null,
+                    "otl": false,
+                    "spot_reading": true,
+                    "note": "1.76(S)"
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "일반적으로 감지되지 않음"
+            },
+            "polariscope": {
+                "type": [
+                    "DR",
+                    "AGG"
+                ],
+                "note": "반투명은 주로 AGG 반응"
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": "투명도에 따라 다름"
+            },
+            "inclusions": [
+                "루틸 실크가 60°, 120°로 교차하는 루틸 침상 내포물",
+                "삼방정계에 따른 성장 라인들",
+                "크리스털"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": "Blue, Green",
+                    "lines": [],
+                    "bands": [
+                        "450nm",
+                        "460nm",
+                        "471nm"
+                    ],
+                    "cutoff": [],
+                    "note": "블루/그린 사파이어 450nm 밴드가 가장 강함"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Red, Orange-Red",
+                        "intensity": [
+                            "None",
+                            "Strong"
+                        ],
+                        "note": "적색~핑크색 사파이어"
+                    },
+                    "SW": {
+                        "color": "Red, Orange-Red",
+                        "intensity": [
+                            "None",
+                            "Strong"
+                        ],
+                        "note": "적색~핑크색 사파이어"
+                    }
+                },
+                {
+                    "LW": {
+                        "color": "Red",
+                        "intensity": [
+                            "Faint",
+                            "Moderate",
+                            "Strong"
+                        ],
+                        "note": "청색 스리랑카산 사파이어는 강한 적색 반응"
+                    },
+                    "SW": {
+                        "color": "Red",
+                        "intensity": [
+                            "Faint",
+                            "Moderate",
+                            "Strong"
+                        ],
+                        "note": "청색 스리랑카산 사파이어는 강한 적색 반응"
+                    }
+                },
+                {
+                    "LW": {
+                        "color": null,
+                        "intensity": [
+                            "None"
+                        ],
+                        "note": "어두운 사파이어는 무반응"
+                    },
+                    "SW": {
+                        "color": null,
+                        "intensity": [
+                            "None"
+                        ],
+                        "note": "어두운 사파이어는 무반응"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 4.00,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.0,
+                "max": 9.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "천연 스타 사파이어는 손상되지 않은 루틸 침상 내포물과 각진 성장 패턴이 특징"
+        },
+        {
+            "id": 15,
+            "korean_name": "컬러 체인지 사파이어",
+            "english_name": "Color Change Sapphire",
+            "category": "Corundum",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "일광/형광조명 하 청자색",
+                "백열광 하 적자색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "CC"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.762,
+                    "max": 1.770,
+                    "tolerance_max": 0.009,
+                    "tolerance_min": -0.005,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.010,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "U-"
+            },
+            "pleochroism": {
+                "type": "이색성",
+                "note": null
+            },
+            "inclusions": [
+                "지문상 내포물",
+                "이상 내포물",
+                "크리스털",
+                "침상 내포물"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": "적색 부분",
+                    "lines": [
+                        "450nm",
+                        "460nm",
+                        "470nm"
+                    ],
+                    "bands": [],
+                    "cutoff": [],
+                    "note": "적색 부분에 크롬라인 + 철 관련 라인들"
+                }
+            ],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 4.00,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.0,
+                "max": 9.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "다양한 방향에서 관찰해야 변색효과(CC)가 약할 때도 확인 가능"
+        },
+        {
+            "id": 16,
+            "korean_name": "함침 루비",
+            "english_name": "Lead Glass Filled Ruby",
+            "category": "Corundum",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "적색",
+                "자적색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "TL"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "Flash Effect"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.762,
+                    "max": 1.770,
+                    "tolerance_max": 0.009,
+                    "tolerance_min": -0.005,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.010,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "U-"
+            },
+            "pleochroism": {
+                "type": "이색성",
+                "note": null
+            },
+            "inclusions": [
+                "플래시 효과(flash effect)",
+                "다양한 크기의 기포"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [
+                        "659nm",
+                        "668nm",
+                        "693nm"
+                    ],
+                    "bands": [
+                        "500nm-610nm"
+                    ],
+                    "cutoff": [],
+                    "note": null
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Red",
+                        "intensity": [
+                            "Faint",
+                            "Moderate",
+                            "Strong"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": "Red",
+                        "intensity": [
+                            "Faint",
+                            "Moderate",
+                            "Strong"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 4.00,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.0,
+                "max": 9.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": true,
+            "treatment_types": [
+                "납유리 함침"
+            ],
+            "comment": "납유리 함침으로 플래시 효과 발생. 초음파/스팀 세척시 투명도 변화 주의 필요"
+        },
+        {
+            "id": 17,
+            "korean_name": "표면 확산 사파이어",
+            "english_name": "Surface Diffusion Sapphire",
+            "category": "Corundum",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "일반적으로 청색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP",
+                    "TL",
+                    "STL"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "A"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.762,
+                    "max": 1.770,
+                    "tolerance_max": 0.009,
+                    "tolerance_min": -0.005,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.010,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "U-"
+            },
+            "pleochroism": {
+                "type": "이색성",
+                "note": null
+            },
+            "inclusions": [
+                "표면에 닿아있는 내포물",
+                "피셔에 색 집중",
+                "확산 조명 하 또는 침적시, 패싯 능선과 능선 주위 색 집중"
+            ],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 4.00,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.0,
+                "max": 9.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": true,
+            "treatment_types": [
+                "표면 확산"
+            ],
+            "comment": "색 침투 두께 얇아 재연마/파손시 색 변화. 무색/옅은 블루 사파이어에 주로 적용"
+        },
+        {
+            "id": 18,
+            "korean_name": "합성 루비",
+            "english_name": "Synthetic Ruby",
+            "category": "Synthetic Corundum",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "적색",
+                "적자색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.762,
+                    "max": 1.770,
+                    "tolerance_max": 0.009,
+                    "tolerance_min": -0.005,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.010,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "U-"
+            },
+            "pleochroism": {
+                "type": "이색성",
+                "note": "일반적으로 합성은 테이블 패싯 통해 바로 다색성 보임"
+            },
+            "inclusions": [
+                "플레임 퓨전법: 곡선, 기포, 인위적 균열(유사 지문상)",
+                "플럭스법: 위스피 베일상, 삼각형/육각형 백금 내포물, 고드름 플럭스 내포물"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [
+                        "659nm",
+                        "668nm",
+                        "693nm"
+                    ],
+                    "bands": [
+                        "500nm-610nm"
+                    ],
+                    "cutoff": [],
+                    "note": "천연과 동일"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Red",
+                        "intensity": [
+                            "Strong",
+                            "Very Strong"
+                        ],
+                        "note": "천연보다 약간 더 강함"
+                    },
+                    "SW": {
+                        "color": "Red",
+                        "intensity": [
+                            "Strong",
+                            "Very Strong"
+                        ],
+                        "note": "천연보다 약간 더 강함"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 4.00,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.0,
+                "max": 9.0,
+                "note": null
+            },
+            "is_synthetic": true,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "내포물 관찰로 천연과 합성 구별. 플레임 퓨전법(곡선/기포), 플럭스법(백금/위스피) 특징"
+        },
+        {
+            "id": 19,
+            "korean_name": "합성 스타 루비",
+            "english_name": "Synthetic Star Ruby",
+            "category": "Synthetic Corundum",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "적색",
+                "적자색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "STL"
+                ],
+                "note": "일반적으로 STL"
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "A"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.760,
+                    "max": 1.760,
+                    "tolerance_max": null,
+                    "tolerance_min": null,
+                    "otl": false,
+                    "spot_reading": true,
+                    "note": "1.76(S)"
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "일반적으로 감지되지 않음"
+            },
+            "polariscope": {
+                "type": [
+                    "DR",
+                    "AGG"
+                ],
+                "note": "AGG 반응이 일반적"
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": "투명도에 따라 다름"
+            },
+            "inclusions": [
+                "곡선",
+                "기포",
+                "캐보션 바닥면에서 확연한 곡선",
+                "표면에 기포 자국"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [
+                        "659nm",
+                        "668nm",
+                        "693nm"
+                    ],
+                    "bands": [
+                        "500nm-610nm"
+                    ],
+                    "cutoff": [],
+                    "note": "천연과 동일"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Orange-Red",
+                        "intensity": [
+                            "Very Strong"
+                        ],
+                        "note": "천연보다 강한 반응"
+                    },
+                    "SW": {
+                        "color": "Orange-Red",
+                        "intensity": [
+                            "Moderate",
+                            "Strong"
+                        ],
+                        "note": "천연보다 강한 반응"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 4.00,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.0,
+                "max": 9.0,
+                "note": null
+            },
+            "is_synthetic": true,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "확대검사로 천연과 구별. 캐보션 바닥면 곡선과 기포가 주요 특징"
+        },
+        {
+            "id": 20,
+            "korean_name": "합성 사파이어",
+            "english_name": "Synthetic Sapphire",
+            "category": "Synthetic Corundum",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "적색을 제외한 모든 색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.762,
+                    "max": 1.770,
+                    "tolerance_max": 0.009,
+                    "tolerance_min": -0.005,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.010,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "U-"
+            },
+            "pleochroism": {
+                "type": "이색성",
+                "note": null
+            },
+            "inclusions": [
+                "플레임 퓨전법: 커브드 밴드(curved band), 기포(그룹 형태, 방향성 없음)",
+                "플럭스법: 위스피 베일상, 삼각형/육각형 백금 내포물, 고드름 플럭스 내포물"
+            ],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": null,
+                        "intensity": [
+                            "None"
+                        ],
+                        "note": "일반적으로 무반응"
+                    },
+                    "SW": {
+                        "color": "청색",
+                        "intensity": [
+                            "Faint",
+                            "Moderate"
+                        ],
+                        "note": "쵸키한 청색 형광 반응"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 4.00,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.0,
+                "max": 9.0,
+                "note": null
+            },
+            "is_synthetic": true,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "확대검사로 천연과 구별. 플레임 퓨전법은 커브드 밴드/기포, 플럭스법은 백금 내포물 특징"
+        },
+        {
+            "id": 21,
+            "korean_name": "합성 스타 사파이어",
+            "english_name": "Synthetic Star Sapphire",
+            "category": "Synthetic Corundum",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "적색을 제외한 모든 색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TL",
+                    "STL"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "A"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.760,
+                    "max": 1.760,
+                    "tolerance_max": null,
+                    "tolerance_min": null,
+                    "otl": false,
+                    "spot_reading": true,
+                    "note": "1.76(S)"
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "일반적으로 감지되지 않음"
+            },
+            "polariscope": {
+                "type": [
+                    "DR",
+                    "AGG"
+                ],
+                "note": "AGG 반응이 일반적"
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": "투명도에 따라 다름"
+            },
+            "inclusions": [
+                "곡선과 기포"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": "Blue, Green",
+                    "lines": [],
+                    "bands": [
+                        "450nm",
+                        "460nm",
+                        "471nm"
+                    ],
+                    "cutoff": [],
+                    "note": "블루/그린 사파이어 450nm 밴드가 가장 강함"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Pink, Red, White",
+                        "intensity": [
+                            "None",
+                            "Faint"
+                        ],
+                        "note": "주로 반응이 없으나, 색상에 따라 다양. 합성 블루 스타사파이어는 반응 없거나 매우 약한 분홍, 적색, 흰색 형광반응"
+                    },
+                    "SW": {
+                        "color": "Pink, Red, White",
+                        "intensity": [
+                            "None",
+                            "Faint"
+                        ],
+                        "note": "주로 반응이 없으나, 색상에 따라 다양. 합성 블루 스타사파이어는 반응 없거나 매우 약한 분홍, 적색, 흰색 형광반응"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 4.00,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.0,
+                "max": 9.0,
+                "note": null
+            },
+            "is_synthetic": true,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "확대검사로 천연 스타 사파이어와 구별. 곡선과 기포가 주요 특징"
+        },
+        {
+            "id": 22,
+            "korean_name": "합성 컬러 체인지 사파이어",
+            "english_name": "Synthetic Color Change Sapphire",
+            "category": "Synthetic Corundum",
+            "group": null,
+            "crystal_system": "삼방정계(육방정계)",
+            "color": [
+                "일광/형광조명 하 청자색",
+                "백열광 하 적자색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "CC"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.762,
+                    "max": 1.770,
+                    "tolerance_max": 0.009,
+                    "tolerance_min": -0.005,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.010,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "U-"
+            },
+            "pleochroism": {
+                "type": "이색성",
+                "note": null
+            },
+            "inclusions": [
+                "기포",
+                "곡선"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [
+                        "474nm"
+                    ],
+                    "bands": [
+                        "550nm-610nm"
+                    ],
+                    "cutoff": [
+                        "460nm"
+                    ],
+                    "note": "바나듐에 의한 474nm 강한 라인"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Orange, Red",
+                        "intensity": [
+                            "Moderate"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": "Orange, Red",
+                        "intensity": [
+                            "Moderate"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 4.00,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.05,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 9.0,
+                "max": 9.0,
+                "note": null
+            },
+            "is_synthetic": true,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "천연보다 변색효과(CC)가 강함. 크라운 방향 곡선 관찰 어려우면 퍼빌리언 확인"
+        },
+        {
+            "id": 23,
+            "korean_name": "로돌라이트 가닛",
+            "english_name": "Rhodolite Garnet",
+            "category": "Garnet",
+            "group": "가닛",
+            "crystal_system": "등축정계",
+            "color": [
+                "보라색",
+                "자주색",
+                "자적색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.760,
+                    "max": 1.760,
+                    "tolerance_max": 0.010,
+                    "tolerance_min": -0.020,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "없음"
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "ADR"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "침상 내포물(70°, 110°)",
+                "크리스털",
+                "지르콘 헤일로"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [],
+                    "bands": [
+                        "505nm",
+                        "527nm",
+                        "575nm"
+                    ],
+                    "cutoff": [],
+                    "note": null
+                }
+            ],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 3.84,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.10,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 7.0,
+                "max": 7.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "스펙트럼 흡수 밴드와 자색 외관으로 감별 중요"
+        },
+        {
+            "id": 24,
+            "korean_name": "크리소베릴",
+            "english_name": "Chrysoberyl",
+            "category": "Chrysoberyl",
+            "group": null,
+            "crystal_system": "사방정계",
+            "color": [
+                "황색",
+                "황록색",
+                "녹황색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP",
+                    "TL",
+                    "STL"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.746,
+                    "max": 1.755,
+                    "tolerance_max": 0.004,
+                    "tolerance_min": -0.006,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.010,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "B+"
+            },
+            "pleochroism": {
+                "type": "삼색성",
+                "note": "녹색, 오렌지, 적색"
+            },
+            "inclusions": [
+                "지문상",
+                "크리스털",
+                "액체 내포물"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [],
+                    "bands": [
+                        "444nm"
+                    ],
+                    "cutoff": [],
+                    "note": "철성분으로 인한 선명한 밴드"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": null,
+                        "intensity": [
+                            "None"
+                        ],
+                        "note": "일반적으로 무반응"
+                    },
+                    "SW": {
+                        "color": "Green-Yellow",
+                        "intensity": [
+                            "None",
+                            "Faint"
+                        ],
+                        "note": "일반적으로 무반응, 황색 및 녹황색 크리소베릴에서 단파 형광반응"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.73,
+                "tolerance_max": 0.02,
+                "tolerance_min": -0.02,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": "3방향(뚜렷하지 않음)",
+            "hardness": {
+                "min": 8.5,
+                "max": 8.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "크리소베릴은 황색~녹황색 계열이 일반적이다"
+        },
+        {
+            "id": 25,
+            "korean_name": "알렉산드라이트",
+            "english_name": "Alexandrite",
+            "category": "Chrysoberyl",
+            "group": null,
+            "crystal_system": "사방정계",
+            "color": [
+                "일광/형광조명 하 녹청색",
+                "백열광 하 적자색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "CC"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.746,
+                    "max": 1.755,
+                    "tolerance_max": 0.004,
+                    "tolerance_min": -0.006,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.010,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "B+"
+            },
+            "pleochroism": {
+                "type": "삼색성",
+                "note": "청색, 적자색, 황록색"
+            },
+            "inclusions": [
+                "지문상",
+                "크리스털",
+                "액체 내포물",
+                "침상과 액체 내포물"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [],
+                    "bands": [],
+                    "cutoff": [],
+                    "note": "전형적인 크롬 스펙트럼, 다색성에 따라 다양"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Red",
+                        "intensity": [
+                            "None",
+                            "Faint",
+                            "Moderate"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": "Red",
+                        "intensity": [
+                            "None",
+                            "Faint",
+                            "Moderate"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.73,
+                "tolerance_max": 0.02,
+                "tolerance_min": -0.02,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 8.5,
+                "max": 8.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "변색 효과 검사, 굴절률, 다색성, 확대 검사로 천연과 합성 감별"
+        },
+        {
+            "id": 26,
+            "korean_name": "캐츠아이",
+            "english_name": "Cat's-Eye",
+            "category": "Chrysoberyl",
+            "group": null,
+            "crystal_system": "사방정계",
+            "color": [
+                "녹황색",
+                "황녹색",
+                "황갈색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "STP",
+                    "TL",
+                    "STL"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "C"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.750,
+                    "max": 1.750,
+                    "tolerance_max": null,
+                    "tolerance_min": null,
+                    "otl": false,
+                    "spot_reading": true,
+                    "note": "1.75(S)"
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "일반적으로 감지되지 않음"
+            },
+            "polariscope": {
+                "type": [
+                    "DR",
+                    "AGG"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "삼색성 또는 없음",
+                "note": "청색, 적자색, 황록색. STL 보석에서는 검사 불가능"
+            },
+            "inclusions": [
+                "가는 침상과 실크와 유사한 속이 빈 관상",
+                "지문상",
+                "크리스털"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [
+                        "444nm"
+                    ],
+                    "bands": [],
+                    "cutoff": [],
+                    "note": "444nm 강한 밴드"
+                }
+            ],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 3.73,
+                "tolerance_max": 0.02,
+                "tolerance_min": -0.02,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 8.5,
+                "max": 8.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "빛의 반사에 의한 캐츠아이 효과. 캐보션으로 연마"
+        },
+        {
+            "id": 27,
+            "korean_name": "알렉산드라이트 캐츠아이",
+            "english_name": "Alexandrite Cat's-Eye",
+            "category": "Chrysoberyl",
+            "group": null,
+            "crystal_system": "사방정계",
+            "color": [
+                "일광/형광조명 하 녹청색",
+                "백열광 하 적자색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "STP",
+                    "TL",
+                    "STL"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "CC",
+                "C"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.750,
+                    "max": 1.750,
+                    "tolerance_max": null,
+                    "tolerance_min": null,
+                    "otl": false,
+                    "spot_reading": true,
+                    "note": "1.75(S)"
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "일반적으로 감지되지 않음"
+            },
+            "polariscope": {
+                "type": [
+                    "DR",
+                    "AGG"
+                ],
+                "note": "주로 AGG 반응"
+            },
+            "pleochroism": {
+                "type": "삼색성 또는 없음",
+                "note": "청색, 적자색, 황록색. STL 보석에서는 검사 불가능"
+            },
+            "inclusions": [
+                "가는 침상과 실크와 유사한 속이 빈 관상",
+                "지문상",
+                "크리스털"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [],
+                    "bands": [],
+                    "cutoff": [],
+                    "note": "다색성 방향에 따라 다양"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Red",
+                        "intensity": [
+                            "None",
+                            "Faint",
+                            "Moderate"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": "Red",
+                        "intensity": [
+                            "None",
+                            "Faint",
+                            "Moderate"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.73,
+                "tolerance_max": 0.02,
+                "tolerance_min": -0.02,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 8.5,
+                "max": 8.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "변색효과(CC)와 샤토얀시(C) 효과가 동시에 나타남. 특수 효과 관찰 중요"
+        },
+        {
+            "id": 28,
+            "korean_name": "파이로프 가닛",
+            "english_name": "Pyrope Garnet",
+            "category": "Pyrope",
+            "group": "Garnet",
+            "crystal_system": "등축정계",
+            "color": [
+                "적색",
+                "암적색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP",
+                    "TL",
+                    "STL"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택"
+            ],
+            "special_effects": [
+                "CC"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.746,
+                    "max": null,
+                    "tolerance_max": 0.010,
+                    "tolerance_min": -0.026,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "없음"
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "ADR"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "침상과 불규칙적인 크리스털"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": "크롬 발색",
+                    "lines": [
+                        "685nm",
+                        "687nm"
+                    ],
+                    "bands": [
+                        "505nm",
+                        "520nm-620nm"
+                    ],
+                    "cutoff": [
+                        "490nm"
+                    ],
+                    "note": "크롬으로 발색된 파이로프"
+                },
+                {
+                    "color": "크롬 미발색",
+                    "lines": [],
+                    "bands": [
+                        "505nm"
+                    ],
+                    "cutoff": [
+                        "490nm"
+                    ],
+                    "note": "크롬으로 발색되지 않은 파이로프"
+                }
+            ],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 3.78,
+                "tolerance_max": 0.09,
+                "tolerance_min": -0.16,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 7.0,
+                "max": 7.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "매우 어두운 명도가 일반적. 드물게 CC 효과"
+        },
+        {
+            "id": 29,
+            "korean_name": "헤소나이트",
+            "english_name": "Hessonite",
+            "category": "Grossularite",
+            "group": "Garnet",
+            "crystal_system": "등축정계",
+            "color": [
+                "오렌지색",
+                "황색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.740,
+                    "max": null,
+                    "tolerance_max": 0.020,
+                    "tolerance_min": -0.010,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "없음"
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "ADR"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "둥근 크리스털",
+                "열파 현상",
+                "당밀상 구조",
+                "실과 같은 섬유상 내포물"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [
+                        "407nm",
+                        "430nm"
+                    ],
+                    "bands": [],
+                    "cutoff": [],
+                    "note": "일반적으로 특징적이지 않음"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Orange",
+                        "intensity": [
+                            "None",
+                            "Faint"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": "Orange",
+                        "intensity": [
+                            "None",
+                            "Faint"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.61,
+                "tolerance_max": 0.12,
+                "tolerance_min": -0.04,
+                "note": null
+            },
+            "cleavage": [
+                "패각상",
+                "불균일상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 7.0,
+                "max": 7.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "굴절률, 편광성, 특징적 내포물(열파, 크리스털)로 감별 용이"
+        },
+        {
+            "id": 30,
+            "korean_name": "차보라이트",
+            "english_name": "Tsavorite",
+            "category": "Grossularite",
+            "group": "Garnet",
+            "crystal_system": "등축정계",
+            "color": [
+                "녹색",
+                "녹황색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.740,
+                    "max": null,
+                    "tolerance_max": 0.020,
+                    "tolerance_min": -0.010,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "없음"
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "ADR"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "지문상",
+                "액체 내포물",
+                "크리스털"
+            ],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Orange",
+                        "intensity": [
+                            "None",
+                            "Faint"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": "Orange-Yellow",
+                        "intensity": [
+                            "Faint"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.61,
+                "tolerance_max": 0.12,
+                "tolerance_min": -0.04,
+                "note": null
+            },
+            "cleavage": [
+                "패각상",
+                "불균일상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 7.0,
+                "max": 7.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "굴절률, 편광성, 확대 검사가 주요 감별 포인트"
+        },
+        {
+            "id": 31,
+            "korean_name": "하이드로그로슐라 가닛",
+            "english_name": "Hydrogrossular Garnet",
+            "category": "Hydrogrossular",
+            "group": "Garnet",
+            "crystal_system": "등축정계",
+            "color": [
+                "녹색",
+                "핑크",
+                "백색",
+                "회색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.720,
+                    "max": 1.720,
+                    "tolerance_max": 0.010,
+                    "tolerance_min": -0.050,
+                    "otl": false,
+                    "spot_reading": true,
+                    "note": "1.72(S) (더 낮을 수 있음)"
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "없음"
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "AGG"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "검은 반점 내포물"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": "어두운 녹색",
+                    "lines": [],
+                    "bands": [],
+                    "cutoff": [
+                        "460nm"
+                    ],
+                    "note": null
+                }
+            ],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 3.47,
+                "tolerance_max": 0.08,
+                "tolerance_min": -0.32,
+                "note": null
+            },
+            "cleavage": [
+                "불균일상",
+                "입상",
+                "목쇄상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 7.0,
+                "max": 7.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "굴절률과 스펙트럼, 외관이 주요 감별 포인트"
+        },
+        {
+            "id": 32,
+            "korean_name": "로도나이트",
+            "english_name": "Rhodonite",
+            "category": "Rhodonite",
+            "group": null,
+            "crystal_system": "삼사정계",
+            "color": [
+                "핑크"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP",
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아유리광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.733,
+                    "max": 1.747,
+                    "tolerance_max": 0.010,
+                    "tolerance_min": -0.013,
+                    "otl": false,
+                    "spot_reading": true,
+                    "note": "1.73(S) (쿼츠 불순물로 1.54(S) 가능)"
+                }
+            ],
+            "birefringence": {
+                "min": 0.010,
+                "max": 0.014,
+                "note": "일반적으로 감지되지 않음"
+            },
+            "polariscope": {
+                "type": [
+                    "DR",
+                    "AGG"
+                ],
+                "note": "B+"
+            },
+            "pleochroism": {
+                "type": "이색성",
+                "note": null
+            },
+            "inclusions": [
+                "흑색 반점과 같은 내포물"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [],
+                    "bands": [
+                        "408nm",
+                        "412nm",
+                        "455nm",
+                        "503nm",
+                        "548nm"
+                    ],
+                    "cutoff": [],
+                    "note": null
+                }
+            ],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 3.50,
+                "tolerance_max": 0.26,
+                "tolerance_min": -0.20,
+                "note": null
+            },
+            "cleavage": [
+                "패각상",
+                "불균일상",
+                "입상"
+            ],
+            "fracture": "2방향 완전(잠정질 구조로 불명료)",
+            "hardness": {
+                "min": 5.5,
+                "max": 6.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "핑크색에 산화망간 흑색 반점/줄무늬 특징적. 쿼츠 불순물로 굴절률 1.54 주의"
+        },
+        {
+            "id": 33,
+            "korean_name": "스피넬",
+            "english_name": "Spinel",
+            "category": "Spinel",
+            "group": null,
+            "crystal_system": "등축정계",
+            "color": [
+                "핑크",
+                "적색",
+                "자색",
+                "청색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.718,
+                    "max": 1.718,
+                    "tolerance_max": 0.017,
+                    "tolerance_min": -0.008,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": "레드와 블루 스피넬은 종종 높은 범위의 굴절률을 보인다"
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "없음"
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "ADR"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "미세한 팔면체 크리스털(단독 또는 지문상 내)",
+                "침상 내포물"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": "핑크-적색",
+                    "lines": [
+                        "684nm",
+                        "686nm",
+                        "632nm",
+                        "642nm",
+                        "650nm",
+                        "656nm",
+                        "665nm",
+                        "675nm"
+                    ],
+                    "bands": [],
+                    "cutoff": [],
+                    "note": "녹색 영역 넓은 흡수"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": null,
+                        "intensity": [
+                            "None"
+                        ],
+                        "note": "다른 색들은 일반적으로 무반응"
+                    },
+                    "SW": {
+                        "color": null,
+                        "intensity": [
+                            "None"
+                        ],
+                        "note": "다른 색들은 일반적으로 무반응"
+                    }
+                },
+                {
+                    "LW": {
+                        "color": "Red, Orange",
+                        "intensity": [
+                            "Strong"
+                        ],
+                        "note": "핑크-적색 계열"
+                    },
+                    "SW": {
+                        "color": "Red, Orange-Red",
+                        "intensity": [
+                            "Faint"
+                        ],
+                        "note": "핑크-적색 계열"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.60,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.03,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 8.0,
+                "max": 8.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "단굴절 보석. 굴절률, 편광성, 자외선 반응, 내포물로 천연/합성 감별"
+        },
+        {
+            "id": 34,
+            "korean_name": "스타 스피넬",
+            "english_name": "Star Spinel",
+            "category": "Spinel",
+            "group": null,
+            "crystal_system": "등축정계",
+            "color": [
+                "청색",
+                "청자색",
+                "적색",
+                "적자색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": "주로 불투명"
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "A"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.720,
+                    "max": 1.730,
+                    "tolerance_max": null,
+                    "tolerance_min": null,
+                    "otl": false,
+                    "spot_reading": true,
+                    "note": "1.72(S) 또는 1.73(S)"
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "ADR"
+                ],
+                "note": "책에는 '없음'으로 나옴 확인 필요"
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "교차 침상 내포물"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": "천연 레드 스타 스피넬",
+                    "lines": [
+                        "686nm"
+                    ],
+                    "bands": [],
+                    "cutoff": [],
+                    "note": "녹색영역 넓은 흡수밴드"
+                },
+                {
+                    "color": "천연 블루 스타 스피넬",
+                    "lines": [],
+                    "bands": [
+                        "459nm",
+                        "480nm",
+                        "553nm",
+                        "593nm",
+                        "632nm"
+                    ],
+                    "cutoff": [],
+                    "note": "철에 의한 발색"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": null,
+                        "intensity": [
+                            "None"
+                        ],
+                        "note": "다른 색들은 일반적으로 무반응"
+                    },
+                    "SW": {
+                        "color": null,
+                        "intensity": [
+                            "None"
+                        ],
+                        "note": "다른 색들은 일반적으로 무반응"
+                    }
+                },
+                {
+                    "LW": {
+                        "color": "Red",
+                        "intensity": [
+                            "Strong"
+                        ],
+                        "note": "적색 스피넬에서 적색 반응"
+                    },
+                    "SW": {
+                        "color": "Red",
+                        "intensity": [
+                            "Faint"
+                        ],
+                        "note": "적색 스피넬에서 적색 반응"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.60,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.03,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 8.0,
+                "max": 8.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "방향에 따라 4줄기 또는 6줄기 스타 가능"
+        },
+        {
+            "id": 35,
+            "korean_name": "컬러 체인지 스피넬",
+            "english_name": "Color Change Spinel",
+            "category": "Spinel",
+            "group": null,
+            "crystal_system": "등축정계",
+            "color": [
+                "일광/형광조명 하 청자색",
+                "백열광 하 적자색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [
+                "CC"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.718,
+                    "max": null,
+                    "tolerance_max": 0.017,
+                    "tolerance_min": -0.008,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "SR"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "지문상",
+                "액체 내포물",
+                "크리스털",
+                "침상 내포물",
+                "페더 형태 지문상"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [
+                        "686nm",
+                        "552nm-554nm"
+                    ],
+                    "bands": [
+                        "454nm-461nm"
+                    ],
+                    "cutoff": [],
+                    "note": "코발트+크롬 미량원소 조합에 의한 것"
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Chalky Red",
+                        "intensity": [
+                            "Moderate",
+                            "Strong"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": null,
+                        "intensity": [
+                            "None"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.60,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.03,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 8.0,
+                "max": 8.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "변색 효과 검사, 굴절률, 편광성 검사로 감별"
+        },
+        {
+            "id": 36,
+            "korean_name": "합성 스피넬",
+            "english_name": "Synthetic Spinel",
+            "category": "Synthetic Spinel",
+            "group": null,
+            "crystal_system": "등축정계",
+            "color": [
+                "청색",
+                "청남색",
+                "녹황색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.728,
+                    "max": 1.728,
+                    "tolerance_max": 0.012,
+                    "tolerance_min": -0.008,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "없음"
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "ADR"
+                ],
+                "note": "강한 ADR 반응, 크로스 해치 효과"
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "기포",
+                "무내포물"
+            ],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Orange",
+                        "intensity": [
+                            "Faint",
+                            "Moderate"
+                        ],
+                        "note": "밝은 청색 합성 스피넬"
+                    },
+                    "SW": {
+                        "color": "Chalky Blue",
+                        "intensity": [
+                            "Faint",
+                            "Moderate"
+                        ],
+                        "note": "밝은 청색 합성 스피넬"
+                    }
+                },
+                {
+                    "LW": {
+                        "color": "Red",
+                        "intensity": [
+                            "Strong"
+                        ],
+                        "note": "중간 청색 합성 스피넬"
+                    },
+                    "SW": {
+                        "color": "Blue-White",
+                        "intensity": [
+                            "Strong"
+                        ],
+                        "note": "중간 청색 합성 스피넬"
+                    }
+                },
+                {
+                    "LW": {
+                        "color": "Red",
+                        "intensity": [
+                            "Strong"
+                        ],
+                        "note": "강한 청색 합성 스피넬"
+                    },
+                    "SW": {
+                        "color": "Stained Blue",
+                        "intensity": [
+                            "Strong"
+                        ],
+                        "note": "강한 청색 합성 스피넬"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.64,
+                "tolerance_max": 0.02,
+                "tolerance_min": -0.12,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 8.0,
+                "max": 8.0,
+                "note": null
+            },
+            "is_synthetic": true,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "컬러필터에서 강한 적색을 보인다. 굴절률, 편광기, 확대, 자외선 형광 검사로 감별. 크로스 해치 특징적"
+        },
+        {
+            "id": 37,
+            "korean_name": "합성 컬러 체인지 스피넬",
+            "english_name": "Synthetic Color Change Spinel",
+            "category": "Synthetic Spinel",
+            "group": null,
+            "crystal_system": "등축정계",
+            "color": [
+                "일광/형광조명 하 녹색",
+                "백열광 하 적색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "아금강광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.728,
+                    "max": 1.728,
+                    "tolerance_max": 0.012,
+                    "tolerance_min": -0.008,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": null,
+                "max": null,
+                "note": "없음"
+            },
+            "polariscope": {
+                "type": [
+                    "SR",
+                    "ADR"
+                ],
+                "note": "강한 ADR 반응, 크로스 해치 효과"
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "기포",
+                "무내포물"
+            ],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Red",
+                        "intensity": [
+                            "Strong"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": "Chalky Blue",
+                        "intensity": [
+                            "Faint",
+                            "Moderate"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.64,
+                "tolerance_max": 0.02,
+                "tolerance_min": -0.12,
+                "note": null
+            },
+            "cleavage": [
+                "패각상"
+            ],
+            "fracture": null,
+            "hardness": {
+                "min": 8.0,
+                "max": 8.0,
+                "note": null
+            },
+            "is_synthetic": true,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "컬러필터에서 강한 적색을 보인다. 굴절률, 편광기, 확대, 자외선 형광 검사로 감별. 크로스 해치 특징적"
+        },
+        {
+            "id": 38,
+            "korean_name": "아이도크레이즈",
+            "english_name": "Idocrase",
+            "category": "Idocrase",
+            "group": null,
+            "crystal_system": "정방정계",
+            "color": [
+                "녹황색",
+                "황록색",
+                "황갈색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP",
+                    "STP",
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "지방광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.713,
+                    "max": 1.718,
+                    "tolerance_max": 0.003,
+                    "tolerance_min": -0.013,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.001,
+                "max": 0.012,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "복굴절량 낮아 SR처럼 보일 수 있음"
+            },
+            "pleochroism": {
+                "type": "없음, 이색성",
+                "note": "약한 이색성 가능"
+            },
+            "inclusions": [
+                "열파(heat wave) 현상",
+                "크리스털"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": null,
+                    "lines": [
+                        "464nm",
+                        "528.5nm"
+                    ],
+                    "bands": [],
+                    "cutoff": [],
+                    "note": null
+                }
+            ],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 3.40,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.15,
+                "note": null
+            },
+            "cleavage": [
+                "패각상",
+                "불균일상",
+                "입상"
+            ],
+            "fracture": "불명료",
+            "hardness": {
+                "min": 6.5,
+                "max": 6.5,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "복굴절량 매우 낮아 SR 오인 주의. 교차편광기에서 얼룩진 스트레인 관찰"
+        },
+        {
+            "id": 39,
+            "korean_name": "조이사이트",
+            "english_name": "Zoisite",
+            "category": "Zoisite",
+            "group": null,
+            "crystal_system": "사방정계",
+            "color": [
+                "녹색과 흑색반점",
+                "녹색과 자적색(ruby-in-zoisite)"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.690,
+                    "max": 1.760,
+                    "tolerance_max": null,
+                    "tolerance_min": null,
+                    "otl": false,
+                    "spot_reading": true,
+                    "note": "녹색 1.69(S), 적색 부분(루비) 1.76(S)"
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.013,
+                "note": "측정이 어려울 수 있음"
+            },
+            "polariscope": {
+                "type": [
+                    "AGG",
+                    "없음"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "흑색 및 암록색 반점",
+                "미세한 균열"
+            ],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Red",
+                        "intensity": [
+                            "None",
+                            "Faint"
+                        ],
+                        "note": "보통 무반응이나 적색(루비) 부분만 Red 반응 가능"
+                    },
+                    "SW": {
+                        "color": "Red",
+                        "intensity": [
+                            "None",
+                            "Faint"
+                        ],
+                        "note": "보통 무반응이나 적색(루비) 부분만 Red 반응 가능"
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.35,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.25,
+                "note": null
+            },
+            "cleavage": [
+                "패각상",
+                "불균일상"
+            ],
+            "fracture": "1방향 완전",
+            "hardness": {
+                "min": 6.0,
+                "max": 7.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "루비 인 조이사이트는 녹색 조이사이트 내에 루비가 붙어 산출되며, 각 부분 굴절률이 달라 혼동 주의"
+        },
+        {
+            "id": 40,
+            "korean_name": "탄자나이트",
+            "english_name": "Tanzanite",
+            "category": "Zoisite",
+            "group": null,
+            "crystal_system": "사방정계",
+            "color": [
+                "청색",
+                "보라색을 띤 청색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.691,
+                    "max": 1.700,
+                    "tolerance_max": 0.005,
+                    "tolerance_min": -0.005,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.013,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "B+"
+            },
+            "pleochroism": {
+                "type": "삼색성",
+                "note": "청색, 적자색, 황록색. 열처리시 이색성(청색, 적자색)"
+            },
+            "inclusions": [
+                "액체 내포물",
+                "침상 내포물",
+                "무 내포물"
+            ],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 3.35,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.25,
+                "note": null
+            },
+            "cleavage": [
+                "패각상",
+                "불균일상"
+            ],
+            "fracture": "1방향 완전",
+            "hardness": {
+                "min": 6.0,
+                "max": 7.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "다색성 강함. 1방향 완전 벽개로 충격에 쉽게 갈라질 수 있어 취급 주의"
+        },
+        {
+            "id": 41,
+            "korean_name": "툴라이트",
+            "english_name": "Thulite",
+            "category": "Zoisite",
+            "group": null,
+            "crystal_system": "사방정계",
+            "color": [
+                "핑크(회색/백색 얼룩 동반)"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TL",
+                    "STL",
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.700,
+                    "max": 1.700,
+                    "tolerance_max": null,
+                    "tolerance_min": null,
+                    "otl": false,
+                    "spot_reading": true,
+                    "note": "1.70(S) (불순물로 인해 1.50대 초반~중반으로 측정될 수 있다)"
+                }
+            ],
+            "birefringence": {
+                "min": 0.008,
+                "max": 0.013,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "AGG",
+                    "없음"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "백색 내포물"
+            ],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 3.35,
+                "tolerance_max": 0.10,
+                "tolerance_min": -0.25,
+                "note": "보통 3.10 근처"
+            },
+            "cleavage": [
+                "패각상",
+                "불균일상"
+            ],
+            "fracture": "1방향 완전",
+            "hardness": {
+                "min": 6.0,
+                "max": 7.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "조이사이트 중 핑크색 변종. 불순물로 굴절률 1.50대 초반~중반 주의"
+        },
+        {
+            "id": 42,
+            "korean_name": "다이옵사이드",
+            "english_name": "Diopside",
+            "category": "Diopside",
+            "group": null,
+            "crystal_system": "단사정계",
+            "color": [
+                "녹색",
+                "선명한 녹색(크롬타입)"
+            ],
+            "transparency": {
+                "transparency": [
+                    "TP"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "수지광택"
+            ],
+            "special_effects": [],
+            "refractive_indexs": [
+                {
+                    "min": 1.675,
+                    "max": 1.701,
+                    "tolerance_max": 0.029,
+                    "tolerance_min": -0.010,
+                    "otl": false,
+                    "spot_reading": false,
+                    "note": null
+                }
+            ],
+            "birefringence": {
+                "min": 0.024,
+                "max": 0.030,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "DR"
+                ],
+                "note": "B+"
+            },
+            "pleochroism": {
+                "type": "이색성",
+                "note": null
+            },
+            "inclusions": [
+                "액체 내포물",
+                "크리스털"
+            ],
+            "absorption_spectrums": [
+                {
+                    "color": "일반 녹색",
+                    "lines": [],
+                    "bands": [
+                        "505nm",
+                        "456nm",
+                        "493nm"
+                    ],
+                    "cutoff": [],
+                    "note": null
+                },
+                {
+                    "color": "크롬 타입",
+                    "lines": [
+                        "505nm",
+                        "508nm",
+                        "635nm",
+                        "655nm",
+                        "670nm"
+                    ],
+                    "cutoff": [
+                        "450nm"
+                    ],
+                    "note": null
+                }
+            ],
+            "uv_fluorescences": [
+                {
+                    "LW": {
+                        "color": "Green",
+                        "intensity": [
+                            "None",
+                            "Faint"
+                        ],
+                        "note": null
+                    },
+                    "SW": {
+                        "color": null,
+                        "intensity": [
+                            "None"
+                        ],
+                        "note": null
+                    }
+                }
+            ],
+            "specific_gravity": {
+                "value": 3.29,
+                "tolerance_max": 0.11,
+                "tolerance_min": -0.07,
+                "note": null
+            },
+            "cleavage": [
+                "패각상",
+                "불균일상"
+            ],
+            "fracture": "2방향 완전",
+            "hardness": {
+                "min": 5.5,
+                "max": 6.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "페리도트와 외관 유사하나 굴절률 항상 더 높음. 크롬 다이옵사이드는 선명한 녹색"
+        },
+        {
+            "id": 42,
+            "korean_name": "스타 다이옵사이드",
+            "english_name": "Star Diopside",
+            "category": "Diopside",
+            "group": null,
+            "crystal_system": "단사정계",
+            "color": [
+                "흑색"
+            ],
+            "transparency": {
+                "transparency": [
+                    "O"
+                ],
+                "note": null
+            },
+            "lustre": [
+                "유리광택",
+                "수지광택"
+            ],
+            "special_effects": [
+                "A"
+            ],
+            "refractive_indexs": [
+                {
+                    "min": 1.680,
+                    "max": 1.680,
+                    "tolerance_max": null,
+                    "tolerance_min": null,
+                    "otl": false,
+                    "spot_reading": true,
+                    "note": "1.68(S)"
+                }
+            ],
+            "birefringence": {
+                "min": 0.024,
+                "max": 0.030,
+                "note": null
+            },
+            "polariscope": {
+                "type": [
+                    "없음"
+                ],
+                "note": null
+            },
+            "pleochroism": {
+                "type": "없음",
+                "note": null
+            },
+            "inclusions": [
+                "굵고 검은 교차 침상 금속성 내포물"
+            ],
+            "absorption_spectrums": [],
+            "uv_fluorescences": [],
+            "specific_gravity": {
+                "value": 3.29,
+                "tolerance_max": 0.11,
+                "tolerance_min": -0.07,
+                "note": null
+            },
+            "cleavage": [
+                "패각상",
+                "불균일상"
+            ],
+            "fracture": "2방향 완전",
+            "hardness": {
+                "min": 5.5,
+                "max": 6.0,
+                "note": null
+            },
+            "is_synthetic": false,
+            "is_treated": false,
+            "treatment_types": [],
+            "comment": "침상 내포물로 4줄기 스타 효과 발생"
+        },
+        {
+    "id": 43,
+    "korean_name": "다이옵사이드 캐츠아이",
+    "english_name": "Diopside Cat's-Eye",
+    "category": "Diopside",
+    "group": null,
+    "crystal_system": "단사정계",
+    "color": ["녹색", "암록색"],
+    "transparency": {
+        "transparency": ["TL", "STL"],
+        "note": null
+    },
+    "lustre": ["유리광택", "수지광택"],
+    "special_effects": ["C"],
+    "refractive_indexs": [
+        {
+            "min": 1.680,
+            "max": 1.680,
+            "tolerance_max": null,
+            "tolerance_min": null,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.68(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.024,
+        "max": 0.030,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": [
+        "굵은 침상 내포물",
+        "액체 내포물"
+    ],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "Red",
+                "intensity": ["None", "Faint"],
+                "note": null
+            },
+            "SW": {
+                "color": "Yellow",
+                "intensity": ["None", "Faint"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 3.29,
+        "tolerance_max": 0.11,
+        "tolerance_min": -0.07,
+        "note": null
+    },
+    "cleavage": ["패각상", "불균일상"],
+    "fracture": "2방향 완전",
+    "hardness": {
+        "min": 5.5,
+        "max": 6.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "굴절률, 비중, 굵은 침상 내포물로 감별. 대부분 굵은 침상 내포물 존재"
+},
+{
+    "id": 44,
+    "korean_name": "스포듀민",
+    "english_name": "Spodumene",
+    "category": "Spodumene",
+    "group": null,
+    "crystal_system": "단사정계",
+    "color": ["무색", "옅은 황색"],
+    "transparency": {
+        "transparency": ["TP"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.660,
+            "max": 1.676,
+            "tolerance_max": 0.005,
+            "tolerance_min": -0.005,
+            "otl": false,
+            "spot_reading": false,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": 0.014,
+        "max": 0.016,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "B+"
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": [
+        "관상 내포물",
+        "액체 내포물",
+        "90°로 교차하는 클리비지(벽개)"
+    ],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 3.18,
+        "tolerance_max": 0.03,
+        "tolerance_min": -0.03,
+        "note": null
+    },
+    "cleavage": ["불균일상", "목쇄상"],
+    "fracture": "2방향 완전",
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "확대검사에서 90° 교차하는 2방향 완전 벽개 관찰 가능"
+},
+{
+    "id": 45,
+    "korean_name": "쿤자이트",
+    "english_name": "Kunzite",
+    "category": "Spodumene",
+    "group": null,
+    "crystal_system": "단사정계",
+    "color": ["핑크(보통 밝은 명도)"],
+    "transparency": {
+        "transparency": ["TP"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.660,
+            "max": 1.676,
+            "tolerance_max": 0.005,
+            "tolerance_min": -0.005,
+            "otl": false,
+            "spot_reading": false,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": 0.014,
+        "max": 0.016,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "B+"
+    },
+    "pleochroism": {
+        "type": "이색성 또는 삼색성",
+        "note": "핑크색, 자색, 무색"
+    },
+    "inclusions": [
+        "관상 내포물",
+        "액체 내포물"
+    ],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "Pink-Orange",
+                "intensity": ["Strong"],
+                "note": null
+            },
+            "SW": {
+                "color": "Pink-Orange",
+                "intensity": ["Faint"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 3.18,
+        "tolerance_max": 0.03,
+        "tolerance_min": -0.03,
+        "note": null
+    },
+    "cleavage": ["불균일상", "목쇄상"],
+    "fracture": "2방향 완전",
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "스포듀민 중 핑크색 보석. 굴절률, 자외선 형광 검사로 감별"
+},
+{
+    "id": 46,
+    "korean_name": "히데나이트",
+    "english_name": "Hiddenite",
+    "category": "Spodumene",
+    "group": null,
+    "crystal_system": "단사정계",
+    "color": ["연한 녹색", "녹색"],
+    "transparency": {
+        "transparency": ["TP"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.662,
+            "max": 1.676,
+            "tolerance_max": 0.005,
+            "tolerance_min": -0.005,
+            "otl": false,
+            "spot_reading": false,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": 0.014,
+        "max": 0.016,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "B+"
+    },
+    "pleochroism": {
+        "type": "이색성 또는 삼색성",
+        "note": "청록색, 녹색, 황록색"
+    },
+    "inclusions": [
+        "관상 내포물",
+        "액체 내포물"
+    ],
+    "absorption_spectrums": [
+        {
+            "color": null,
+            "lines": ["433nm", "438nm", "646nm", "669nm", "686nm", "690nm"],
+            "bands": ["620nm"],
+            "cutoff": [],
+            "note": "오렌지 영역 중앙의 620nm에서 넓은 흡수"
+        }
+    ],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 3.18,
+        "tolerance_max": 0.03,
+        "tolerance_min": -0.03,
+        "note": null
+    },
+    "cleavage": ["불균일상", "목쇄상"],
+    "fracture": "2방향 완전",
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "스포듀민 중 녹색 계열. 일반적으로 색이 옅다"
+},
+{
+    "id": 47,
+    "korean_name": "제이다이트",
+    "english_name": "Jadeite",
+    "category": "Jadeite",
+    "group": null,
+    "crystal_system": "단사정계",
+    "color": ["녹색", "백색", "보라색"],
+    "transparency": {
+        "transparency": ["STP", "TL", "STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택", "지방광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.666,
+            "max": 1.680,
+            "tolerance_max": 0.008,
+            "tolerance_min": -0.008,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.66(S)"
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": [
+        "섬유상 구조",
+        "불규칙한 표면",
+        "뿌리와 같은 얼룩의 불균일한 컬러 분포"
+    ],
+    "absorption_spectrums": [
+        {
+            "color": "크롬 발색 녹색",
+            "lines": ["437.5nm", "630nm", "655nm", "691nm"],
+            "bands": [],
+            "cutoff": [],
+            "note": "630nm(약), 655nm(중), 691nm(강)"
+        }
+    ],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "Yellow-Green",
+                "intensity": ["None", "Faint"],
+                "note": null
+            },
+            "SW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 3.34,
+        "tolerance_max": 0.06,
+        "tolerance_min": -0.09,
+        "note": null
+    },
+    "cleavage": ["입상", "목쇄상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "녹색의 대표적인 보석 중 하나로서 굴절률 검사로 판별. 나석일 경우 비중 검사, 염색 여부는 확대+분광기로 확인"
+},
+{
+    "id": 48,
+    "korean_name": "염색 녹색 제이다이트",
+    "english_name": "Dyed Green Jadeite",
+    "category": "Jadeite",
+    "group": null,
+    "crystal_system": "단사정계",
+    "color": ["녹색"],
+    "transparency": {
+        "transparency": ["TL"],
+        "note": null
+    },
+    "lustre": ["유리광택", "지방광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.666,
+            "max": 1.680,
+            "tolerance_max": 0.008,
+            "tolerance_min": -0.008,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.66(S)"
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": [
+        "균열면의 색소 침투 흔적"
+    ],
+    "absorption_spectrums": [
+        {
+            "color": null,
+            "lines": [],
+            "bands": ["630-650nm", "650-670nm"],
+            "cutoff": [],
+            "note": "오렌지-적색 영역 넓고 퍼진 흡수밴드"
+        }
+    ],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "Yellow-Green",
+                "intensity": ["None", "Faint"],
+                "note": null
+            },
+            "SW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 3.34,
+        "tolerance_max": 0.06,
+        "tolerance_min": -0.09,
+        "note": null
+    },
+    "cleavage": ["입상", "목쇄상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": true,
+    "treatment_types": ["염색"],
+    "comment": "확대검사만으로 판단 어려울 때 분광기로 오렌지-적색 흡수밴드 확인 필수"
+},
+{
+    "id": 49,
+    "korean_name": "말라카이트",
+    "english_name": "Malachite",
+    "category": "Malachite",
+    "group": null,
+    "crystal_system": "단사정계",
+    "color": ["녹색"],
+    "transparency": {
+        "transparency": ["O"],
+        "note": null
+    },
+    "lustre": ["견사광택", "유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.655,
+            "max": 1.909,
+            "tolerance_max": null,
+            "tolerance_min": null,
+            "otl": true,
+            "spot_reading": true,
+            "note": "1.65-OTL(S). 낮은 경도로 인한 표면상태와 광택으로 굴절률 검사시 유의"
+        }
+    ],
+    "birefringence": {
+        "min": 0.254,
+        "max": 0.254,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["없음"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": [
+        "곡선적 또는 동심원상 줄무늬"
+    ],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 3.95,
+        "tolerance_max": 0.15,
+        "tolerance_min": -0.70,
+        "note": null
+    },
+    "cleavage": ["불균일상", "목쇄상"],
+    "fracture": "2방향 완전(불명료)",
+    "hardness": {
+        "min": 3.5,
+        "max": 4.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "불투명 어두운 녹색 탄산염 보석. 곡선/동심원 줄무늬 특징적"
+},
+{
+    "id": 50,
+    "korean_name": "페리도트",
+    "english_name": "Peridot",
+    "category": "Peridot",
+    "group": null,
+    "crystal_system": "사방정계",
+    "color": ["황록색"],
+    "transparency": {
+        "transparency": ["TP"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.654,
+            "max": 1.690,
+            "tolerance_max": 0.020,
+            "tolerance_min": -0.020,
+            "otl": false,
+            "spot_reading": false,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": 0.035,
+        "max": 0.038,
+        "note": "일반적으로 0.036"
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "B+"
+    },
+    "pleochroism": {
+        "type": "이색성",
+        "note": null
+    },
+    "inclusions": [
+        "연꽃잎 모양 내포물(lily pad)",
+        "흑색 크로마이트 결정",
+        "클라우드 형태 내포물",
+        "더블링 현상"
+    ],
+    "absorption_spectrums": [
+        {
+            "color": null,
+            "lines": ["453nm", "477nm", "497nm"],
+            "bands": [],
+            "cutoff": [],
+            "note": null
+        }
+    ],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 3.34,
+        "tolerance_max": 0.04,
+        "tolerance_min": -0.07,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": "드물게 1방향 불명료",
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "굴절률, 스펙트럼, 확대검사로 감별. 더블링과 연꽃잎 내포물 특징적"
+},
+{
+    "id": 51,
+    "korean_name": "안달루사이트",
+    "english_name": "Andalusite",
+    "category": "Andalusite",
+    "group": null,
+    "crystal_system": "사방정계",
+    "color": ["황갈색", "황록색"],
+    "transparency": {
+        "transparency": ["TP", "STP", "TL", "STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.634,
+            "max": 1.643,
+            "tolerance_max": 0.005,
+            "tolerance_min": -0.005,
+            "otl": false,
+            "spot_reading": false,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": 0.007,
+        "max": 0.013,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "B-"
+    },
+    "pleochroism": {
+        "type": "삼색성",
+        "note": "황록색, 갈적색, 갈황색"
+    },
+    "inclusions": [
+        "크리스털",
+        "침상 내포물",
+        "액체 내포물"
+    ],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": "무반응"
+            },
+            "SW": {
+                "color": "Green, Yellow-Green",
+                "intensity": ["Faint", "Moderate"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 3.17,
+        "tolerance_max": 0.04,
+        "tolerance_min": -0.04,
+        "note": null
+    },
+    "cleavage": ["불균일상", "패각상"],
+    "fracture": "1방향 완전",
+    "hardness": {
+        "min": 7.0,
+        "max": 7.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "육안으로도 강한 다색성 관찰 가능. 토파즈, 투어멀린과 굴절률 유사 주의"
+},
+{
+    "id": 52,
+    "korean_name": "투어멀린",
+    "english_name": "Tourmaline",
+    "category": "Tourmaline",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["적색", "자색", "녹색", "청색"],
+    "transparency": {
+        "transparency": ["TP", "STP", "TL", "STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.624,
+            "max": 1.644,
+            "tolerance_max": 0.011,
+            "tolerance_min": -0.009,
+            "otl": false,
+            "spot_reading": false,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": 0.018,
+        "max": 0.040,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "U-"
+    },
+    "pleochroism": {
+        "type": "이색성",
+        "note": null
+    },
+    "inclusions": [
+        "액체 내포물",
+        "침상 내포물",
+        "크리스털"
+    ],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": null,
+                "intensity": ["None", "Faint"],
+                "note": "일반적으로 무반응, 색상에 따라 다양"
+            },
+            "SW": {
+                "color": null,
+                "intensity": ["None", "Faint"],
+                "note": "일반적으로 무반응, 색상에 따라 다양"
+            }
+        },
+        {
+            "LW": {
+                "color": "Bluish-White",
+                "intensity": ["None", "Faint", "Strong"],
+                "note": "구리 성분이 포함된 일부 파라이바 투어멀린"
+            },
+            "SW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": "구리 성분이 포함된 일부 파라이바 투어멀린"
+            }
+        },
+        {
+            "LW": {
+                "color": "Red",
+                "intensity": ["None", "Faint", "Moderate"],
+                "note": "크롬 성분이 포함된 일부 녹색 투어멀린"
+            },
+            "SW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": "크롬 성분이 포함된 일부 녹색 투어멀린"
+            }
+        },
+        {
+            "LW": {
+                "color": "Red, Orange-Red",
+                "intensity": ["None", "Faint"],
+                "note": "망간 성분이 포함된 일부 핑크 투어멀린"
+            },
+            "SW": {
+                "color": "Red, Orange-Red",
+                "intensity": ["None", "Faint", "Moderate"],
+                "note": "망간 성분이 포함된 일부 핑크 투어멀린"
+            }
+        },
+        {
+            "LW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": "일부 갈색 드라비트, 녹색 바나듐 드라비트, 녹색 바나듐 우바이트 투어말린"
+            },
+            "SW": {
+                "color": "Yellow",
+                "intensity": ["None", "Faint"],
+                "note": "일부 갈색 드라비트, 녹색 바나듐 드라비트, 녹색 바나듐 우바이트 투어말린"
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 3.06,
+        "tolerance_max": 0.20,
+        "tolerance_min": -0.06,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": null,
+    "hardness": {
+        "min": 7.0,
+        "max": 7.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "토파즈, 안달루사이트와 굴절률 유사. 파티 컬러 투어멀린은 적색과 녹색의 컬러 등 2가지 뚜렷한 컬러 조닝을 나타냄"
+},
+{
+    "id": 53,
+    "korean_name": "투어멀린 캐츠아이",
+    "english_name": "Tourmaline Cat's-Eye",
+    "category": "Tourmaline",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["적색", "녹색", "청색"],
+    "transparency": {
+        "transparency": ["STP", "TL"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": ["C"],
+    "refractive_indexs": [
+        {
+            "min": 1.624,
+            "max": 1.644,
+            "tolerance_max": 0.011,
+            "tolerance_min": -0.009,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.62-1.64(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.018,
+        "max": 0.040,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR", "AGG"],
+        "note": "U-"
+    },
+    "pleochroism": {
+        "type": "이색성",
+        "note": null
+    },
+    "inclusions": [
+        "관상 조직의 굵은 침상 내포물",
+        "액체 내포물"
+    ],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": null,
+                "intensity": ["None", "Faint"],
+                "note": "일반적으로 무반응, 색상에 따라 다양"
+            },
+            "SW": {
+                "color": null,
+                "intensity": ["None", "Faint"],
+                "note": "일반적으로 무반응, 색상에 따라 다양"
+            }
+        },
+        {
+            "LW": {
+                "color": "Bluish-White",
+                "intensity": ["None", "Faint", "Strong"],
+                "note": "구리 성분이 포함된 일부 파라이바 투어멀린"
+            },
+            "SW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": "구리 성분이 포함된 일부 파라이바 투어멀린"
+            }
+        },
+        {
+            "LW": {
+                "color": "Red",
+                "intensity": ["None", "Faint", "Moderate"],
+                "note": "크롬 성분이 포함된 일부 녹색 투어멀린"
+            },
+            "SW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": "크롬 성분이 포함된 일부 녹색 투어멀린"
+            }
+        },
+        {
+            "LW": {
+                "color": "Red, Orange-Red",
+                "intensity": ["None", "Faint"],
+                "note": "망간 성분이 포함된 일부 핑크 투어멀린"
+            },
+            "SW": {
+                "color": "Red, Orange-Red",
+                "intensity": ["None", "Faint", "Moderate"],
+                "note": "망간 성분이 포함된 일부 핑크 투어멀린"
+            }
+        },
+        {
+            "LW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": "일부 갈색 드라비트, 녹색 바나듐 드라비트, 녹색 바나듐 우바이트 투어말린"
+            },
+            "SW": {
+                "color": "Yellow",
+                "intensity": ["None", "Faint"],
+                "note": "일부 갈색 드라비트, 녹색 바나듐 드라비트, 녹색 바나듐 우바이트 투어말린"
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 3.06,
+        "tolerance_max": 0.20,
+        "tolerance_min": -0.06,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": null,
+    "hardness": {
+        "min": 7.0,
+        "max": 7.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "관상 조직 굵은 침상 내포물로 캐츠아이 효과. 확대검사에서 쉽게 관찰"
+},
+{
+    "id": 54,
+    "korean_name": "토파즈",
+    "english_name": "Topaz",
+    "category": "Topaz",
+    "group": null,
+    "crystal_system": "사방정계",
+    "color": ["무색", "청색", "황색", "황갈색", "핑크색"],
+    "transparency": {
+        "transparency": ["TP"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.619,
+            "max": 1.627,
+            "tolerance_max": 0.010,
+            "tolerance_min": -0.010,
+            "otl": false,
+            "spot_reading": false,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": 0.008,
+        "max": 0.010,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "B+"
+    },
+    "pleochroism": {
+        "type": "이색성 또는 삼색성",
+        "note": null
+    },
+    "inclusions": [
+        "액체 내포물",
+        "이상 내포물",
+        "삼상 내포물",
+        "크리스털"
+    ],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+        "LW": {
+            "color": null,
+            "intensity": ["None", "Faint"],
+            "note": "대부분의 토파즈"
+        },
+        "SW": {
+            "color": null,
+            "intensity": ["None", "Faint"],
+            "note": "대부분의 토파즈"
+        }
+    },
+    {
+        "LW": {
+            "color": "Yellow, Green",
+            "intensity": ["None", "Faint", "Moderate", "Strong"],
+            "note": "(천연) 무색·청색 토파즈"
+        },
+        "SW": {
+            "color": null,
+            "intensity": ["None", "Faint"],
+            "note": "(천연) 무색·청색 토파즈"
+        }
+    },
+    {
+        "LW": {
+            "color": "Cyan, Bluish-Green",
+            "intensity": ["Faint"],
+            "note": "(방사선 처리) 청색 토파즈"
+        },
+        "SW": {
+            "color": null,
+            "intensity": ["None", "Faint"],
+            "note": "(방사선 처리) 청색 토파즈"
+        }
+    },
+    {
+        "LW": {
+            "color": "Orange-Yellow",
+            "intensity": ["Strong"],
+            "note": "(천연) 셰리 브라운, 분홍색, 골든 옐로우 토파즈"
+        },
+        "SW": {
+            "color": "Orange-Yellow",
+            "intensity": ["Faint"],
+            "note": "(천연) 셰리 브라운, 분홍색, 골든 옐로우 토파즈"
+        }
+    }
+    ],
+    "specific_gravity": {
+        "value": 3.53,
+        "tolerance_max": 0.04,
+        "tolerance_min": -0.04,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": "1방향 완전",
+    "hardness": {
+        "min": 8.0,
+        "max": 8.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": ["종종 코팅"],
+    "comment": "종종 코팅 처리가 된 토파즈가 있으므로 확대 검사시 두상광으로도 관찰하여 코팅 유무를 확인해야 한다"
+},
+{
+    "id": 55,
+    "korean_name": "터쿼이즈",
+    "english_name": "Turquoise",
+    "category": "Turquoise",
+    "group": null,
+    "crystal_system": "삼사정계",
+    "color": ["청색", "녹청색"],
+    "transparency": {
+        "transparency": ["STL", "O"],
+        "note": null
+    },
+    "lustre": ["왁스광택", "유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.610,
+            "max": 1.650,
+            "tolerance_min": null,
+            "tolerance_max": null,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.61(S)"
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["없음"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["모암", "백색 반점"],
+    "absorption_spectrums": [
+        {
+            "color": null,
+            "lines": [],
+            "bands": ["420nm", "432nm", "460nm"],
+            "cutoff": [],
+            "note": "반사광 하에서 측정"
+        }
+    ],
+    "uv_fluorescences":[
+        {
+            "LW": {
+                "color": "Greenish-Yellow",
+                "intensity": ["None", "Faint"],
+                "note": null
+            },
+            "SW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 2.76,
+        "tolerance_min": 0.14,
+        "tolerance_max": -0.36,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 5.0,
+        "max": 6.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "모암(matrix) 줄기는 천연 터키석에서 흔히 발견되며 모암은 연마된 표면보다 낮게 들어가 있다."
+},
+{
+    "id": 56,
+    "korean_name": "네프라이트",
+    "english_name": "Nephrite",
+    "category": "Nephrite",
+    "group": null,
+    "crystal_system": "단사정계",
+    "color": ["백색", "녹색"],
+    "transparency": {
+        "transparency": ["TL","STL","O"],
+        "note": null
+    },
+    "lustre": ["유리광택", "지방광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.606,
+            "max": 1.632,
+            "tolerance_max": 0.009,
+            "tolerance_min": -0.006,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.61(S)"
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["AGG", "무반응"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["섬유상 조직", "흑색 내포물"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.95,
+        "tolerance_max": 0.15,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["목쇄상", "입상"],
+    "fracture": "잠정질 구조로 인해 관찰되지 않음",
+    "hardness": {
+        "min": 6.0,
+        "max": 6.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "어두운 녹색은 흑색 내포물, 다른 색상은 섬유상 조직이 관찰된다."
+},
+{
+    "id": 57,
+    "korean_name": "염색 녹색 네프라이트",
+    "english_name": "Dyed Green Nephrite",
+    "category": "Nephrite",
+    "group": null,
+    "crystal_system": "단사정계",
+    "color": ["녹색"],
+    "transparency": {
+        "transparency": ["TL"],
+        "note": null
+    },
+    "lustre": ["유리광택", "지방광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.606,
+            "max": 1.632,
+            "tolerance_max": 0.009,
+            "tolerance_min": -0.006,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.61(S)"
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["균열면의 색소 침투 흔적"],
+    "absorption_spectrums": [
+        {
+            "color": null,
+            "lines": [],
+            "bands": ["650nm"],
+            "cutoff": [],
+            "note": "650nm 중심 흡수 밴드"
+        }
+    ],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.95,
+        "tolerance_max": 0.15,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["목쇄상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.0,
+        "max": 6.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": true,
+    "treatment_types": ["염색"],
+    "comment": "균열면 사이 색소 침투 흔적과 650nm 흡수 밴드로 염색 확인."
+},
+{
+    "id": 58,
+    "korean_name": "로도크로사이트",
+    "english_name": "Rhodochrosite",
+    "category": "Rhodochrosite",
+    "group": null,
+    "crystal_system": "삼방정계",
+    "color": ["핑크색"],
+    "transparency": {
+        "transparency": ["TP", "STP", "TL", "STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택", "아유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.597,
+            "max": 1.817,
+            "tolerance_max": 0.003,
+            "tolerance_min": -0.003,
+            "otl": true,
+            "spot_reading": true,
+            "note": "1.59-OTL(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.220,
+        "max": 0.220,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["백색의 줄무늬"],
+    "absorption_spectrums": [
+        {
+            "color": null,
+            "lines": [],
+            "bands": ["410nm", "450nm", "545nm"],
+            "cutoff": [],
+            "note": null
+        }
+    ],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "Pink",
+                "intensity": ["None", "Faint", "Medium"],
+                "note": null
+            },
+            "SW": {
+                "color": "Red",
+                "intensity": ["None", "Faint"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 3.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.15,
+        "note": null
+    },
+    "cleavage": ["불균일상", "입상"],
+    "fracture": "3방향으로 완전하나 잠정질 구조로 인해 불명료하다.",
+    "hardness": {
+        "min": 3.5,
+        "max": 4.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": true,
+    "treatment_types": ["착색"],
+    "comment": "탄산염 보석으로 백색 줄무늬가 특징. 착색 시 백색 줄무늬 없이 전체 적색을 띤다."
+},
+{
+    "id": 59,
+    "korean_name": "에메랄드",
+    "english_name": "Emerald",
+    "category": "Beryl",
+    "group": null,
+    "crystal_system": "육방정계",
+    "color": ["녹색"],
+    "transparency": {
+        "transparency": ["TP", "STP", "TL"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.577,
+            "max": 1.583,
+            "tolerance_max": 0.017,
+            "tolerance_min": -0.017,
+            "otl": false,
+            "spot_reading": false,
+            "note": "대부분 플럭스 합성 에메랄드 보다 약간 높다"
+        }
+    ],
+    "birefringence": {
+        "min": 0.005,
+        "max": 0.009,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "U-"
+    },
+    "pleochroism": {
+        "type": "이색성",
+        "note": null
+    },
+    "inclusions": ["액체 내포물", "이상 내포물", "삼상 내포물", "지문상", "황철석 결정", "방해석 결정", "각진 성장 조닝"],
+    "absorption_spectrums": [
+        {
+            "color": null,
+            "lines": ["646nm", "662nm", "680.5nm", "683nm"],
+            "bands": ["580nm-630nm"],
+            "cutoff": [],
+            "note": "580nm-630nm 넓은 흡수밴드"
+        }
+    ],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "Red, Orangy-Red",
+                "intensity": ["None", "Faint"],
+                "note": "보통 무반응. 매우 상질의 색상은 적색으로 형광. 보통 장파에서 더 강한 반응"
+            },
+            "SW": {
+                "color": "Red, Orangy-Red",
+                "intensity": ["None", "Faint"],
+                "note": "보통 무반응. 매우 상질의 색상은 적색으로 형광. 보통 장파에서 더 강한 반응"
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 2.72,
+        "tolerance_max": 0.18,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": "1방향에서 매우 발견하기 어렵다.",
+    "hardness": {
+        "min": 7.5,
+        "max": 8.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": true,
+    "treatment_types": ["프랙처-필링"],
+    "comment": "첼시 필터 검사시 콜롬비아산은 핑크-적색, 타산지는 무반응~옅은 핑크 반응. 프랙처-필링 에메랄드는 암시야 조명 확대 검사시 적색/오렌지 플래시 효과가 특징이다."
+},
+{
+    "id": 60,
+    "korean_name": "아콰마린",
+    "english_name": "Aquamarine",
+    "category": "Beryl",
+    "group": null,
+    "crystal_system": "육방정계",
+    "color": ["옅은 청색"],
+    "transparency": {
+        "transparency": ["TP", "STP", "TL"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.577,
+            "max": 1.583,
+            "tolerance_max": 0.017,
+            "tolerance_min": -0.017,
+            "otl": false,
+            "spot_reading": true,
+            "note": "아콰마린은 전형적으로 1.569 ~ 1.575로 측정된다."
+        }
+    ],
+    "birefringence": {
+        "min": 0.005,
+        "max": 0.009,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "U-"
+    },
+    "pleochroism": {
+        "type": "이색성",
+        "note": null
+    },
+    "inclusions": ["액체 내포물", "이상 내포물", "삼상 내포물", "지문상", "속이 비거나 액체로 채워진 평행 관상", "침상 내포물"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.72,
+        "tolerance_max": 0.18,
+        "tolerance_min": -0.05,
+        "note": "아콰마린은 전형적으로 2.67 정도로 측정됨"
+    },
+    "cleavage": ["패각상"],
+    "fracture": "1방향에서 매우 발견하기 어렵다.",
+    "hardness": {
+        "min": 7.5,
+        "max": 8.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "옅은 해청색 베릴. 관찰방향에 따라 약한 녹색감도 있음."
+},
+{
+    "id": 61,
+    "korean_name": "모거나이트",
+    "english_name": "Morganite",
+    "category": "Beryl",
+    "group": null,
+    "crystal_system": "육방정계",
+    "color": ["핑크색"],
+    "transparency": {
+        "transparency": ["TP"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.583,
+            "max": 1.590,
+            "tolerance_max": 0.012,
+            "tolerance_min": -0.011,
+            "otl": false,
+            "spot_reading": false,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": 0.005,
+        "max": 0.009,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "U-"
+    },
+    "pleochroism": {
+        "type": "이색성",
+        "note": null
+    },
+    "inclusions": ["액체 내포물", "지문상", "침상 내포물"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "Purple-Red, Pink",
+                "intensity": ["None","Faint"],
+                "note": null
+            },
+            "SW": {
+                "color": "Purple-Red, Pink",
+                "intensity": ["None","Faint"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 2.80,
+        "tolerance_max": 0.11,
+        "tolerance_min": null,
+        "note": "~2.91"
+    },
+    "cleavage": ["패각상"],
+    "fracture": "1방향에서 매우 발견하기 어렵다.",
+    "hardness": {
+        "min": 7.5,
+        "max": 8.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "옅은 핑크색 베릴."
+},
+{
+    "id": 62,
+    "korean_name": "고셰나이트",
+    "english_name": "Goshenite",
+    "category": "Beryl",
+    "group": null,
+    "crystal_system": "육방정계",
+    "color": ["무색"],
+    "transparency": {
+        "transparency": ["TP"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.577,
+            "max": 1.583,
+            "tolerance_max": 0.017,
+            "tolerance_min": -0.011,
+            "otl": false,
+            "spot_reading": false,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": 0.005,
+        "max": 0.009,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "U-"
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["액체 내포물", "크리스털"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.72,
+        "tolerance_max": 0.18,
+        "tolerance_min": -0.05,
+        "note": "무색은 낮은 비중"
+    },
+    "cleavage": ["패각상"],
+    "fracture": "1방향에서 매우 발견하기 어렵다.",
+    "hardness": {
+        "min": 7.5,
+        "max": 8.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "무색 베릴로 내포물 적어 굴절률·편광성 검사를 통한 감별이 중요."
+},
+{
+    "id": 63,
+    "korean_name": "골든 베릴",
+    "english_name": "Golden Beryl",
+    "category": "Beryl",
+    "group": null,
+    "crystal_system": "육방정계",
+    "color": ["황색", "녹황색", "갈황색"],
+    "transparency": {
+        "transparency": ["TP"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.577,
+            "max": 1.583,
+            "tolerance_max": 0.017,
+            "tolerance_min": -0.017,
+            "otl": false,
+            "spot_reading": false,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": 0.005,
+        "max": 0.009,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "U-"
+    },
+    "pleochroism": {
+        "type": "이색성",
+        "note": null
+    },
+    "inclusions": ["액체 내포물", "침상 내포물", "크리스털"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.72,
+        "tolerance_max": 0.18,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": "1방향에서 매우 발견하기 어렵다.",
+    "hardness": {
+        "min": 7.5,
+        "max": 8.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "황색계 베릴로 굴절률·복굴절 검사 중요."
+},
+{
+    "id": 64,
+    "korean_name": "에메랄드 캐츠아이",
+    "english_name": "Emerald Cat's-Eye",
+    "category": "Beryl",
+    "group": null,
+    "crystal_system": "육방정계",
+    "color": ["녹색"],
+    "transparency": {
+        "transparency": ["STP"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": ["C"],
+    "refractive_indexs": [
+        {
+            "min": 1.577,
+            "max": 1.583,
+            "tolerance_max": 0.017,
+            "tolerance_min": -0.017,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.58(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.005,
+        "max": 0.009,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "U-"
+    },
+    "pleochroism": {
+        "type": "이색성",
+        "note": null
+    },
+    "inclusions": ["침상 내포물", "액체 내포물", "이상 내포물"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "Red",
+                "intensity": ["None", "Faint"],
+                "note": null
+            },
+            "SW": {
+                "color": "Red",
+                "intensity": ["None", "Faint"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 2.72,
+        "tolerance_max": 0.18,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": "1방향에서 매우 발견하기 어렵다.",
+    "hardness": {
+        "min": 7.5,
+        "max": 8.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "캐보션 형태로 연마하였을 경우 침상 조직으로 인해 캐츠아이 효과가 나타나는 에메랄드."
+},
+{
+    "id": 65,
+    "korean_name": "아콰마린 캐츠아이",
+    "english_name": "Aquamarine Cat's-Eye",
+    "category": "Beryl",
+    "group": null,
+    "crystal_system": "육방정계",
+    "color": ["옅은 청색"],
+    "transparency": {
+        "transparency": ["STP"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": ["C"],
+    "refractive_indexs": [
+        {
+            "min": 1.577,
+            "max": 1.583,
+            "tolerance_max": 0.017,
+            "tolerance_min": -0.017,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.58(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.005,
+        "max": 0.009,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "U-"
+    },
+    "pleochroism": {
+        "type": "이색성",
+        "note": null
+    },
+    "inclusions": ["침상 내포물", "액체 내포물", "이상 내포물"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.72,
+        "tolerance_max": 0.18,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": "1방향에서 매우 발견하기 어렵다.",
+    "hardness": {
+        "min": 7.5,
+        "max": 8.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "캐보션 형태로 연마하였을 경우 침상 조직으로 인해 캐츠아이 효과가 나타나는 아콰마린."
+},
+{
+    "id": 66,
+    "korean_name": "스타 모거나이트",
+    "english_name": "Star Morganite",
+    "category": "Beryl",
+    "group": null,
+    "crystal_system": "육방정계",
+    "color": ["핑크"],
+    "transparency": {
+        "transparency": ["STP", "TL"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": ["A"],
+    "refractive_indexs": [
+        {
+            "min": 1.577,
+            "max": 1.583,
+            "tolerance_max": 0.017,
+            "tolerance_min": -0.011,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.58(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.005,
+        "max": 0.009,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR","AGG"],
+        "note": "U-"
+    },
+    "pleochroism": {
+        "type": "이색성",
+        "note": "투명도 높은 경우"
+    },
+    "inclusions": ["침상 내포물", "액체 내포물", "이상 내포물"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.72,
+        "tolerance_max": 0.18,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": "1방향에서 매우 발견하기 어렵다.",
+    "hardness": {
+        "min": 7.5,
+        "max": 8.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "3방향 침상 내포물로 스타 효과가 나타나는 핑크 베릴."
+},
+{
+    "id": 67,
+    "korean_name": "합성 에메랄드",
+    "english_name": "Synthetic Emerald",
+    "category": "Beryl",
+    "group": null,
+    "crystal_system": "육방정계",
+    "color": ["녹색", "녹청색"],
+    "transparency": {
+        "transparency": ["TP"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+         {
+            "min": 1.571,
+            "max": 1.577,
+            "tolerance_max": 0.007,
+            "tolerance_min": -0.002,
+            "otl": false,
+            "spot_reading": false,
+            "note": "수열합성법"
+        },
+        {
+            "min": 1.572,
+            "max": 1.578,
+            "tolerance_max": null,
+            "tolerance_min": null,
+            "otl": false,
+            "spot_reading": false,
+            "note": "수열합성법, 러시아"
+        },
+        {
+            "min": 1.579,
+            "max": 1.584,
+            "tolerance_max": null,
+            "tolerance_min": null,
+            "otl": false,
+            "spot_reading": false,
+            "note": "수열합성법, 러시아"
+        },
+        {
+            "min": 1.570,
+            "max": 1.572,
+            "tolerance_max": null,
+            "tolerance_min": null,
+            "otl": false,
+            "spot_reading": false,
+            "note": "수열합성법, 중국"
+        },
+        {
+            "min": 1.576,
+            "max": 1.578,
+            "tolerance_max": null,
+            "tolerance_min": null,
+            "otl": false,
+            "spot_reading": false,
+            "note": "수열합성법, 중국"
+        },
+        {
+            "min": 1.569,
+            "max": 1.573,
+            "tolerance_max": 0.001,
+            "tolerance_min": -0.001,
+            "otl": false,
+            "spot_reading": false,
+            "note": "수열합성법, 바이런 (일부는 1.570-1.578로 더 높다)"
+        },
+        {
+            "min": 1.562,
+            "max": 1.566,
+            "tolerance_max": 0.003,
+            "tolerance_min": -0.003,
+            "otl": false,
+            "spot_reading": false,
+            "note": "플럭스 합성법, 제조사와 합성 방법에 따라 다르다"
+        },
+        {
+            "min": 1.561,
+            "max": 1.564,
+            "tolerance_max": null,
+            "tolerance_min": null,
+            "otl": false,
+            "spot_reading": false,
+            "note": "플럭스 합성법, 채텀"
+        },
+        {
+            "min": 1.564,
+            "max": 1.569,
+            "tolerance_max": null,
+            "tolerance_min": null,
+            "otl": false,
+            "spot_reading": false,
+            "note": "플럭스 합성법, 길슨 타입Ⅰ"
+        },
+        {
+            "min": 1.562,
+            "max": 1.567,
+            "tolerance_max": null,
+            "tolerance_min": null,
+            "otl": false,
+            "spot_reading": false,
+            "note": "플럭스 합성법, 길슨 타입Ⅱ"
+        },
+        {
+            "min": 1.571,
+            "max": 1.579,
+            "tolerance_max": null,
+            "tolerance_min": null,
+            "otl": false,
+            "spot_reading": false,
+            "note": "플럭스 합성법, 길슨 타입Ⅲ(매우 드물다)"
+        },
+        {
+            "min": 1.559,
+            "max": 1.563,
+            "tolerance_max": null,
+            "tolerance_min": null,
+            "otl": false,
+            "spot_reading": false,
+            "note": "플럭스 합성법, 러시아"
+        }
+    ],
+    "birefringence": {
+        "min": 0.005,
+        "max": 0.009,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR"],
+        "note": "U-"
+    },
+    "pleochroism": {
+        "type": "이색성",
+        "note": null
+    },
+    "inclusions": ["지문상", "베일(veil)상", "못머리 형태 내포물", "피나카이트(phenakite) 결정", "파도 성장 패턴", "쉐브런(chevron) 성장 패턴", "플럭스 내포물", "거친 플럭스 내포물", "위스피 플럭스 내포물"],
+    "absorption_spectrums": [
+        {
+            "color": null,
+            "lines": ["477.5nm", "646nm", "662nm", "680.5nm", "683nm"],
+            "bands": ["580nm-630nm"],
+            "cutoff": [],
+            "note": "천연과 동일하지만, 크롬이 풍부한 스톤들은 477.5nm의 라인들이 함께 보인다"
+        }
+    ],
+    "uv_fluorescences": [
+         {
+        "LW": {
+            "color": null,
+            "intensity": ["None"],
+            "note": "러시아, 바이런, 길슨 Ⅲ"
+        },
+        "SW": {
+            "color": null,
+            "intensity": ["None"],
+            "note": "러시아, 바이런, 길슨 Ⅲ"
+        }
+    },
+    {
+        "LW": {
+            "color": "Red",
+            "intensity": ["Medium"],
+            "note": "중국"
+        },
+        "SW": {
+            "color": "Red",
+            "intensity": ["Medium"],
+            "note": "중국"
+        }
+    },
+    {
+        "LW": {
+            "color": "Red",
+            "intensity": ["Faint", "Medium"],
+            "note": "채텀, 길슨 Ⅰ·Ⅱ 장파에서 더 강함"
+        },
+        "SW": {
+            "color": "Red",
+            "intensity": ["Faint", "Medium"],
+            "note": "채텀, 길슨 Ⅰ·Ⅱ"
+        }
+    },
+    {
+        "LW": {
+            "color": "Yellowish-Green, Yellow, Orange",
+            "intensity": ["Faint", "Medium"],
+            "note": "길슨 Ⅰ·Ⅱ 일부"
+        },
+        "SW": {
+            "color": "Yellowish-Green, Yellow, Orange",
+            "intensity": ["Faint", "Medium"],
+            "note": "길슨 Ⅰ·Ⅱ 일부"
+        }
+    },
+    {
+        "LW": {
+            "color": "Orangy_Red",
+            "intensity": ["Faint", "Medium"],
+            "note": "플럭스 러시아"
+        },
+        "SW": {
+            "color": null,
+            "intensity": ["None"],
+            "note": "플럭스 러시아"
+        }
+    }
+    ],
+    "specific_gravity": {
+        "value": 2.63,
+        "tolerance_max": null,
+        "tolerance_min": null,
+        "note": "~2.73"
+    },
+    "cleavage": ["패각상"],
+    "fracture": "1방향에서 매우 발견하기 어렵다.",
+    "hardness": {
+        "min": 7.5,
+        "max": 8.0,
+        "note": null
+    },
+    "is_synthetic": true,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "수열/플럭스 합성법에 따른 특징적 내포물로 천연과 구별."
+},
+{
+    "id": 68,
+    "korean_name": "서펜틴",
+    "english_name": "Serpentine",
+    "category": "Serpentine",
+    "group": null,
+    "crystal_system": "단사정계",
+    "color": ["황색", "황록색", "녹색", "백색", "흑색"],
+    "transparency": {
+        "transparency": ["STP", "TL", "STL", "O"],
+        "note": null
+    },
+    "lustre": ["왁스광택", "유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.560,
+            "max": 1.570,
+            "tolerance_max": 0.004,
+            "tolerance_min": -0.070,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.56(S)"
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["미세한 흑색 내포물", "백색의 줄기", "이끼 같은 내포물"],
+    "absorption_spectrums": [
+        {
+            "color": "선명한 녹색",
+            "lines": ["640nm", "660nm"],
+            "bands": ["500nm"],
+            "cutoff": ["480nm"],
+            "note": null
+        },
+        {
+            "color": "반투명의 어두운 녹색",
+            "lines": ["500nm"],
+            "bands": [],
+            "cutoff": ["480nm"],
+            "note": null
+        },
+        {
+            "color": "염색된 것들",
+            "lines": [],
+            "bands": ["630nm-675nm"],
+            "cutoff": ["520nm"],
+            "note": null
+        }
+    ],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.57,
+        "tolerance_max": 0.23,
+        "tolerance_min": -0.13,
+        "note": null
+    },
+    "cleavage": ["입상", "불균일상"],
+    "fracture": "없음",
+    "hardness": {
+        "min": 2.5,
+        "max": 6.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "어두운 녹색은 연옥과 혼동되나 굴절률과 비중으로 구별."
+},
+{
+    "id": 69,
+    "korean_name": "래브라도라이트",
+    "english_name": "Labradorite",
+    "category": "Feldspar",
+    "group": null,
+    "crystal_system": "삼사정계",
+    "color": ["회색", "회청색", "흑청색"],
+    "transparency": {
+        "transparency": ["TP", "STP", "TL", "STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": ["L"],
+    "refractive_indexs": [
+        {
+            "min": 1.559,
+            "max": 1.568,
+            "tolerance_max": 0.005,
+            "tolerance_min": -0.005,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.56(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.009,
+        "max": 0.009,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR", "AGG"],
+        "note": "투명도에 따라 다름, B+"
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["반복 쌍정", "흑색 침상 내포물", "금속 판상"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "White",
+                "intensity": ["None", "Faint"],
+                "note": "약한 불균일한 백색"
+            },
+            "SW": {
+                "color": "White",
+                "intensity": ["None", "Faint"],
+                "note": "약한 불균일한 백색"
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 2.70,
+        "tolerance_max": 0.05,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["불균일상", "목쇄상"],
+    "fracture": "2방향(1방향 완전, 1방향 명료)",
+    "hardness": {
+        "min": 6.0,
+        "max": 6.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "래브라도레센스 무지개빛과 흑색 침상 내포물이 특징."
+}
+
+    ]
+}
