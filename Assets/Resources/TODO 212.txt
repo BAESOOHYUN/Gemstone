@@ -1,0 +1,16 @@
+TODO 2/12
+
+비중도 배열, min max로 처리할 필요 있음.
+-합성 에메랄드와 모거나이트 같은 예외 존재
+
+spot_reading 항목을 true로 하지 말고 string[]로 처리하게 만들어야 할듯. 범위처리, OTL 문제 등.
+
+편광성에 광학부호 항목 추가.
+
+단구 벽개 영어 뒤바뀜
+
+첼시필터 항목 추가해야 하나?
+
+자외선 형광 반응 정리된 사이트
+https://sobling.jewelry/ko/%EB%B3%B4%EC%84%9D-%EA%B0%80%EA%B3%B5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%8B%9D%EB%B3%84-%EB%8F%84%EA%B5%AC-%EB%B0%8F-%ED%95%B5%EC%8B%AC-%ED%8F%AC%EC%9D%B8%ED%8A%B8-%EC%B5%9C%EC%A0%81%ED%99%94/#elementor-toc__heading-anchor-30
+

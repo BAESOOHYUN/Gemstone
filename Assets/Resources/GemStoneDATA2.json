@@ -5493,7 +5493,7 @@
         "note": "일반적으로 감지되지 않음"
     },
     "polariscope": {
-        "type": ["AGG", "무반응"],
+        "type": ["AGG", "없음"],
         "note": null
     },
     "pleochroism": {
@@ -6566,6 +6566,1158 @@
     "is_treated": false,
     "treatment_types": [],
     "comment": "래브라도레센스 무지개빛과 흑색 침상 내포물이 특징."
+},
+{
+  "id": 70,
+  "korean_name": "자수정",
+  "english_name": "Amethyst",
+  "category": "Quartz",
+  "group": null,
+  "crystal_system": "삼방정계(육방정계)",
+  "color": ["자색", "자주색"],
+  "transparency": {
+    "transparency": ["TP"],
+    "note": null
+  },
+  "lustre": ["유리광택"],
+  "special_effects": [],
+  "refractive_indexs": [
+    {
+      "min": 1.544,
+      "max": 1.553,
+      "tolerance_max": null,
+      "tolerance_min": null,
+      "otl": false,
+      "spot_reading": false,
+      "note": "매우 일정함"
+    }
+  ],
+  "birefringence": {
+    "min": 0.009,
+    "max": 0.009,
+    "note": null
+  },
+  "polariscope": {
+    "type": ["DR"],
+    "note": "U+, 교차된 편광 필터 하에서 특징적인 불스 아이(bull's-eye)와 브라질 로우 트위닝(brazil-law twinning)을 보일 수 있다."
+  },
+  "pleochroism": {
+    "type": "이색성",
+    "note": null
+  },
+  "inclusions": [
+    "컬러 조닝과 색대",
+    "액체 내포물",
+    "이상 내포물",
+    "삼상 내포물",
+    "네거티브 크리스털",
+    "헤마타이트 침상 내포물"
+  ],
+  "absorption_spectrums": [],
+  "uv_fluorescences": [],
+  "specific_gravity": {
+    "value": 2.66,
+    "tolerance_max": 0.03,
+    "tolerance_min": -0.02,
+    "note": null
+  },
+  "cleavage": ["패각상"],
+  "fracture": "없음",
+  "hardness": {
+    "min": 7.0,
+    "max": 7.0,
+    "note": null
+  },
+  "is_synthetic": false,
+  "is_treated": false,
+  "treatment_types": [],
+  "comment": "굴절률·편광성·내포물로 천연/합성 구별, 특징 내포물 없으면 FT-IR(적외선 분광기)로 추가 검사."
+},
+{
+  "id": 71,
+  "korean_name": "황수정",
+  "english_name": "Citrine",
+  "category": "Quartz",
+  "group": null,
+  "crystal_system": "삼방정계(육방정계)",
+  "color": ["황색", "황갈색", "오렌지색"],
+  "transparency": {
+    "transparency": ["TP"],
+    "note": null
+  },
+  "lustre": ["유리광택"],
+  "special_effects": [],
+  "refractive_indexs": [
+    {
+      "min": 1.544,
+      "max": 1.553,
+      "tolerance_max": null,
+      "tolerance_min": null,
+      "otl": false,
+      "spot_reading": false,
+      "note": "매우 일정함"
+    }
+  ],
+  "birefringence": {
+    "min": 0.009,
+    "max": 0.009,
+    "note": null
+  },
+  "polariscope": {
+    "type": ["DR"],
+    "note": "U+, 교차된 편광 필터 하에서 특징적인 불스 아이(bull's-eye)와 브라질로우 트위닝(brazil-law twinning)을 보일 수 있다."
+  },
+  "pleochroism": {
+    "type": "이색성",
+    "note": null
+  },
+  "inclusions": [
+    "컬러 조닝과 밴드",
+    "액체 내포물",
+    "이상 내포물",
+    "삼상 내포물",
+    "네거티브 크리스털"
+  ],
+  "absorption_spectrums": [],
+  "uv_fluorescences": [],
+  "specific_gravity": {
+    "value": 2.66,
+    "tolerance_max": 0.03,
+    "tolerance_min": -0.02,
+    "note": null
+  },
+  "cleavage": ["패각상"],
+  "fracture": "없음",
+  "hardness": {
+    "min": 7.0,
+    "max": 7.0,
+    "note": null
+  },
+  "is_synthetic": false,
+  "is_treated": false,
+  "treatment_types": [],
+  "comment": "자수정 열처리로 황색 변색. 외관이나 굴절률 등이 매우 유사한 스카폴라이트와는 브라질 로우 트위닝으로 구별."
+},
+{
+  "id": 72,
+  "korean_name": "자황수정",
+  "english_name": "Ametrine",
+  "category": "Quartz",
+  "group": null,
+  "crystal_system": "삼방정계(육방정계)",
+  "color": ["자색과 황색"],
+  "transparency": {
+    "transparency": ["TP"],
+    "note": null
+  },
+  "lustre": ["유리광택"],
+  "special_effects": [],
+  "refractive_indexs": [
+    {
+      "min": 1.544,
+      "max": 1.553,
+      "tolerance_max": null,
+      "tolerance_min": null,
+      "otl": false,
+      "spot_reading": false,
+      "note": "매우 일정함"
+    }
+  ],
+  "birefringence": {
+    "min": 0.009,
+    "max": 0.009,
+    "note": null
+  },
+  "polariscope": {
+    "type": ["DR"],
+    "note": "U+, 교차된 편광 필터 하에서 특징적인 불스 아이(bull's-eye)와 브라질 로우 트위닝(brazil-law twinning)을 보일 수 있다."
+  },
+  "pleochroism": {
+    "type": "이색성",
+    "note": null
+  },
+  "inclusions": [
+    "컬러 조닝과 밴드",
+    "액체 내포물",
+    "이상 내포물",
+    "삼상 내포물",
+    "네거티브 크리스털"
+  ],
+  "absorption_spectrums": [],
+  "uv_fluorescences": [],
+  "specific_gravity": {
+    "value": 2.66,
+    "tolerance_max": 0.03,
+    "tolerance_min": -0.02,
+    "note": null
+  },
+  "cleavage": ["패각상"],
+  "fracture": "없음",
+  "hardness": {
+    "min": 7.0,
+    "max": 7.0,
+    "note": null
+  },
+  "is_synthetic": false,
+  "is_treated": false,
+  "treatment_types": [],
+  "comment": "자색과 황색이 공존하는 자연 쿼츠."
+},
+{
+  "id": 73,
+  "korean_name": "연수정",
+  "english_name": "Smoky Quartz", 
+  "category": "Quartz",
+  "group": null,
+  "crystal_system": "삼방정계(육방정계)",
+  "color": ["갈색","암갈색"],
+  "transparency": {
+    "transparency": ["TP"],
+    "note": null
+  },
+  "lustre": ["유리광택"],
+  "special_effects": [],
+  "refractive_indexs": [
+    {
+      "min": 1.544,
+      "max": 1.553,
+      "tolerance_max": null,
+      "tolerance_min": null,
+      "otl": false,
+      "spot_reading": false,
+      "note": "매우 일정함"
+    }
+  ],
+  "birefringence": {
+    "min": 0.009,
+    "max": 0.009,
+    "note": null
+  },
+  "polariscope": {
+    "type": ["DR"],
+    "note": "U+, 교차된 편광 필터 하에서 특징적인 불스 아이(bull's-eye)와 브라질 로우 트위닝(brazil-law twinning)을 보일 수 있다."
+  },
+  "pleochroism": {
+    "type": "이색성",
+    "note": null
+  },
+  "inclusions": [
+    "컬러 조닝과 밴드",
+    "액체 내포물",
+    "이상 내포물", 
+    "삼상 내포물",
+    "네거티브 크리스털",
+    "무 내포물"
+  ],
+  "absorption_spectrums": [],
+  "uv_fluorescences": [],
+  "specific_gravity": {
+    "value": 2.66,
+    "tolerance_max": 0.03,
+    "tolerance_min": -0.02,
+    "note": null
+  },
+  "cleavage": ["패각상"],
+  "fracture": "없음",
+  "hardness": {
+    "min": 7.0,
+    "max": 7.0,
+    "note": null
+  },
+  "is_synthetic": false,
+  "is_treated": false,
+  "treatment_types": [],
+  "comment": "연수정은 일반적으로 내포물이 없는 경우가 많다."
+},
+{
+  "id": 74,
+  "korean_name": "백수정",
+  "english_name": "Rock Crystal",
+  "category": "Quartz",
+  "group": null,
+  "crystal_system": "삼방정계(육방정계)",
+  "color": ["무색"],
+  "transparency": {
+    "transparency": ["TP"],
+    "note": null
+  },
+  "lustre": ["유리광택"],
+  "special_effects": [],
+  "refractive_indexs": [
+    {
+      "min": 1.544,
+      "max": 1.553,
+      "tolerance_max": null,
+      "tolerance_min": null,
+      "otl": false,
+      "spot_reading": false,
+      "note": "매우 일정함"
+    }
+  ],
+  "birefringence": {
+    "min": 0.009,
+    "max": 0.009,
+    "note": null
+  },
+  "polariscope": {
+    "type": ["DR"],
+    "note": "U+, 교차된 편광 필터 하에서 특징적인 불스 아이(bull's-eye)와 브라질 로우 트위닝(brazil-law twinning)을 보일 수 있다."
+  },
+  "pleochroism": {
+    "type": "이색성",
+    "note": null
+  },
+  "inclusions": [
+    "컬러 조닝과 밴드",
+    "액체 내포물",
+    "이상 내포물",
+    "삼상 내포물",
+    "네거티브 크리스털"
+  ],
+  "absorption_spectrums": [],
+  "uv_fluorescences": [],
+  "specific_gravity": {
+    "value": 2.66,
+    "tolerance_max": 0.03,
+    "tolerance_min": -0.02,
+    "note": null
+  },
+  "cleavage": ["패각상"],
+  "fracture": "없음",
+  "hardness": {
+    "min": 7.0,
+    "max": 7.0,
+    "note": null
+  },
+  "is_synthetic": false,
+  "is_treated": false,
+  "treatment_types": [],
+  "comment": "무색 투명 쿼츠. 굴절률·편광성·내포물로 천연/합성 구별, 특징 내포물 없으면 FT-IR(적외선 분광기)로 추가 검사."
+},
+{
+  "id": 75,
+  "korean_name": "침수정",
+  "english_name": "Rutilated Quartz",
+  "category": "Quartz",
+  "group": null,
+  "crystal_system": "삼방정계(육방정계)",
+  "color": ["무색", "회색", "연갈색"],
+  "transparency": {
+    "transparency": ["TP", "STP"],
+    "note": null
+  },
+  "lustre": ["유리광택"],
+  "special_effects": [],
+  "refractive_indexs": [
+    {
+      "min": 1.544,
+      "max": 1.553,
+      "tolerance_max": null,
+      "tolerance_min": null,
+      "otl": false,
+      "spot_reading": true,
+      "note": "1.54(S)"
+    }
+  ],
+  "birefringence": {
+    "min": 0.009,
+    "max": 0.009,
+    "note": null
+  },
+  "polariscope": {
+    "type": ["DR"],
+    "note": "U+"
+  },
+  "pleochroism": {
+    "type": "이색성",
+    "note": null
+  },
+  "inclusions": ["갈색이나 황색의 루틸 침상 내포물", "액체 내포물", "크리스털"],
+  "absorption_spectrums": [],
+  "uv_fluorescences": [],
+  "specific_gravity": {
+    "value": 2.66,
+    "tolerance_max": 0.03,
+    "tolerance_min": -0.02,
+    "note": null
+  },
+  "cleavage": ["패각상"],
+  "fracture": "없음",
+  "hardness": {
+    "min": 7.0,
+    "max": 7.0,
+    "note": null
+  },
+  "is_synthetic": false,
+  "is_treated": false,
+  "treatment_types": [],
+  "comment": "육안으로도 쉽게 관찰되는 루틸 침상 내포물이 특징인 수정."
+},
+{
+  "id": 76,
+  "korean_name": "밀키 쿼츠",
+  "english_name": "Milky Quartz",
+  "category": "Quartz",
+  "group": null,
+  "crystal_system": "삼방정계(육방정계)",
+  "color": ["백색"],
+  "transparency": {
+    "transparency": ["STP", "TL"],
+    "note": null
+  },
+  "lustre": ["유리광택"],
+  "special_effects": [],
+  "refractive_indexs": [
+    {
+      "min": 1.544,
+      "max": 1.553,
+      "tolerance_max": null,
+      "tolerance_min": null,
+      "otl": false,
+      "spot_reading": true,
+      "note": "1.54(S). 매우 일정함"
+    }
+  ],
+  "birefringence": {
+    "min": 0.009,
+    "max": 0.009,
+    "note": null
+  },
+  "polariscope": {
+    "type": ["DR", "AGG"],
+    "note": "U+, 투명도에 따라 다르다"
+  },
+  "pleochroism": {
+    "type": "없음",
+    "note": null
+  },
+  "inclusions": [
+    "뿌연 액체 내포물",
+    "크리스털"
+  ],
+  "absorption_spectrums": [],
+  "uv_fluorescences": [],
+  "specific_gravity": {
+    "value": 2.66,
+    "tolerance_max": 0.03,
+    "tolerance_min": -0.02,
+    "note": null
+  },
+  "cleavage": ["패각상"],
+  "fracture": "없음",
+  "hardness": {
+    "min": 7.0,
+    "max": 7.0,
+    "note": null
+  },
+  "is_synthetic": false,
+  "is_treated": false,
+  "treatment_types": [],
+  "comment": "백색의 수정으로 일반적으로 탁한 외관."
+},
+{
+    "id": 77,
+    "korean_name": "로즈 쿼츠",
+    "english_name": "Rose Quartz",
+    "category": "Quartz",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["핑크"],
+    "transparency": {
+        "transparency": ["STP", "TL"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.544,
+            "max": 1.553,
+            "tolerance_max": 1.553,
+            "tolerance_min": 1.544,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.54(S), 매우 일정함"
+        }
+    ],
+    "birefringence": {
+        "min": 0.009,
+        "max": 0.009,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["DR", "AGG"],
+        "note": "U+, 투명도에 따라 다름"
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": [
+        "뿌연 액체 내포물", "크리스털"
+    ],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.66,
+        "tolerance_max": 0.03,
+        "tolerance_min": -0.02,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": null,
+    "hardness": {
+        "min": 7.0,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "핑크색의 수정으로 일반적으로 색이 옅다."
+},
+{
+    "id": 78,
+    "korean_name": "스타 쿼츠",
+    "english_name": "Star Quartz",
+    "category": "Quartz",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["무색", "연갈색", "핑크색"],
+    "transparency": {
+        "transparency": ["TP", "STP", "TL"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": ["A"],
+    "refractive_indexs": [
+        {
+            "min": 1.544,
+            "max": 1.553,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.009,
+        "max": 0.009,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["DR", "AGG"],
+        "note": "U+, TP ~ STP쿼츠에서는 교차된 편광 필터 하에서 집광봉의 도움이 없이도 불스아이(Bull's Eye) 현상 나타남"
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": [
+        "미세 침상 내포물", "컬러 조닝", "액체 내포물", "네거티브 크리스털"
+    ],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": "일반적으로 무반응"
+            },
+            "SW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": "일반적으로 무반응"
+            }
+        },
+        {
+            "LW": {
+                "color": "Dark Purple",
+                "intensity": ["None", "Faint"],
+                "note": "스타 로즈쿼츠"
+            },
+            "SW": {
+                "color": "Dark Purple",
+                "intensity": ["None", "Faint"],
+                "note": "스타 로즈쿼츠"
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 2.66,
+        "tolerance_max": 0.03,
+        "tolerance_min": -0.02,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": null,
+    "hardness": {
+        "min": 7.0,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "색상에 관계없이 미세 침상 내포물로 6줄기 스타효과, 다른 스타석들에 비해 투명도가 좋다."
+},
+{
+    "id": 79,
+    "korean_name": "어벤츄린 쿼츠",
+    "english_name": "Aventurine Quartz",
+    "category": "Quartz",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["녹색"],
+    "transparency": {
+        "transparency": ["TL"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": ["Av"],
+    "refractive_indexs": [
+        {
+            "min": 1.544,
+            "max": 1.553,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.009,
+        "max": 0.009,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": [
+        "미세하고 불규칙적으로 분포된 녹색의 알갱이", " 판상의 크롬(녹색) 운모", "흑색 결정체"
+    ],
+    "absorption_spectrums": [
+         {
+      "color": null,
+      "lines": [],
+      "bands": ["649nm", "682nm"],
+      "cutoff": [],
+      "note": "녹색의 운모 내포물에 의한 밴드"
+    }
+    ],
+    "uv_fluorescences": [
+        {
+      "LW": {
+        "color": "Red",
+        "intensity": ["None", "Faint"],
+        "note": null
+      },
+      "SW": {
+        "color": "Red",
+        "intensity": ["None", "Faint"],
+        "note": null
+      }
+    }
+    ],
+    "specific_gravity": {
+        "value": 2.66,
+        "tolerance_max": 0.03,
+        "tolerance_min": -0.02,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": null,
+    "hardness": {
+        "min": 7.0,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "첼시 컬러필터에서 녹색 운모 양에 따라 핑크~적색 반응 나타남"
+},
+{
+  "id": 80,
+  "korean_name": "염색 녹색 쿼츠",
+  "english_name": "Dyed Green Quartz",
+  "category": "Quartz",
+  "group": null,
+  "crystal_system": "삼방정계(육방정계)",
+  "color": ["녹색"],
+  "transparency": {
+    "transparency": ["STP", "TL"],
+    "note": null
+  },
+  "lustre": ["유리광택"],
+  "special_effects": [],
+  "refractive_indexs": [
+    {
+      "min": 1.544,
+      "max": 1.553,
+      "tolerance_max": null,
+      "tolerance_min": null,
+      "otl": false,
+      "spot_reading": true,
+      "note": "1.54(S)"
+    }
+  ],
+  "birefringence": {
+    "min": 0.009,
+    "max": 0.009,
+    "note": null
+  },
+  "polariscope": {
+    "type": ["DR", "AGG"],
+    "note": null
+  },
+  "pleochroism": {
+    "type": "없음",
+    "note": null
+  },
+  "inclusions": [
+    "균열면의 색소 침투 흔적"
+  ],
+  "absorption_spectrums": [
+    {
+      "color": null,
+      "lines": [],
+      "bands": ["650nm"],
+      "cutoff": [],
+      "note": "적색부위 중심 흡수 밴드"
+    }
+  ],
+  "uv_fluorescences": [],
+  "specific_gravity": {
+    "value": 2.66,
+    "tolerance_max": 0.03,
+    "tolerance_min": -0.02,
+    "note": null
+  },
+  "cleavage": ["패각상"],
+  "fracture": "없음",
+  "hardness": {
+    "min": 7.0,
+    "max": 7.0,
+    "note": null
+  },
+  "is_synthetic": false,
+  "is_treated": true,
+  "treatment_types": ["염색"],
+  "comment": "에메랄드 모방은 DR(백수정), 비취 모방은 AGG(쿼차이트) 반응. 확대검사와 650nm 흡수밴드로 확인."
+},
+{
+  "id": 81,
+  "korean_name": "타이거즈 아이",
+  "english_name": "Tiger's-Eye",
+  "category": "Quartz",
+  "group": null,
+  "crystal_system": "삼방정계(육방정계)",
+  "color": ["갈색", "갈황색"],
+  "transparency": {
+    "transparency": ["STL", "O"],
+    "note": null
+  },
+  "lustre": ["유리광택"],
+  "special_effects": ["C"],
+  "refractive_indexs": [
+    {
+      "min": 1.544,
+      "max": 1.553,
+      "tolerance_max": null,
+      "tolerance_min": null,
+      "otl": false,
+      "spot_reading": true,
+      "note": "1.54(S)"
+    }
+  ],
+  "birefringence": {
+    "min": 0.009,
+    "max": 0.009,
+    "note":"일반적으로 감지되지 않음"
+  },
+  "polariscope": {
+    "type": ["없음"],
+    "note": null
+  },
+  "pleochroism": {
+    "type": "없음",
+    "note": null
+  },
+  "inclusions": [
+    "파도상의 섬유상 구조"
+  ],
+  "absorption_spectrums": [],
+  "uv_fluorescences": [],
+  "specific_gravity": {
+    "value": 2.66,
+    "tolerance_max": 0.03,
+    "tolerance_min": -0.02,
+    "note": null
+  },
+  "cleavage": ["목쇄상", "패각상"],
+  "fracture": null,
+  "hardness": {
+    "min": 7.0,
+    "max": 7.0,
+    "note": null
+  },
+  "is_synthetic": false,
+  "is_treated": false,
+  "treatment_types": [],
+  "comment": "내부에 있는 물결치는 듯한 곡선의 섬유상 내포물로 인해 캐츠아이 효과가 나타난다."
+},
+{
+  "id": 82,
+  "korean_name": "혹스아이",
+  "english_name": "Hawk's-Eye",
+  "category": "Quartz",
+  "group": null,
+  "crystal_system": "삼방정계(육방정계)",
+  "color": ["청색", "회청색"],
+  "transparency": {
+    "transparency": ["STL", "O"],
+    "note": null
+  },
+  "lustre": ["유리광택"],
+  "special_effects": ["C"],
+  "refractive_indexs": [
+    {
+      "min": 1.544,
+      "max": 1.553,
+      "tolerance_max": null,
+      "tolerance_min": null,
+      "otl": false,
+      "spot_reading": true,
+      "note": "1.54(S)"
+    }
+  ],
+  "birefringence": {
+    "min": 0.009,
+    "max": 0.009,
+    "note": "일반적으로 감지되지 않음"
+  },
+  "polariscope": {
+    "type": ["없음"],
+    "note": null
+  },
+  "pleochroism": {
+    "type": "없음",
+    "note": null
+  },
+  "inclusions": [
+    "파도상의 섬유상 구조"
+  ],
+  "absorption_spectrums": [],
+  "uv_fluorescences": [],
+  "specific_gravity": {
+    "value": 2.66,
+    "tolerance_max": 0.03,
+    "tolerance_min": -0.02,
+    "note": null
+  },
+  "cleavage": ["패각상"],
+  "fracture": "없음",
+  "hardness": {
+    "min": 7.0,
+    "max": 7.0,
+    "note": null
+  },
+  "is_synthetic": false,
+  "is_treated": false,
+  "treatment_types": [],
+  "comment": "청회색 타이거즈아이. 곡선의 섬유상 구조로 인한 캐츠아이 효과."
+},
+{
+  "id": 83,
+  "korean_name": "아이올라이트",
+  "english_name": "Iolite",
+  "category": "Iolite",
+  "group": null,
+  "crystal_system": "사방정계",
+  "color": ["청자색", "청색"],
+  "transparency": {
+    "transparency": ["TP","STP", "TL"],
+    "note": null
+  },
+  "lustre": ["유리광택"],
+  "special_effects": [],
+  "refractive_indexs": [
+    {
+      "min": 1.542,
+      "max": 1.551,
+      "tolerance_max": 0.045,
+      "tolerance_min": -0.011,
+      "otl": false,
+      "spot_reading": false,
+      "note": null
+    }
+  ],
+  "birefringence": {
+    "min": 0.008,
+    "max": 0.012,
+    "note": null
+  },
+  "polariscope": {
+    "type": ["DR"],
+    "note": "B-"
+  },
+  "pleochroism": {
+    "type": "삼색성",
+    "note": "밝은 자색, 어두운 자색, 황색"
+  },
+  "inclusions": [
+    "침상 내포물", "크리스털", "백색의 눈꽃상 내포물"
+  ],
+  "absorption_spectrums": [
+    {
+      "color": null,
+      "lines": [],
+      "bands": ["426nm", "645nm"],
+      "cutoff": [],
+      "note": null
+    }
+  ],
+  "uv_fluorescences": [],
+  "specific_gravity": {
+    "value": 2.61,
+    "tolerance_max": 0.05,
+    "tolerance_min": -0.05,
+    "note": null
+  },
+  "cleavage": ["불균일상", "패각상"],
+  "fracture": "1방향 명료",
+  "hardness": {
+    "min": 7.0,
+    "max": 7.5,
+    "note": null
+  },
+  "is_synthetic": false,
+  "is_treated": false,
+  "treatment_types": [],
+  "comment": "외관·굴절률·비중이 자수정과 유사해 광학부호(아이올라이트 : B- / 자수정 : U+)로 구별. 강한 삼색성이 자수정의 이색성과 확실히 다르다."
+},
+{
+  "id": 84,
+  "korean_name": "호박",
+  "english_name": "Amber",
+  "category": "Amber",
+  "group": null,
+  "crystal_system": "비결정질",
+  "color": ["황색", "적황색", "갈색"],
+  "transparency": {
+    "transparency": ["TP", "STP", "TL", "STL", "O"],
+    "note": "투명 또는 아투명한 호박과 반투명한 황색의 호박이 있다"
+  },
+  "lustre": ["수지광택","유리광택"],
+  "special_effects": [],
+  "refractive_indexs": [
+    {
+      "min": 1.540,
+      "max": 1.540,
+      "tolerance_max": 0.005,
+      "tolerance_min": -0.001,
+      "otl": false,
+      "spot_reading": true,
+      "note": "1.54(S)"
+    }
+  ],
+  "birefringence": {
+    "min": null,
+    "max": null,
+    "note": "없음"
+  },
+  "polariscope": {
+    "type": ["SR", "ADR"],
+    "note": null
+  },
+  "pleochroism": {
+    "type": "없음",
+    "note": null
+  },
+  "inclusions": [
+    "선 스팽글(sun spangle),",
+    "기포",
+    "흐름선",
+    "곤충, 식물 등의 내포물"
+  ],
+  "absorption_spectrums": [],
+  "uv_fluorescences": [
+    {
+        "LW": {
+            "color": "Bluish-White, White, Blue, Yellow, Green, Yellowish-Green, Orange-Yellow",
+            "intensity": ["Faint", "Medium", "Strong"],
+            "note": "다양한 강도, 다양한 색"
+        },
+        "SW": {
+            "color": null,
+            "intensity": ["None", "Faint"],
+            "note": "반응 약함"
+        }
+    },
+    {
+        "LW": {
+            "color": "Blue",
+            "intensity": ["Strong"],
+            "note": "버마, 도미니카 공화국 일부 호박"
+        },
+        "SW": {
+            "color": null,
+            "intensity": ["None", "Faint"],
+            "note": null
+        }
+    }
+  ],
+  "specific_gravity": {
+    "value": 1.08,
+    "tolerance_max": 0.02,
+    "tolerance_min": -0.08,
+    "note": "천연 호박은 포화염수(1.13)에 뜬다. 모조 호박 플라스틱(1.30, +0.25/-0.25)은 가라앉는다."
+  },
+  "cleavage": ["패각상"],
+  "fracture": null,
+  "hardness": {
+    "min": 2.0,
+    "max": 2.5,
+    "note": null
+  },
+  "is_synthetic": false,
+  "is_treated": false,
+  "treatment_types": [],
+  "comment": "포화염수(1.13)에서 뜨고 플라스틱(1.30)은 가라앉아 비중검사 필수. 투명~반투명 황색 외관"
+},
+{
+    "id": 85,
+    "korean_name": "선스톤",
+    "english_name": "Sunstone",
+    "category": "oligoclase",
+    "group": "Feldspar",
+    "crystal_system": "삼사정계",
+    "color": ["황색", "갈색", "적황색"],
+    "transparency": {
+        "transparency": ["STP", "TL", "STL"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": ["Av"],
+    "refractive_indexs": [
+        {
+            "min": 1.539,
+            "max": 1.547,
+            "tolerance_max": 0.004,
+            "tolerance_min": -0.006,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.007,
+        "max": 0.010,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["적갈색의 금속성 판상 내포물(금운모)"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.65,
+        "tolerance_max": 0.02,
+        "tolerance_min": -0.03,
+        "note": null
+    },
+    "cleavage": ["불균일상", "목쇄상"],
+    "fracture": "2방향(1방향 완전, 1방향 명료)",
+    "hardness": {
+        "min": 6.0,
+        "max": 6.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "적갈색 금속성 판상 내포물(금운모)에 의한 어벤츄레센스 특수효과가 특징적임"
+},
+{
+    "id": 86,
+    "korean_name": "크리소프레이즈",
+    "english_name": "Chrysoprase",
+    "category": "chalcedony",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["녹색","녹황색"],
+    "transparency": {
+        "transparency": ["STP", "TL"],
+        "note": null
+    },
+    "lustre": ["지방광택", "유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.534,
+            "max": 1.540,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S) 또는 1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.004,
+        "max": 0.004,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["색의 농담"],
+    "absorption_spectrums": [
+        {
+            "color": null,
+            "lines": [],
+            "bands": ["645nm-684nm"],
+            "cutoff": [],
+            "note": null
+        }
+    ],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "칼세도니의 약한 황색감 녹색 변종. 굴절률, 비중, 프랙처 검사로 감별. 프랙처의 광택은 덜(dull)에서 드물게는 왁스(waxy) 광택을 보임"
 }
 
     ]
