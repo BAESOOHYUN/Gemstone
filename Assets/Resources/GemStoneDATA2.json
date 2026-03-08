@@ -7718,6 +7718,840 @@
     "is_treated": false,
     "treatment_types": [],
     "comment": "칼세도니의 약한 황색감 녹색 변종. 굴절률, 비중, 프랙처 검사로 감별. 프랙처의 광택은 덜(dull)에서 드물게는 왁스(waxy) 광택을 보임"
+},
+{
+    "id": 87,
+    "korean_name": "크리소콜라",
+    "english_name": "Chrysocolla",
+    "category": "chalcedony",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["청록색"],
+    "transparency": {
+        "transparency": ["TL", "STL"],
+        "note": null
+    },
+    "lustre": ["지방광택","유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.530,
+            "max": 1.540,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S) 또는 1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.004,
+        "max": 0.004,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["백색 내포물", "흑색 내포물"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "크리소프레이즈와 혼동되는 경우가 많으나 크리소콜라는 외관이 청색감을 띤 녹색으로 균일한 상태로 나타나는 경우보다는 불균일한 외관을 보이는 경우가 많다"
+},
+{
+    "id": 88,
+    "korean_name": "염색 녹색 칼세도니",
+    "english_name": "Dyed Green Chalcedony",
+    "category": "chalcedony",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["청색감을 띤 녹색"],
+    "transparency": {
+        "transparency": ["TL"],
+        "note": null
+    },
+    "lustre": ["지방광택", "유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.530,
+            "max": 1.540,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S) 또는 1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.004,
+        "max": 0.004,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["특징적이지 않음"],
+    "absorption_spectrums": [
+        {
+            "color": null,
+            "lines": ["645nm","670nm"],
+            "bands": [],
+            "cutoff": [],
+            "note": null
+        }
+    ],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": true,
+    "treatment_types": ["염색"],
+    "comment": "일반적으로 외관의 색상은 청색감을 띤 녹색. 첼시 컬러필터 검사시 적색 반응을 나타냄으로 크리소프레이즈와 구별하는데 도움이 된다."
+},
+{
+    "id": 89,
+    "korean_name": "사드",
+    "english_name": "Sard",
+    "category": "chalcedony",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["적갈색", "갈황색", "오렌지색"],
+    "transparency": {
+        "transparency": ["STP", "TL"],
+        "note": null
+    },
+    "lustre": ["유리광택", "지방광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.530,
+            "max": 1.540,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S) 또는 1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.004,
+        "max": 0.004,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["특징적이지 않음"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "커닐리언(carnelian)역시 아투명에서 반투명한 칼세도니의 변종이며 사드와 거의 색은 같으나 사드보다 밝고 선명한 것이 특징이다"
+},
+{
+    "id": 90,
+    "korean_name": "사도닉스",
+    "english_name": "Sardonyx",
+    "category": "chalcedony",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["적갈색", "갈황색", "오렌지색"],
+    "transparency": {
+        "transparency": ["STP", "TL", "STL"],
+        "note": null
+    },
+    "lustre": ["유리광택", "지방광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.530,
+            "max": 1.540,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S) 또는 1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.004,
+        "max": 0.004,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["적갈색과 백색의 직선적인 줄무늬(밴딩)"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": true,
+    "treatment_types": ["염색"],
+    "comment": "사도닉스는 적갈색 바탕에 거의 직선적인 백색 밴드가 있는 칼세도니이다."
+},
+{
+    "id": 91,
+    "korean_name": "아게이트",
+    "english_name": "Agate",
+    "category": "chalcedony",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["회색" ,"갈색", "황색", "다양하다"],
+    "transparency": {
+        "transparency": ["TL"],
+        "note": null
+    },
+    "lustre": ["유리광택", "지방광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.530,
+            "max": 1.540,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S) 또는 1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.004,
+        "max": 0.004,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["곡선적인 밴드", "각진 밴드"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": true,
+    "treatment_types": ["염색"],
+    "comment": "칼세도니 중 다양한 바탕색에 곡선적·각진 줄무늬 밴드가 특징이며, 사도닉스(직선적 밴드)와 구별됨"
+},
+{
+    "id": 92,
+    "korean_name": "모스 아게이트",
+    "english_name": "Moss Agate",
+    "category": "chalcedony",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["무색", "백색", "녹색"],
+    "transparency": {
+        "transparency": ["STP", "TL"],
+        "note": null
+    },
+    "lustre": ["유리광택", "지방광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.530,
+            "max": 1.540,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S) 또는 1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.004,
+        "max": 0.004,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["녹색의 이끼 형태의 내포물"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "칼세도니 중 이끼나 나뭇가지 모양의 녹색 내포물이 특징적인 아게이트 변종"
+},
+{
+    "id": 93,
+    "korean_name": "덴드리틱 아게이트",
+    "english_name": "Dendritic Agate",
+    "category": "chalcedony",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["백색", "황색"],
+    "transparency": {
+        "transparency": ["STP", "TL"],
+        "note": null
+    },
+    "lustre": ["유리광택", "지방광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.530,
+            "max": 1.540,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S) 또는 1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.004,
+        "max": 0.004,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["나뭇가지 형태의 수지상 내포물"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "칼세도니 중 고사리나 나무줄기 모양의 수지상 내포물이 특징이며 모스 아게이트(이끼 모양)와 구별됨"
+},
+{
+    "id": 94,
+    "korean_name": "파이어 아게이트",
+    "english_name": "Fire Agate",
+    "category": "chalcedony",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["적갈색"],
+    "transparency": {
+        "transparency": ["TL","STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": ["I"],
+    "refractive_indexs": [
+        {
+            "min": 1.535,
+            "max": 1.539,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S) 또는 1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.004,
+        "max": 0.004,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": "투명도에 따라 다르다."
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["무지개색의 포도상 구조"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "파이어 아게이트는 적갈색으로 포도상 구조를 보이며 무지개색을 띠는 이리데센스(iridescence) 특수 효과를 지닌 보석이다."
+},
+{
+    "id": 95,
+    "korean_name": "오닉스",
+    "english_name": "Onyx",
+    "category": "chalcedony",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["흑색"],
+    "transparency": {
+        "transparency": ["O"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.535,
+            "max": 1.539,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S) 또는 1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.004,
+        "max": 0.004,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["프랙처 검사시 덜(dull)한 광택이 보인다."],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": true,
+    "treatment_types": ["염색"],
+    "comment": "오닉스는 엄격히 평행한 백색·흑색 밴드가 있는 칼세도니를 의미하나, 일반적으로 흑색 불투명 칼세도니 전체를 지칭하며 대부분 착색 처리로 만들어진다."
+},
+{
+    "id": 96,
+    "korean_name": "블러드스톤",
+    "english_name": "Bloodstone",
+    "category": "chalcedony",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["어두운 녹색"],
+    "transparency": {
+        "transparency": ["STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.535,
+            "max": 1.539,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S) 또는 1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.004,
+        "max": 0.004,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["적색 반점"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "녹색 칼세도니 바탕에 붉은 반점(철분 산화물)이 분포된 혈석"
+},
+{
+    "id": 97,
+    "korean_name": "재스퍼",
+    "english_name": "Jasper",
+    "category": "chalcedony",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["적갈색", "황갈색"],
+    "transparency": {
+        "transparency": ["O"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.535,
+            "max": 1.539,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S) 또는 1.54(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.004,
+        "max": 0.004,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["다결정질의 불균일한 구조"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.60,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["패각상", "입상"],
+    "fracture": null,
+    "hardness": {
+        "min": 6.5,
+        "max": 7.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": true,
+    "treatment_types": ["염색"],
+    "comment": "벽옥은 다결정질 혼합 구조로 불순물 내포로 인해 외관·비중이 다양하며, 가장 흔한 색상은 연한 황갈색과 짙은 적갈색이다"
+},
+{
+    "id": 98,
+    "korean_name": "진주",
+    "english_name": "Pearl",
+    "category": "Pearl",
+    "group": null,
+    "crystal_system": "비정질",
+    "color": ["백색", "핑크", "크림", "회색", "흑색"],
+    "transparency": {
+        "transparency": ["TL", "STL"],
+        "note": null
+    },
+    "lustre": ["진주광택"],
+    "special_effects": ["O"],
+    "refractive_indexs": [
+        {
+            "min": 1.530,
+            "max": 1.686,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53-1.68(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.155,
+        "max": 0.155,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": "투명도에 따라 다르다."
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["네이커 층(진주층)에 의한 표면의 등고선상 구조"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.71,
+        "tolerance_max": 0.19,
+        "tolerance_min": -0.16,
+        "note": "해수 진주 : 2.61 ~ 2.85, 담수 진주 : 2.66 ~ 2.78(몇몇은 2.74이상)"
+    },
+    "cleavage": ["불균일상"],
+    "fracture": null,
+    "hardness": {
+        "min": 2.5,
+        "max": 4.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "진주의 주요 검사는 외관과 비중이며, 중량감으로 플라스틱 모조진주(가벼움)와 유리 모조진주(무거움)를 구별할 수 있다."
+},
+{
+    "id": 99,
+    "korean_name": "모조 진주",
+    "english_name": "Imitation Pearl",
+    "category": null,
+    "group": null,
+    "crystal_system": "비정질",
+    "color": ["백색", "핑크", "크림", "회색", "흑색"],
+    "transparency": {
+        "transparency": ["TL", "STL"],
+        "note": null
+    },
+    "lustre": ["진주광택"],
+    "special_effects": ["O"],
+    "refractive_indexs": [
+        {
+            "min": null,
+            "max": null,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "다양하다"
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["SR", "ADR", "AGG", "없음"],
+        "note": "투명도에 따라 다르다."
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["표면의 점적인 요철 구조"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.30,
+        "tolerance_max": 1.20,
+        "tolerance_min": -2.20,
+        "note": "플라스틱:1.05~1.55, 유리:2.22~2.27"
+    },
+    "cleavage": [],
+    "fracture": null,
+    "hardness": {
+        "min": 5.0,
+        "max": 6.0,
+        "note": null
+    },
+    "is_synthetic": true,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "모조 진주는 탄산염, 유리, 플라스틱 핵 위에 인위적 코팅층을 입힌 것으로, 확대 검사에서 불규칙한 코팅 흔적과 드릴 주변 코팅 박리 현상이 진주와 구별 특징이다."
+},
+{
+    "id": 100,
+    "korean_name": "셸",
+    "english_name": "Shell",
+    "category": "Shell",
+    "group": null,
+    "crystal_system": "비정질",
+    "color":  ["백색", "핑크", "크림", "회색", "흑색"],
+    "transparency": {
+        "transparency": ["TL","STL", "O"],
+        "note": null
+    },
+    "lustre": ["진주광택"],
+    "special_effects": ["O"],
+    "refractive_indexs": [
+        {
+            "min": 1.530,
+            "max": 1.686,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53-1.68(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.155,
+        "max": 0.155,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": "투명도에 따라 다르다"
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["평행한 밴드 구조", "표면의 등고선상 구조"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.85,
+        "tolerance_max": 0.03,
+        "tolerance_min": -0.16,
+        "note": null
+    },
+    "cleavage": ["불균일상", "목쇄상"],
+    "fracture": null,
+    "hardness": {
+        "min": 3.5,
+        "max": 3.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "셸은 유기질 탄산염 보석으로 진주광택과 오리엔트 효과를 보이는 모패(mother of pearl)이며, 헬멧 셸은 카메오 바닥면의 물결치는 구조로 특징짓는다."
 }
 
     ]
