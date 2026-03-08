@@ -8552,6 +8552,852 @@
     "is_treated": false,
     "treatment_types": [],
     "comment": "셸은 유기질 탄산염 보석으로 진주광택과 오리엔트 효과를 보이는 모패(mother of pearl)이며, 헬멧 셸은 카메오 바닥면의 물결치는 구조로 특징짓는다."
+},
+{
+    "id": 101,
+    "korean_name": "아마조나이트",
+    "english_name": "Amazonite",
+    "category": "feldspar",
+    "group": null,
+    "crystal_system": "삼사정계",
+    "color": ["녹청색","청색"],
+    "transparency": {
+        "transparency": ["TL", "STL","O"],
+        "note": null
+    },
+    "lustre": ["유리광택","지방광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.522,
+            "max": 1.530,
+            "tolerance_max": 0.004,
+            "tolerance_min": -0.004,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.53(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.008,
+        "max": 0.008,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG"],
+        "note": "투명도에 따라 다르다"
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["얼룩진 색상", "격자상 무늬", "백색의 층상구조"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "황색을 띤 녹색",
+                "intensity": ["None", "Faint"],
+                "note": null
+            },
+            "SW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": "무반응"
+            }
+        }],
+    "specific_gravity": {
+        "value": 2.56,
+        "tolerance_max": 0.02,
+        "tolerance_min": -0.02,
+        "note": null
+    },
+    "cleavage": ["불균일상","목쇄상"],
+    "fracture": "2방향(1방향 완전, 1방향 명료)",
+    "hardness": {
+        "min": 6.0,
+        "max": 6.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": true,
+    "treatment_types": [],
+    "comment": "미사장석(마이크로클라인)의 청록색 변종으로 격자무늬와 완전한 벽개가 특징"
+},
+{
+    "id": 102,
+    "korean_name": "문스톤",
+    "english_name": "Moonstone",
+    "category": "orthoclase",
+    "group": "feldspar",
+    "crystal_system": "단사정계",
+    "color": ["무색", "유백색", "회색", "옅은 오렌지색"],
+    "transparency": {
+        "transparency": ["TP", "STL"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": ["Ad"],
+    "refractive_indexs": [
+        {
+            "min": 1.518,
+            "max": 1.526,
+            "tolerance_max": 0.010,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.52(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.005,
+        "max": 0.008,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR", "AGG"],
+        "note": "B-, 투명도에 따라 다르다"
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["지네상 내포물", "반복 쌍정", "침상 내포물"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "청색",
+                "intensity": ["None", "Faint"],
+                "note": null
+            },
+            "SW": {
+                "color": "오렌지색",
+                "intensity": ["None", "Faint"],
+                "note": null
+            }
+        },
+         {
+            "LW": {
+                "color": "핑크, 적색",
+                "intensity": ["None", "Faint"],
+                "note": null
+            },
+            "SW": {
+                "color": "핑크, 적색",
+                "intensity": ["None", "Faint"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 2.58,
+        "tolerance_max": 0.03,
+        "tolerance_min": -0.03,
+        "note": null
+    },
+    "cleavage": ["불균일상","목쇄상"],
+    "fracture": "2방향(1방향 완전, 1방향 명료)",
+    "hardness": {
+        "min": 6.0,
+        "max": 6.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "문스톤은 전형적인 아둘라레센스(Ad) 특수효과를 보이며, 내부 교차 균열로 인한 지네 형태 내포물이 있을 수 있으나 항상 관찰되지는 않는다."
+},
+{
+    "id": 103,
+    "korean_name": "문스톤 캐츠아이",
+    "english_name": "Moonstone Cats-Eye",
+    "category": "orthoclase",
+    "group": "feldspar",
+    "crystal_system": "단사정계",
+    "color": ["무색", "유백색", "회색", "옅은 오렌지색"],
+    "transparency": {
+        "transparency": ["TP", "STL"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": ["Ad", "C"],
+    "refractive_indexs": [
+        {
+            "min": 1.520,
+            "max": 1.528,
+            "tolerance_max": 0.010,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.52(S)"
+        }
+    ],
+    "birefringence": {
+        "min": 0.005,
+        "max": 0.008,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR", "AGG"],
+        "note": "B-, 투명도에 따라 다르다"
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["지네상 내포물", "반복 쌍정", "침상 내포물"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+          {
+            "LW": {
+                "color": "청색",
+                "intensity": ["None", "Faint"],
+                "note": null
+            },
+            "SW": {
+                "color": "오렌지색",
+                "intensity": ["None", "Faint"],
+                "note": null
+            }
+        },
+         {
+            "LW": {
+                "color": "핑크, 적색",
+                "intensity": ["None", "Faint"],
+                "note": null
+            },
+            "SW": {
+                "color": "핑크, 적색",
+                "intensity": ["None", "Faint"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 2.58,
+        "tolerance_max": 0.03,
+        "tolerance_min": -0.03,
+        "note": null
+    },
+    "cleavage": ["불균일상","목쇄상"],
+    "fracture": "2방향 완전",
+    "hardness": {
+        "min": 6.0,
+        "max": 6.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "문스톤에 아둘라레센스(Ad)와 캐츠아이(C) 효과가 동시에 나타나는 희귀한 변종"
+},
+{
+    "id": 104,
+    "korean_name": "라피스 라줄리",
+    "english_name": "Lapis Lazuli",
+    "category": "Lapis Lazuli",
+    "group": null,
+    "crystal_system": "입방정계",
+    "color": ["청색", "청남색"],
+    "transparency": {
+        "transparency": ["STL", "O"],
+        "note": null
+    },
+    "lustre": ["왁스광택","유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.500,
+            "max": 1.670,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "1.50(S) 또는 1.67(S) (방해석에 의해) 근처에서 흐리게 읽힌다."
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": [],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["황철석 입자(금빛 반점)", "방해석(백색 반점)"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "핑크색",
+                "intensity": ["Medium"],
+                "note": "방해석 내포물"
+            },
+            "SW": {
+                "color": "녹색 또는 황색감을 띤 녹색",
+                "intensity": ["Faint", "Medium"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 2.75,
+        "tolerance_max": 0.25,
+        "tolerance_min": -0.25,
+        "note": null
+    },
+    "cleavage": ["입상", "불균일상"],
+    "fracture": null,
+    "hardness": {
+        "min": 5.0,
+        "max": 6.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "라피스 라줄리는 4종의 광물이 혼합된 집합체 광물로 12월의 탄생석이다"
+},
+{
+    "id": 105,
+    "korean_name": "몰다바이트",
+    "english_name": "Moldavite",
+    "category": "tektite",
+    "group": null,
+    "crystal_system": "비정질",
+    "color": ["녹색","어두운 회색감을 띠는 녹색"],
+    "transparency": {
+        "transparency": ["TP", "STP", "TL"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.490,
+            "max": 1.490,
+            "tolerance_max": 0.020,
+            "tolerance_min": -0.010,
+            "otl": true,
+            "spot_reading": true,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["SR", "ADR"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["둥글거나 긴 기포", "흐름선"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.36,
+        "tolerance_max": 0.04,
+        "tolerance_min": -0.04,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": null,
+   "hardness": {
+        "min": 5.5,
+        "max": 5.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "운석 충돌로 형성된 텍타이트(운석유리)로 기포와 흐름선, 녹색 유리질 외관이 특징이며 체코 몰다우 지역 특산"
+},
+{
+    "id": 106,
+    "korean_name": "옵시디언",
+    "english_name": "Obsidian",
+    "category": "volcanic glass",
+    "group": null,
+    "crystal_system": "비정질",
+    "color": ["흑색", "갈색", "회색"],
+    "transparency": {
+        "transparency": ["TP", "STP", "TL", "STL","O"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.490,
+            "max": 1.490,
+            "tolerance_max": 0.020,
+            "tolerance_min": -0.010,
+            "otl": true,
+            "spot_reading": true,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["SR", "ADR", "없음"],
+        "note": "투명도에 따라 다르다."
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["기포", "짧은 침상", "수많은 방향성 있는 내포물에 의한 윤(sheen)"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.40,
+        "tolerance_max": 0.10,
+        "tolerance_min": -0.07,
+        "note": null
+    },
+    "cleavage": [],
+    "fracture": "패각상",
+    "hardness": {
+        "min": 5.0,
+        "max": 5.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "옵시디언은 천연 유리의 대표종으로, 독특한 설화상(snowflake)은 외관으로도 쉽게 인지가 되며, 아파치티어(apache tears)는 회갈색의 투명~반투명 옵시디언 변종이다"
+},
+{
+    "id": 107,
+    "korean_name": "칼사이트",
+    "english_name": "Calcite",
+    "category": "Calcite",
+    "group": null,
+    "crystal_system": "삼방정계(육방정계)",
+    "color": ["무색", "백색"],
+    "transparency": {
+        "transparency": ["TP","STP","TL","STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택","지방광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.486,
+            "max": 1.658,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": true,
+            "spot_reading": true,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": 0.172,
+        "max": 0.172,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["DR", "AGG", "없음"],
+        "note": "U-, 투명도에 따라 다르다"
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["더블링(doubling) 현상"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.70,
+        "tolerance_max": 0.05,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["입상","불균일상","목쇄상"],
+    "fracture": "3방향 완전",
+    "hardness": {
+        "min": 3.0,
+        "max": 3.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "방해석은 경도 3의 낮은 탄산염 보석으로 굴절률, 비중, 확대 검사에서 투명체는 더블링 현상이 쉽게 관찰되는 것이 주요 감별 특징이다"
+},
+{
+    "id": 108,
+    "korean_name": "산호",
+    "english_name": "Coral",
+    "category": "Coral",
+    "group": null,
+    "crystal_system": "비정질",
+    "color": ["백색", "분홍색", "적색", "주황색"],
+    "transparency": {
+        "transparency": ["STL", "O"],
+        "note": null
+    },
+    "lustre": ["왁스광택","유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.486,
+            "max": 1.658,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": true,
+            "spot_reading": true,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": 0.172,
+        "max": 0.172,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["AGG","없음"],
+        "note": "투명도에 따라 다르다."
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["폴립 캐비티(polyp cavity)", " 파도 모양의 평행한 섬유상 구조"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": ["오렌지", "핑크색을 띤 오렌지"],
+                "intensity": ["None", "Faint"],
+                "note": "적색, 핑크색의 산호"
+            },
+            "SW": {
+                "color": ["오렌지", "핑크색을 띤 오렌지"],
+                "intensity": ["None", "Faint"],
+                "note": "적색, 핑크색의 산호"
+            }
+        },
+        {
+            "LW": {
+                "color": ["둔한 적색", "자색을 띤 적색"],
+                "intensity": ["Faint"],
+                "note": "어두운 적색의 산호"
+            },
+            "SW": {
+                "color": ["둔한 적색", "자색을 띤 적색"],
+                "intensity": ["None", "Faint"],
+                "note": "어두운 적색의 산호"
+            }
+        }],
+    "specific_gravity": {
+        "value": 2.65,
+        "tolerance_max": 0.05,
+        "tolerance_min": -0.05,
+        "note": null
+    },
+    "cleavage": ["목쇄상", "불균일상"],
+    "fracture": null,
+    "hardness": {
+        "min": 3.5,
+        "max": 4.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "산호는 탄산염 보석으로 강장동물인 산호충이 분비하여 형성된 나뭇가지 모양의 산호초의 일부이다."
+},
+{
+    "id": 109,
+    "korean_name": "소달라이트",
+    "english_name": "Sodalite",
+    "category": "Sodalite",
+    "group": null,
+    "crystal_system": "등축정계",
+    "color": ["청색", "청남색"],
+    "transparency": {
+        "transparency": ["STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택", "지방광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.483,
+            "max": 1.483,
+            "tolerance_max": 0.004,
+            "tolerance_min": -0.004,
+            "otl": true,
+            "spot_reading": true,
+            "note": "1.48(S)"
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": [],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["백색의 줄기"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "오렌지색, 적색",
+                "intensity": ["Strong"],
+                "note": null
+            },
+            "SW": {
+                "color": "오렌지색, 적색",
+                "intensity": ["Strong"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 2.25,
+        "tolerance_max": 0.15,
+        "tolerance_min": -0.10,
+        "note": null
+    },
+    "cleavage": ["불균일상", "아패각상"],
+    "fracture": "6방향에 명료",
+    "hardness": {
+        "min": 5.0,
+        "max": 6.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "소달라이트는 외관상 라피스 라줄리와 유사함으로 굴절률, 비중, 확대 및 형광 검사를 통하여 감별해야 한다"
+},
+{
+    "id": 110,
+    "korean_name": "오팔",
+    "english_name": "Opal",
+    "category": "Opal",
+    "group": null,
+    "crystal_system": "비정질",
+    "color": ["무색", "백색", "회색", "갈색"],
+    "transparency": {
+        "transparency": ["TP", "STP", "TL", "STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택", "수지광택"],
+    "special_effects": ["P"],
+    "refractive_indexs": [
+        {
+            "min": 1.450,
+            "max": 1.450,
+            "tolerance_max": 0.020,
+            "tolerance_min": -0.080,
+            "otl": true,
+            "spot_reading": true,
+            "note": "1.43(S)전후"
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["SR", "ADR", "없음"],
+        "note": "투명도에 따라 다르다."
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["다양한 색상과 형태의 유색효과(play of color)"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.15,
+        "tolerance_max": 0.08,
+        "tolerance_min": -0.90,
+        "note": null
+    },
+    "cleavage": ["패각상","불균일상"],
+    "fracture": null,
+    "hardness": {
+        "min": 5.0,
+        "max": 6.5,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": true,
+    "treatment_types": ["당 처리", "수지 처리"],
+    "comment": "수화 실리카로 구성된 비정질 보석으로 실리카 구체 배열에 의한 플레이 오브 컬러(POC)가 가장 큰 특징. 수분의 증발로 인해 오팔에 크랙이 생길 수 있다."
+},
+{
+    "id": 111,
+    "korean_name": "합성 오팔",
+    "english_name": "Synthetic Opal",
+    "category": "Synthetic Opal",
+    "group": null,
+    "crystal_system": "비정질",
+    "color": ["다양하다"],
+    "transparency": {
+        "transparency": ["STP", "TL", "STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택","수지광택"],
+    "special_effects": ["P"],
+    "refractive_indexs": [
+        {
+            "min": 1.430,
+            "max": 1.470,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": true,
+            "spot_reading": true,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["SR", "ADR", "없음"],
+        "note": "투명도에 따라 다르다."
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["뱀껍질 구조", "측면에서 관찰되는 기둥상 구조"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "청백색에서 황색",
+                "intensity": ["Medium"],
+                "note": "천연 오팔"
+            },
+            "SW": {
+                "color": "청백색에서 황색",
+                "intensity": ["Faint", "Strong"],
+                "note": "천연 오팔"
+            }
+        },
+        {
+            "LW": {
+                "color": "쵸키 블루",
+                "intensity": ["Very Faint", "Faint"],
+                "note": "무색/화이트(처리되지 않음)"
+            },
+            "SW": {
+                "color": "쵸키 블루",
+                "intensity": ["Faint"],
+                "note": "무색/화이트(처리되지 않음)"
+            }
+        },
+        {
+            "LW": {
+                "color": "적색",
+                "intensity": ["Very Strong"],
+                "note": "오렌지(처리되지 않음)"
+            },
+            "SW": {
+                "color": "적색",
+                "intensity": ["Very Strong"],
+                "note": "오렌지(처리되지 않음)"
+            }
+        },
+        {
+            "LW": {
+                "color": "오렌쥐 핑크",
+                "intensity": ["Faint", "Strong"],
+                "note": "자색핑크~오렌지핑크(폴리머)"
+            },
+            "SW": {
+                "color": "오렌쥐 핑크",
+                "intensity": ["Faint", "Medium"],
+                "note": "자색핑크~오렌지핑크(폴리머)"
+            }
+        },
+        {
+            "LW": {
+                "color": "핑크-오렌지",
+                "intensity": ["Medium"],
+                "note": "적색오렌지(폴리머)"
+            },
+            "SW": {
+                "color": "핑크-오렌지",
+                "intensity": ["Faint", "Medium"],
+                "note": "적색오렌지(폴리머)"
+            }
+        },
+        {
+            "LW": {
+                "color": "황색",
+                "intensity": ["Faint"],
+                "note": "오렌지옐로(폴리머)"
+            },
+            "SW": {
+                "color": "오렌지옐로",
+                "intensity": ["Medium", "Strong"],
+                "note": "오렌지옐로(폴리머)"
+            }
+        },
+        {
+            "LW": {
+                "color": "오렌지",
+                "intensity": ["Medium"],
+                "note": "짙은 브라운(폴리머)"
+            },
+            "SW": {
+                "color": "오렌지",
+                "intensity": ["Medium"],
+                "note": "짙은 브라운(폴리머)"
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 1.97,
+        "tolerance_max": 0.23,
+        "tolerance_min": -0.25,
+        "note": "polymer 포함"
+    },
+    "cleavage": ["패각상", "불균일상"],
+    "fracture": null,
+    "hardness": {
+        "min": 4.5,
+        "max": 6.0,
+        "note": null
+    },
+    "is_synthetic": true,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "확대 검사가 천연과 합성 오팔의 주요 구별 방법이며, 형광·인광, 낮은 비중(합성 오팔), 폴리머 주입 여부가 추가 감별 요소이다."
 }
 
     ]
