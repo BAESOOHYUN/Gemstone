@@ -5640,7 +5640,7 @@
         {
             "LW": {
                 "color": "Pink",
-                "intensity": ["None", "Faint", "Medium"],
+                "intensity": ["None", "Faint", "Moderate"],
                 "note": null
             },
             "SW": {
@@ -6350,43 +6350,43 @@
     {
         "LW": {
             "color": "Red",
-            "intensity": ["Medium"],
+            "intensity": ["Moderate"],
             "note": "중국"
         },
         "SW": {
             "color": "Red",
-            "intensity": ["Medium"],
+            "intensity": ["Moderate"],
             "note": "중국"
         }
     },
     {
         "LW": {
             "color": "Red",
-            "intensity": ["Faint", "Medium"],
+            "intensity": ["Faint", "Moderate"],
             "note": "채텀, 길슨 Ⅰ·Ⅱ 장파에서 더 강함"
         },
         "SW": {
             "color": "Red",
-            "intensity": ["Faint", "Medium"],
+            "intensity": ["Faint", "Moderate"],
             "note": "채텀, 길슨 Ⅰ·Ⅱ"
         }
     },
     {
         "LW": {
             "color": "Yellowish-Green, Yellow, Orange",
-            "intensity": ["Faint", "Medium"],
+            "intensity": ["Faint", "Moderate"],
             "note": "길슨 Ⅰ·Ⅱ 일부"
         },
         "SW": {
             "color": "Yellowish-Green, Yellow, Orange",
-            "intensity": ["Faint", "Medium"],
+            "intensity": ["Faint", "Moderate"],
             "note": "길슨 Ⅰ·Ⅱ 일부"
         }
     },
     {
         "LW": {
             "color": "Orangy_Red",
-            "intensity": ["Faint", "Medium"],
+            "intensity": ["Faint", "Moderate"],
             "note": "플럭스 러시아"
         },
         "SW": {
@@ -7553,7 +7553,7 @@
     {
         "LW": {
             "color": "Bluish-White, White, Blue, Yellow, Green, Yellowish-Green, Orange-Yellow",
-            "intensity": ["Faint", "Medium", "Strong"],
+            "intensity": ["Faint", "Moderate", "Strong"],
             "note": "다양한 강도, 다양한 색"
         },
         "SW": {
@@ -8836,12 +8836,12 @@
         {
             "LW": {
                 "color": "핑크색",
-                "intensity": ["Medium"],
+                "intensity": ["Moderate"],
                 "note": "방해석 내포물"
             },
             "SW": {
                 "color": "녹색 또는 황색감을 띤 녹색",
-                "intensity": ["Faint", "Medium"],
+                "intensity": ["Faint", "Moderate"],
                 "note": null
             }
         }
@@ -9298,86 +9298,134 @@
     "uv_fluorescences": [
         {
             "LW": {
-                "color": "청백색에서 황색",
-                "intensity": ["Medium"],
-                "note": "천연 오팔"
+                "color": "청백색, 황색",
+                "intensity": ["Moderate"],
+                "note": "합성 오팔"
             },
             "SW": {
-                "color": "청백색에서 황색",
-                "intensity": ["Faint", "Strong"],
-                "note": "천연 오팔"
+                "color": "청백색, 황색",
+                "intensity": ["Faint", "Moderate", "Strong"],
+                "note": "합성 오팔"
             }
         },
         {
             "LW": {
                 "color": "쵸키 블루",
                 "intensity": ["Very Faint", "Faint"],
-                "note": "무색/화이트(처리되지 않음)"
+                "note": "무색/화이트(처리되지 않은 합성 오팔)"
             },
             "SW": {
                 "color": "쵸키 블루",
                 "intensity": ["Faint"],
-                "note": "무색/화이트(처리되지 않음)"
+                "note": "무색/화이트(처리되지 않은 합성 오팔)"
             }
         },
         {
             "LW": {
                 "color": "적색",
                 "intensity": ["Very Strong"],
-                "note": "오렌지(처리되지 않음)"
+                "note": "오렌지(처리되지 않은 합성 오팔)"
             },
             "SW": {
                 "color": "적색",
                 "intensity": ["Very Strong"],
-                "note": "오렌지(처리되지 않음)"
+                "note": "오렌지(처리되지 않은 합성 오팔)"
             }
         },
         {
             "LW": {
-                "color": "오렌쥐 핑크",
-                "intensity": ["Faint", "Strong"],
-                "note": "자색핑크~오렌지핑크(폴리머)"
+                "color": "오렌지 핑크",
+                "intensity": ["Faint","Moderate","Strong"],
+                "note": "자색핑크~오렌지핑크(폴리머가 주입된 합성 오팔)"
             },
             "SW": {
-                "color": "오렌쥐 핑크",
-                "intensity": ["Faint", "Medium"],
-                "note": "자색핑크~오렌지핑크(폴리머)"
+                "color": "오렌지 핑크",
+                "intensity": ["Faint", "Moderate"],
+                "note": "자색핑크~오렌지핑크(폴리머가 주입된 합성 오팔)"
             }
         },
         {
             "LW": {
-                "color": "핑크-오렌지",
-                "intensity": ["Medium"],
-                "note": "적색오렌지(폴리머)"
+                "color": "오렌지 핑크",
+                "intensity": ["Moderate"],
+                "note": "적색 오렌지(폴리머가 주입된 합성 오팔)"
             },
             "SW": {
-                "color": "핑크-오렌지",
-                "intensity": ["Faint", "Medium"],
-                "note": "적색오렌지(폴리머)"
+                "color": "오렌지 핑크",
+                "intensity": ["Faint", "Moderate"],
+                "note": "적색 오렌지(폴리머가 주입된 합성 오팔)"
             }
         },
         {
             "LW": {
                 "color": "황색",
                 "intensity": ["Faint"],
-                "note": "오렌지옐로(폴리머)"
+                "note": "오렌지 옐로(폴리머가 주입된 합성 오팔)"
             },
             "SW": {
-                "color": "오렌지옐로",
-                "intensity": ["Medium", "Strong"],
-                "note": "오렌지옐로(폴리머)"
+                "color": "오렌지 옐로",
+                "intensity": ["Moderate", "Strong"],
+                "note": "오렌지 옐로(폴리머가 주입된 합성 오팔)"
             }
         },
         {
             "LW": {
                 "color": "오렌지",
-                "intensity": ["Medium"],
-                "note": "짙은 브라운(폴리머)"
+                "intensity": ["Moderate"],
+                "note": "짙은 브라운(폴리머가 주입된 합성 오팔)"
             },
             "SW": {
                 "color": "오렌지",
-                "intensity": ["Medium"],
-                "note": "짙은 브라운(폴리머)"
+                "intensity": ["Moderate"],
+                "note": "짙은 브라운(폴리머가 주입된 합성 오팔)"
+            }
+        },
+        {
+            "LW": {
+                "color": "청색",
+                "intensity": ["None", "Very Faint"],
+                "note": "청색~회색을 띤 청색(폴리머가 주입된  합성 오팔)"
+            },
+            "SW": {
+                "color": "청색",
+                "intensity": ["None", "Very Faint"],
+                "note": "청색~회색을 띤 청색(폴리머가 주입된  합성 오팔)"
+            }
+        },
+        {
+            "LW": {
+                "color": "자색을 띤 청색",
+                "intensity": ["Faint"],
+                "note": "화이트(폴리머가 주입된  합성 오팔)"
+            },
+            "SW": {
+                "color": "청색",
+                "intensity": ["Moderate"],
+                "note": "화이트(폴리머가 주입된  합성 오팔)"
+            }
+        },
+        {
+            "LW": {
+                "color": "녹황색",
+                "intensity": ["Very Faint"],
+                "note": "그레이(폴리머가 주입된  합성 오팔)"
+            },
+            "SW": {
+                "color": "녹황색",
+                "intensity": ["Faint"],
+                "note": "그레이(폴리머가 주입된  합성 오팔)"
+            }
+        },
+        {
+            "LW": {
+                "color": null,
+                "intensity": ["None"],
+                "note": "블랙(폴리머가 주입된  합성 오팔)"
+            },
+            "SW": {
+                "color": "오렌지",
+                "intensity": ["Very Faint"],
+                "note": "블랙(폴리머가 주입된  합성 오팔)"
             }
         }
     ],
@@ -9398,7 +9446,212 @@
     "is_treated": false,
     "treatment_types": [],
     "comment": "확대 검사가 천연과 합성 오팔의 주요 구별 방법이며, 형광·인광, 낮은 비중(합성 오팔), 폴리머 주입 여부가 추가 감별 요소이다."
+},
+{
+    "id": 112,
+    "korean_name": "플루오라이트",
+    "english_name": "Fluorite",
+    "category": "Fluorite",
+    "group": null,
+    "crystal_system": "등축정계",
+    "color": ["무색", "녹색", "보라색", "청색", "청록색", "황색"],
+    "transparency": {
+        "transparency": ["TP"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": [],
+    "refractive_indexs": [
+        {
+            "min": 1.434,
+            "max": 1.434,
+            "tolerance_max": 0.001,
+            "tolerance_min": -0.001,
+            "otl": false,
+            "spot_reading": false,
+            "note": null
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": null
+    },
+    "polariscope": {
+        "type": ["SR", "ADR"],
+        "note": null
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": ["색대", "액체 내포물", "이상 내포물", "삼상 내포물", "벽개"],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [
+        {
+            "LW": {
+                "color": "청색~녹색",
+                "intensity": ["Strong", "Very Strong"],
+                "note": null
+            },
+            "SW": {
+                "color": "청색~녹색",
+                "intensity": ["Strong", "Very Strong"],
+                "note": null
+            }
+        }
+    ],
+    "specific_gravity": {
+        "value": 3.18,
+        "tolerance_max": 0.07,
+        "tolerance_min": -0.18,
+        "note": null
+    },
+    "cleavage": ["패각상", "목쇄상"],
+    "fracture": "4방향 완전",
+    "hardness": {
+        "min": 4.0,
+        "max": 4.0,
+        "note": null
+    },
+    "is_synthetic": false,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "형석은 낮은 경도와 4방향 완전 벽개로 취급 시 주의가 필요하며, 특히 조각품에서는 육안으로도 벽개가 쉽게 확인된다."
+},
+{
+    "id": 113,
+    "korean_name": "인조 유리",
+    "english_name": "Man-made Glass",
+    "category": "synthetic glass",
+    "group": null,
+    "crystal_system": "비정질",
+    "color": ["다양하다"],
+    "transparency": {
+        "transparency": ["TP","STP","TL","STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택"],
+    "special_effects": ["C","CC","Av","P"],
+    "refractive_indexs": [
+        {
+            "min": 1.470,
+            "max": 1.700,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": true,
+            "spot_reading": true,
+            "note": "캐츠아이 효과가 있는 인조 유리는 주로 1.700을 넘으며, 고-납유리(high-lead glass)는 OTL도 가능"
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["SR", "ADR", "AGG"],
+        "note": "투명한 인조유리는 강한 ADR 반응을 주로 보이며, 반투명에서 아반투명의 경우에는 AGG 반응을 주로 보인다"
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": [
+        "구형 또는 타원형 기포",
+        "관 형태 기포", 
+        "길게 늘어진 꼬리형 기포",
+        "반구형 캐비티(연마된 기포 흔적)",
+        "흐름선(flow line)",
+        "날카롭지 않고 둥근 패싯 접합선",
+        "패싯면이 평평하지 않고 패인 표면"
+    ],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 2.30,
+        "tolerance_max": 2.20,
+        "tolerance_min": 0.00,
+        "note": null
+    },
+    "cleavage": ["패각상"],
+    "fracture": null,
+    "hardness": {
+        "min": 5.0,
+        "max": 6.0,
+        "note": null
+    },
+    "is_synthetic": true,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "투명한 모든 색의 인조유리는 기포와 흐름선이 감별 포인트. 반투명한 모든 인조유리. 불투명한 인조유리(메타비취(확대검사 시 고사리 잎줄기 구조), 오닉스 모조(유리광택), 캣차이트(확대검사 시 육각형 벌집구조), 골드스톤(선스톤 모조, 삼각형 구리 금속내포물), 슬로컴 스톤(오팔 모조, 셀로판지 같은 내포물), 빅토리아 스톤(섬유상 구조, 두상조명 관찰시 불꽃이 바람에 휘날리는 형상))"
+},
+{
+    "id": 114,
+    "korean_name": "플라스틱",
+    "english_name": "Plastic",
+    "category": "Plastic",
+    "group": null,
+    "crystal_system": "비정질",
+    "color": ["다양하다"],
+    "transparency": {
+        "transparency": ["TP","STP","TL","STL", "O"],
+        "note": null
+    },
+    "lustre": ["유리광택", "왁스광택"],
+    "special_effects": ["없음","P"],
+    "refractive_indexs": [
+        {
+            "min": 1.460,
+            "max": 1.700,
+            "tolerance_max": 0.000,
+            "tolerance_min": 0.000,
+            "otl": false,
+            "spot_reading": true,
+            "note": "굴절률은 일반적으로 낮음"
+        }
+    ],
+    "birefringence": {
+        "min": null,
+        "max": null,
+        "note": "일반적으로 감지되지 않음"
+    },
+    "polariscope": {
+        "type": ["SR", "ADR", "AGG"],
+        "note": "투명한 플라스틱은 강한 ADR 반응을 주로 보이며, 반투명에서 아반투명의 경우에는 AGG 반응을 주로 보인다."
+    },
+    "pleochroism": {
+        "type": "없음",
+        "note": null
+    },
+    "inclusions": [
+        "흐름선(flow line)",
+        "구형 기포",
+        "타원형 기포", 
+        "길쭉한 관 형태 기포",
+        "길게 늘어진 기포",
+        "반구형 캐비티(연마된 기포 흔적)",
+        "무색 투명 윗면(오팔 모조 플라스틱의 측면 관찰시)"
+    ],
+    "absorption_spectrums": [],
+    "uv_fluorescences": [],
+    "specific_gravity": {
+        "value": 1.30,
+        "tolerance_max": 0.25,
+        "tolerance_min": -0.25,
+        "note": "1.05~1.55(일반적으로 호박을 모조한 플라스틱의 경우 비중 1.13의 포화 염수에 가라앉는다)"
+    },
+    "cleavage": ["패각상", "불균일상"],
+    "fracture": null,
+    "hardness": {
+        "min": 1.5,
+        "max": 3.0,
+        "note": null
+    },
+    "is_synthetic": true,
+    "is_treated": false,
+    "treatment_types": [],
+    "comment": "플라스틱은 낮은 광택과 낮은 연마 상태로 인해 투명한 보석 보다는 반투명에서 불투명한 플라스틱이 흔하다."
 }
-
     ]
 }
