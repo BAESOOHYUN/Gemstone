@@ -27,9 +27,9 @@ public class GemData
     public List<AbsorptionSpectrum> absorption_spectrums;
     public List<UVFluorescence> uv_fluorescences; // "무반응" 일때 null처리
 
-    public SpecificGravity specific_gravity;
-    public List<string> cleavage;
-    public string fracture;
+    public List<SpecificGravity> specific_gravitys;
+    public List<string> fracture;
+    public string cleavage;
 
     public Hardness hardness;
 

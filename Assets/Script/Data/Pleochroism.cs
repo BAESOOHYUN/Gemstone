@@ -1,8 +1,9 @@
 using System;
+using System.Collections.Generic;
 
 [Serializable]
 public class Pleochroism
 {
-    public string type; //"없음", "이색성", "삼색성" 셋 중 하나만 적음
+    public List<string> type; //"없음", "이색성", "삼색성"
     public string note;
 }

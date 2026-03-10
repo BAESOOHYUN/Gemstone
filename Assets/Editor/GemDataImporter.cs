@@ -75,7 +75,7 @@ public class GemDataImporter : EditorWindow
                 absorption_spectrums = jsonGem.absorption_spectrums,
                 uv_fluorescences = jsonGem.uv_fluorescences,
 
-                specific_gravity = jsonGem.specific_gravity,
+                specific_gravitys = jsonGem.specific_gravitys,
                 cleavage = jsonGem.cleavage,
                 fracture = jsonGem.fracture,
 
